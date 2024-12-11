@@ -1,0 +1,1972 @@
+Codigo_do_alimento; Descricao_do_alimento ;Tipo;Codigo_da_preparacao;Descricao_da_preparacao;Colesterol_(mg);AG_Saturados_(g);AG_Mono _(g);AG_Poli_(g);AG_Linoleico_(g);AG_Linolenico_(g);AG_Trans_total_(g);Acucar_total_(g);Acucar_de_adicao_(g)
+6300101;Arroz (polido. parboilizado. agulha. agulhinha. etc.);Cereais e leguminosas;99;Nao se aplica;0;0.35;0.22;0.56;0.56;0.07;0.01;0;0
+6300201;Arroz integral;Cereais e leguminosas;99;Nao se aplica;0;0.45;0.62;0.86;0.8;0.08;0.01;0;0
+6300701;Milho (em grao);Cereais e leguminosas;1;Cru(a);0;1.12;1.72;4.01;3.59;0.42;0.03;3.16;0
+6300701;Milho (em grao);Cereais e leguminosas;2;Cozido(a);0;1.12;1.72;4.01;3.59;0.42;0.03;3.16;0
+6300701;Milho (em grao);Cereais e leguminosas;3;Grelhado(a)/brasa/churrasco;0;1.12;1.72;4.01;3.59;0.42;0.03;3.16;0
+6300701;Milho (em grao);Cereais e leguminosas;4;Assado(a);0;1.12;1.72;4.01;3.59;0.42;0.03;3.16;0
+6300701;Milho (em grao);Cereais e leguminosas;7;Refogado(a);0;1.12;1.72;4.01;3.59;0.42;0.03;3.16;0
+6300701;Milho (em grao);Cereais e leguminosas;13;Ensopado;0;1.12;1.72;4.01;3.59;0.42;0.03;3.16;0
+6300701;Milho (em grao);Cereais e leguminosas;99;Nao se aplica;0;1.12;1.72;4.01;3.59;0.42;0.03;3.16;0
+6300706;Canjiquinha de milho em grao;Cereais e leguminosas;1;Cru(a);0;0.33;0.49;1.22;1.09;0.13;0.01;0.29;0
+6300706;Canjiquinha de milho em grao;Cereais e leguminosas;2;Cozido(a);0;0.03;0.06;0.13;0.12;0;0;0.29;0
+6300706;Canjiquinha de milho em grao;Cereais e leguminosas;13;Ensopado;0;0.33;0.49;1.22;1.09;0.13;0.01;0.29;0
+6300706;Canjiquinha de milho em grao;Cereais e leguminosas;14;Mingau;0;0.03;0.06;0.13;0.12;0;0;0.29;0
+6300706;Canjiquinha de milho em grao;Cereais e leguminosas;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6300706;Canjiquinha de milho em grao;Cereais e leguminosas;99;Nao se aplica;0;0.03;0.06;0.13;0.12;0;0;0.29;0
+6300707;Xerem de milho;Cereais e leguminosas;99;Nao se aplica;0;0.03;0.06;0.13;0.12;0;0;0.29;0
+6301001;Amendoim (em grao) in natura;Cereais e leguminosas;99;Nao se aplica;0;6.83;24.43;15.56;15.56;0;0;4;0
+6301101;Ervilha em grao;Cereais e leguminosas;99;Nao se aplica;0;0.48;0.67;1.74;1.53;0.21;0.02;5.94;0
+6301201;Fava (em grao);Cereais e leguminosas;99;Nao se aplica;0;0.56;0.63;1.85;1.48;0.36;0.01;1.24;0
+6301204;Mangalo amargo em grao;Cereais e leguminosas;99;Nao se aplica;0;0.56;0.63;1.85;1.48;0.36;0.01;1.24;0
+6301603;Feijaodecorda;Cereais e leguminosas;99;Nao se aplica;0;0.53;0.66;1.75;1.5;0.26;0.02;0.34;0
+6301634;Feijaoverde;Cereais e leguminosas;99;Nao se aplica;0;0.53;0.66;1.75;1.5;0.26;0.02;0.34;0
+6302001;Semente de linhaca;Cereais e leguminosas;99;Nao se aplica;0;3.66;7.53;28.73;5.9;22.81;0;1.55;0
+6302602;Andu;Cereais e leguminosas;99;Nao se aplica;0;0.3;0.38;1.01;0.86;0.15;0.01;0.3;0
+6302801;Grao de bico;Cereais e leguminosas;99;Nao se aplica;0;0.7;1.21;2.76;2.52;0.23;0.02;1.7;0
+6302901;Lentilha;Cereais e leguminosas;99;Nao se aplica;0;0.41;0.59;1.5;1.31;0.19;0.01;0.39;0
+6303001;Soja em grao;Cereais e leguminosas;99;Nao se aplica;0;1.71;2.58;6.59;5.81;0.78;0.01;0.8;0
+6303102;Feijao (preto. mulatinho. roxo. rosinha. etc.);Cereais e leguminosas;99;Nao se aplica;0;0.3;0.38;1.01;0.86;0.15;0.01;0.3;0
+6303501;Quirera nao especificada;Cereais e leguminosas;99;Nao se aplica;0;0.03;0.06;0.13;0.12;0;0;0.29;0
+6304034;Feijaoverde organico;Cereais e leguminosas;99;Nao se aplica;0;0.53;0.66;1.75;1.5;0.26;0.02;0.34;0
+6304101;Feijao organico;Cereais e leguminosas;99;Nao se aplica;0;0.3;0.38;1.01;0.86;0.15;0.01;0.3;0
+6304201;Pipoca  light;Cereais e leguminosas;99;Nao se aplica;0;3.75;9.36;3.72;3.64;0.09;4.2;0.72;0
+6304301;Arroz  organico;Cereais e leguminosas;99;Nao se aplica;0;0.35;0.22;0.56;0.56;0.07;0.01;0;0
+6304401;Arroz integral organico;Cereais e leguminosas;99;Nao se aplica;0;0.45;0.62;0.86;0.8;0.08;0.01;0;0
+6304602;Feijaodesoja organico;Cereais e leguminosas;99;Nao se aplica;0;1.71;2.58;6.59;5.81;0.78;0.01;0.8;0
+6304901;Quinoa;Cereais e leguminosas;99;Nao se aplica;0;0.6;1.06;2.44;2.17;0.25;0.01;1.89;0
+6400101;Batatainglesa;Hortalicas tuberosas;1;Cru(a);0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400101;Batatainglesa;Hortalicas tuberosas;2;Cozido(a);0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400101;Batatainglesa;Hortalicas tuberosas;3;Grelhado(a)/brasa/churrasco;0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400101;Batatainglesa;Hortalicas tuberosas;4;Assado(a);0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400101;Batatainglesa;Hortalicas tuberosas;5;Frito(a);0;2.15;3.07;7.85;6.92;0.93;0.07;1.44;0
+6400101;Batatainglesa;Hortalicas tuberosas;7;Refogado(a);0;0.48;0.67;1.72;1.52;0.21;0.02;0.86;0
+6400101;Batatainglesa;Hortalicas tuberosas;8;Molho vermelho;0;0.03;0.01;0.05;0.04;0.01;0;1.54;0
+6400101;Batatainglesa;Hortalicas tuberosas;9;Molho branco;6.83;1.55;0.64;0.15;0.12;0.03;0.1;1.72;0
+6400101;Batatainglesa;Hortalicas tuberosas;10;Ao alho e oleo;0;2.15;3.07;7.85;6.92;0.93;0.07;1.44;0
+6400101;Batatainglesa;Hortalicas tuberosas;11;Com manteiga/oleo;0;0.48;0.67;1.72;1.52;0.21;0.02;0.86;0
+6400101;Batatainglesa;Hortalicas tuberosas;13;Ensopado;0;0.48;0.67;1.72;1.52;0.21;0.02;0.86;0
+6400101;Batatainglesa;Hortalicas tuberosas;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6400101;Batatainglesa;Hortalicas tuberosas;99;Nao se aplica;0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400303;Mandioquinha salsa (batatabaroa);Hortalicas tuberosas;2;Cozido(a);0;0.03;0;0.06;0.06;0;0;5.74;0
+6400303;Mandioquinha salsa (batatabaroa);Hortalicas tuberosas;7;Refogado(a);0;0.29;0.41;1.09;0.97;0.12;0;5.74;0
+6400303;Mandioquinha salsa (batatabaroa);Hortalicas tuberosas;13;Ensopado;0;0.29;0.41;1.09;0.97;0.12;0;5.74;0
+6400303;Mandioquinha salsa (batatabaroa);Hortalicas tuberosas;99;Nao se aplica;0;0.03;0;0.06;0.06;0;0;5.74;0
+6400304;Cenoura amarela (batatabaroa);Hortalicas tuberosas;99;Nao se aplica;0;0.03;0;0.06;0.06;0;0;5.74;0
+6400401;Batatadoce;Hortalicas tuberosas;1;Cru(a);0;0.03;0;0.06;0.06;0;0;5.74;0
+6400401;Batatadoce;Hortalicas tuberosas;2;Cozido(a);0;0.03;0;0.06;0.06;0;0;5.74;0
+6400401;Batatadoce;Hortalicas tuberosas;4;Assado(a);0;0.03;0;0.06;0.06;0;0;6.47;0
+6400401;Batatadoce;Hortalicas tuberosas;5;Frito(a);0;1.85;2.83;7.22;6.39;0.83;0;18.43;0
+6400401;Batatadoce;Hortalicas tuberosas;7;Refogado(a);0;0.29;0.41;1.09;0.97;0.12;0;5.74;0
+6400401;Batatadoce;Hortalicas tuberosas;13;Ensopado;0;0.29;0.41;1.09;0.97;0.12;0;5.74;0
+6400401;Batatadoce;Hortalicas tuberosas;99;Nao se aplica;0;0.03;0;0.06;0.06;0;0;5.74;0
+6400501;Inhame;Hortalicas tuberosas;1;Cru(a);0;0.03;0.01;0.05;0.04;0.01;0;6.47;0
+6400501;Inhame;Hortalicas tuberosas;2;Cozido(a);0;0.03;0.01;0.05;0.04;0.01;0;6.47;0
+6400501;Inhame;Hortalicas tuberosas;4;Assado(a);0;0.03;0;0.06;0.06;0;0;6.47;0
+6400501;Inhame;Hortalicas tuberosas;5;Frito(a);0;0.28;0.42;1.08;0.95;0.13;0;6.47;0
+6400501;Inhame;Hortalicas tuberosas;7;Refogado(a);0;0.28;0.42;1.08;0.95;0.13;0;6.47;0
+6400501;Inhame;Hortalicas tuberosas;13;Ensopado;0;0.28;0.42;1.08;0.95;0.13;0;6.47;0
+6400501;Inhame;Hortalicas tuberosas;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6400508;Quicare;Hortalicas tuberosas;99;Nao se aplica;0;0.03;0.01;0.05;0.04;0.01;0;6.47;0
+6400601;Mandioca;Hortalicas tuberosas;1;Cru(a);0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400601;Mandioca;Hortalicas tuberosas;2;Cozido(a);0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400601;Mandioca;Hortalicas tuberosas;4;Assado(a);0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400601;Mandioca;Hortalicas tuberosas;5;Frito(a);0;0.87;1.23;2.97;2.58;0.35;0.03;0;0
+6400601;Mandioca;Hortalicas tuberosas;7;Refogado(a);0;0.87;1.23;2.97;2.58;0.35;0.03;0;0
+6400601;Mandioca;Hortalicas tuberosas;8;Molho vermelho;0;0.09;0.09;0.09;0.05;0.01;0;0.85;0
+6400601;Mandioca;Hortalicas tuberosas;11;Com manteiga/oleo;10.75;2.66;1.15;0.25;0.18;0.03;0.16;0.01;0
+6400601;Mandioca;Hortalicas tuberosas;13;Ensopado;0;0.87;1.23;2.97;2.58;0.35;0.03;0;0
+6400601;Mandioca;Hortalicas tuberosas;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6400601;Mandioca;Hortalicas tuberosas;99;Nao se aplica;0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400609;Aipim;Hortalicas tuberosas;2;Cozido(a);0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400609;Aipim;Hortalicas tuberosas;4;Assado(a);0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400609;Aipim;Hortalicas tuberosas;5;Frito(a);0;0.87;1.23;2.97;2.58;0.35;0.03;0;0
+6400609;Aipim;Hortalicas tuberosas;6;Empanado(a)/a milanesa;0;0.87;1.23;2.97;2.58;0.35;0.03;0;0
+6400609;Aipim;Hortalicas tuberosas;7;Refogado(a);0;0.87;1.23;2.97;2.58;0.35;0.03;0;0
+6400609;Aipim;Hortalicas tuberosas;8;Molho vermelho;0;0.09;0.09;0.09;0.05;0.01;0;0.85;0
+6400609;Aipim;Hortalicas tuberosas;11;Com manteiga/oleo;10.75;2.66;1.15;0.25;0.18;0.03;0.16;0.01;0
+6400609;Aipim;Hortalicas tuberosas;13;Ensopado;0;0.87;1.23;2.97;2.58;0.35;0.03;0;0
+6400609;Aipim;Hortalicas tuberosas;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6400609;Aipim;Hortalicas tuberosas;99;Nao se aplica;0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400610;Macaxeira;Hortalicas tuberosas;1;Cru(a);0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400610;Macaxeira;Hortalicas tuberosas;2;Cozido(a);0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400610;Macaxeira;Hortalicas tuberosas;4;Assado(a);0;0.1;0.1;0.1;0.05;0.01;0;0;0
+6400610;Macaxeira;Hortalicas tuberosas;5;Frito(a);0;0.87;1.23;2.97;2.58;0.35;0.03;0;0
+6400701;Cara;Hortalicas tuberosas;2;Cozido(a);0;0.03;0.01;0.05;0.04;0.01;0;6.47;0
+6400701;Cara;Hortalicas tuberosas;5;Frito(a);0;0.28;0.42;1.08;0.95;0.13;0;6.47;0
+6400701;Cara;Hortalicas tuberosas;7;Refogado(a);0;0.28;0.42;1.08;0.95;0.13;0;6.47;0
+6400701;Cara;Hortalicas tuberosas;13;Ensopado;0;0.28;0.42;1.08;0.95;0.13;0;6.47;0
+6400701;Cara;Hortalicas tuberosas;14;Mingau;0;0.03;0.01;0.05;0.04;0.01;0;6.47;0
+6400701;Cara;Hortalicas tuberosas;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6400713;Inhame caraquento (cara);Hortalicas tuberosas;2;Cozido(a);0;0.03;0.01;0.05;0.04;0.01;0;6.47;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;1;Cru(a);0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;2;Cozido(a);0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;3;Grelhado(a)/brasa/churrasco;0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;4;Assado(a);0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;5;Frito(a);0;2.15;3.07;7.85;6.92;0.93;0.07;1.44;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;7;Refogado(a);0;0.48;0.67;1.72;1.52;0.21;0.02;0.86;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;8;Molho vermelho;0;0.03;0.01;0.05;0.04;0.01;0;1.54;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;9;Molho branco;6.83;1.55;0.64;0.15;0.12;0.03;0.1;1.72;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;12;Ao vinagrete;0;0.48;0.67;1.72;1.52;0.21;0.02;0.86;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;13;Ensopado;0;0.48;0.67;1.72;1.52;0.21;0.02;0.86;0
+6400802;Batata (nao especificada);Hortalicas tuberosas;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6400802;Batata (nao especificada);Hortalicas tuberosas;99;Nao se aplica;0;0.03;0;0.04;0.03;0.01;0;0.86;0
+6400908;Mandioquinha;Hortalicas tuberosas;2;Cozido(a);0;0.03;0;0.06;0.06;0;0;5.74;0
+6400908;Mandioquinha;Hortalicas tuberosas;5;Frito(a);0;0.75;1.17;2.95;2.61;0.34;0;5.45;0
+6400908;Mandioquinha;Hortalicas tuberosas;7;Refogado(a);0;0.29;0.41;1.09;0.97;0.12;0;5.74;0
+6400908;Mandioquinha;Hortalicas tuberosas;13;Ensopado;0;0.29;0.41;1.09;0.97;0.12;0;5.74;0
+6401001;Rabanete;Hortalicas tuberosas;1;Cru(a);0;0.03;0.02;0.05;0.02;0.03;0;0.92;0
+6401001;Rabanete;Hortalicas tuberosas;2;Cozido(a);0;0.03;0.02;0.05;0.02;0.03;0;2.89;0
+6401001;Rabanete;Hortalicas tuberosas;12;Ao vinagrete;0;0.03;0.02;0.05;0.02;0.03;0;2.89;0
+6401101;Beterraba;Hortalicas tuberosas;1;Cru(a);0;0.03;0.03;0.06;0.06;0.01;0;6.5;0
+6401101;Beterraba;Hortalicas tuberosas;2;Cozido(a);0;0.03;0.04;0.06;0.06;0.01;0;8.8;0
+6401101;Beterraba;Hortalicas tuberosas;7;Refogado(a);0;0.41;0.66;1.61;1.42;0.19;0;8.8;0
+6401101;Beterraba;Hortalicas tuberosas;12;Ao vinagrete;0;0.03;0.04;0.06;0.06;0.01;0;8.8;0
+6401101;Beterraba;Hortalicas tuberosas;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6401101;Beterraba;Hortalicas tuberosas;99;Nao se aplica;0;0.03;0.03;0.06;0.06;0.01;0;6.5;0
+6401201;Cenoura;Hortalicas tuberosas;1;Cru(a);0;0.04;0.01;0.12;0.12;0;0;4.73;0
+6401201;Cenoura;Hortalicas tuberosas;2;Cozido(a);0;0.03;0.01;0.09;0.09;0;0;3.46;0
+6401201;Cenoura;Hortalicas tuberosas;5;Frito(a);0;0.46;0.7;1.82;1.61;0.2;0;3.36;0
+6401201;Cenoura;Hortalicas tuberosas;7;Refogado(a);0;0.46;0.7;1.82;1.61;0.2;0;3.36;0
+6401201;Cenoura;Hortalicas tuberosas;8;Molho vermelho;0;0.03;0.01;0.09;0.08;0;0;3.62;0
+6401201;Cenoura;Hortalicas tuberosas;10;Ao alho e oleo;0;0.46;0.7;1.82;1.61;0.2;0;3.36;0
+6401201;Cenoura;Hortalicas tuberosas;11;Com manteiga/oleo;6.52;1.59;0.64;0.18;0.17;0.01;0.1;3.46;0
+6401201;Cenoura;Hortalicas tuberosas;12;Ao vinagrete;0;0.03;0.01;0.09;0.09;0;0;3.46;0
+6401201;Cenoura;Hortalicas tuberosas;13;Ensopado;0;0.46;0.7;1.82;1.61;0.2;0;3.36;0
+6401201;Cenoura;Hortalicas tuberosas;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6401201;Cenoura;Hortalicas tuberosas;99;Nao se aplica;0;0.04;0.01;0.12;0.12;0;0;4.73;0
+6401301;Nabo;Hortalicas tuberosas;2;Cozido(a);0;0.01;0.01;0.04;0.01;0.03;0;1.89;0
+6401301;Nabo;Hortalicas tuberosas;7;Refogado(a);0;0.46;0.67;1.72;1.49;0.23;0.02;1.89;0
+6401601;Acafrao;Hortalicas tuberosas;1;Cru(a);0;1.59;0.43;2.07;0.75;1.24;0;0;0
+6401801;Batatainglesa organica;Hortalicas tuberosas;5;Frito(a);0;2.15;3.07;7.85;6.92;0.93;0.07;1.44;0
+6500101;Creme de arroz;Farinhas. feculas e massas;99;Nao se aplica;9.63;1.84;0.83;0.23;0.15;0.08;0.11;17.4;12.33
+6500104;Arrozina;Farinhas. feculas e massas;99;Nao se aplica;9.63;1.84;0.83;0.23;0.15;0.08;0.11;17.4;12.33
+6500105;Mucilon;Farinhas. feculas e massas;99;Nao se aplica;6.02;1.35;0.89;0.56;0.5;0.06;0.23;7.2;2.08
+6500108;Mingau de arroz;Farinhas. feculas e massas;99;Nao se aplica;9.63;1.84;0.83;0.23;0.15;0.08;0.11;17.4;12.33
+6500202;Croquinhos de arroz;Farinhas. feculas e massas;99;Nao se aplica;0;0.7;1.1;2.56;2.5;0.06;0;0.86;0
+6500301;Farinha de aveia;Farinhas. feculas e massas;99;Nao se aplica;0;1.11;1.98;2.3;2.2;0.1;0;1.57;0
+6500401;Aveia em flocos;Farinhas. feculas e massas;99;Nao se aplica;0;1.11;1.98;2.3;2.2;0.1;0;1.57;0
+6500601;Fuba de milho;Farinhas. feculas e massas;99;Nao se aplica;0;0.03;0.05;0.08;0.08;0;0;0.52;0
+6500603;Farinha de milho;Farinhas. feculas e massas;99;Nao se aplica;0;0.4;0.4;0.6;0.63;0.02;0;0;0
+6500608;Puba de milho;Farinhas. feculas e massas;99;Nao se aplica;82;4.5;3.9;1.5;1.34;0.08;1.99;8.27;5.68
+6500609;Puba de fuba;Farinhas. feculas e massas;99;Nao se aplica;82;4.5;3.9;1.5;1.34;0.08;1.99;8.27;5.68
+6500613;Milho moido;Farinhas. feculas e massas;2;Cozido(a);0;1.12;1.72;4.01;3.59;0.42;0.03;3.16;0
+6500614;Mingau de milho;Farinhas. feculas e massas;99;Nao se aplica;6.02;1.35;0.89;0.56;0.5;0.06;0.23;7.2;2.08
+6500702;Amido de milho;Farinhas. feculas e massas;99;Nao se aplica;6.02;1.35;0.89;0.56;0.5;0.06;0.23;7.2;2.08
+6500705;Amido de arroz;Farinhas. feculas e massas;99;Nao se aplica;9.63;1.84;0.83;0.23;0.15;0.08;0.11;17.4;12.33
+6500801;Cremogema;Farinhas. feculas e massas;99;Nao se aplica;6.02;1.35;0.89;0.56;0.5;0.06;0.23;7.2;2.08
+6500802;Vitamilho;Farinhas. feculas e massas;99;Nao se aplica;0;0.04;0.03;0.09;0.08;0;0;0.72;0
+6500804;Creme de milho;Farinhas. feculas e massas;99;Nao se aplica;6.02;1.35;0.89;0.56;0.5;0.06;0.23;7.2;2.08
+6500902;Sucrilhos de milho;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;38.02;38.67
+6500903;Cereal matinal de milho em flocos;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;38.02;38.67
+6501301;Germe de trigo;Farinhas. feculas e massas;99;Nao se aplica;0;1.67;1.37;6.01;5.29;0.72;0;8.7;0
+6501303;Fibra de trigo;Farinhas. feculas e massas;99;Nao se aplica;0;0.63;0.64;2.21;2.04;0.17;0;1.6;0
+6501304;Fibra de cereal trigo;Farinhas. feculas e massas;99;Nao se aplica;0;0.63;0.64;2.21;2.04;0.17;0;1.6;0
+6501401;Farinha de mandioca;Farinhas. feculas e massas;99;Nao se aplica;0;0.1;0.1;0;0.03;0.01;0.1;0;0
+6501410;Farinha de copioba;Farinhas. feculas e massas;99;Nao se aplica;0;0.1;0.1;0;0.03;0.01;0.1;0;0
+6501415;Farinha d_agua;Farinhas. feculas e massas;99;Nao se aplica;0;0.1;0.1;0;0.03;0.01;0.1;0;0
+6501416;Cruera;Farinhas. feculas e massas;99;Nao se aplica;0;0.1;0.1;0;0.03;0.01;0.1;0;0
+6501502;Goma de mandioca;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6501505;Sagu de mandioca;Farinhas. feculas e massas;99;Nao se aplica;63.11;1.99;1.21;0.35;0.25;0.07;0.1;13.2;8.6
+6501510;Farinha de tapioca;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6501511;Farinha beiju;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6501515;Sagu de tapioca;Farinhas. feculas e massas;99;Nao se aplica;63.11;1.99;1.21;0.35;0.25;0.07;0.1;13.2;8.6
+6501516;Tapioca de goma;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6502001;Farinha lactea;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6502101;Neston;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6502102;Flocos de cereais;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6502105;Vitaflocos;Farinhas. feculas e massas;99;Nao se aplica;6.02;1.35;0.89;0.56;0.5;0.06;0.23;7.2;2.08
+6502403;Mini pizza semipronta;Farinhas. feculas e massas;1;Cru(a);11.05;3.28;2.11;2.33;2.04;0.29;0.1;1.73;0.58
+6502403;Mini pizza semipronta;Farinhas. feculas e massas;2;Cozido(a);11.05;3.28;2.11;2.33;2.04;0.29;0.1;1.73;0.58
+6502403;Mini pizza semipronta;Farinhas. feculas e massas;4;Assado(a);11.05;3.28;2.11;2.33;2.04;0.29;0.1;1.73;0.58
+6502403;Mini pizza semipronta;Farinhas. feculas e massas;5;Frito(a);11.05;3.28;2.11;2.33;2.04;0.29;0.1;1.73;0.58
+6502403;Mini pizza semipronta;Farinhas. feculas e massas;99;Nao se aplica;11.05;3.28;2.11;2.33;2.04;0.29;0.1;1.73;0.58
+6502501;Fibra de soja;Farinhas. feculas e massas;99;Nao se aplica;0;0.29;0.44;1.13;1;0.13;0;0.21;0
+6502603;Minipastel;Farinhas. feculas e massas;99;Nao se aplica;61.19;3.16;4.24;7.28;6.41;0.81;0.07;0.36;0
+6503401;Macarrao ;Farinhas. feculas e massas;1;Cru(a);0;0.18;0.13;0.32;0.3;0.02;0;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;2;Cozido(a);0;0.18;0.13;0.32;0.3;0.02;0;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;3;Grelhado(a)/brasa/churrasco;0;0.18;0.13;0.32;0.3;0.02;0;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;4;Assado(a);0;0.18;0.13;0.32;0.3;0.02;0;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;5;Frito(a);0;0.68;0.87;2.19;1.95;0.24;0.02;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;6;Empanado(a)/a milanesa;0;0.68;0.87;2.19;1.95;0.24;0.02;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;7;Refogado(a);0;0.68;0.87;2.19;1.95;0.24;0.02;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;8;Molho vermelho;3.64;0.97;0.43;0.25;0.22;0.02;0.06;1.94;0
+6503401;Macarrao ;Farinhas. feculas e massas;9;Molho branco;6.83;1.67;0.74;0.37;0.33;0.04;0.1;1.48;0
+6503401;Macarrao ;Farinhas. feculas e massas;10;Ao alho e oleo;0;0.68;0.87;2.19;1.95;0.24;0.02;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;11;Com manteiga/oleo;7.26;1.91;0.84;0.42;0.39;0.04;0.11;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;12;Ao vinagrete;0;0.18;0.13;0.32;0.3;0.02;0;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;13;Ensopado;0;0.68;0.87;2.19;1.95;0.24;0.02;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;15;Sopa;0;0.18;0.13;0.32;0.3;0.02;0;0.56;0
+6503401;Macarrao ;Farinhas. feculas e massas;99;Nao se aplica;0;0.18;0.13;0.32;0.3;0.02;0;0.56;0
+6503501;Pure de batata;Farinhas. feculas e massas;99;Nao se aplica;11.45;2.71;1.11;0.2;0.17;0.03;0.17;1.22;0
+6503601;Bife vegetal;Farinhas. feculas e massas;99;Nao se aplica;0;0.83;1.16;3.02;2.67;0.35;0.03;0.22;0
+6503603;Carne vegetal;Farinhas. feculas e massas;5;Frito(a);0;0.83;1.16;3.02;2.67;0.35;0.03;0.22;0
+6503604;Pasta de soja;Farinhas. feculas e massas;99;Nao se aplica;0;0.41;0.54;1.49;1.31;0.18;0;1.27;0
+6503605;Carne de soja;Farinhas. feculas e massas;99;Nao se aplica;0;0.83;1.16;3.02;2.67;0.35;0.03;0.22;0
+6503702;Amendoim moido;Farinhas. feculas e massas;99;Nao se aplica;0;6.83;24.43;15.56;15.56;0;0;4;0
+6504101;Granola ;Farinhas. feculas e massas;99;Nao se aplica;0;0.71;3.21;1.66;1.55;0.09;0;26.22;19.32
+6504601;Musli;Farinhas. feculas e massas;99;Nao se aplica;0;0.71;3.21;1.66;1.55;0.09;0;26.22;19.32
+6504701;Mix de cereais;Farinhas. feculas e massas;99;Nao se aplica;0;0.71;3.21;1.66;1.55;0.09;0;26.22;19.32
+6504801;Miojo;Farinhas. feculas e massas;99;Nao se aplica;8.28;2.36;1.82;2.49;2.21;0.28;0.2;4.48;1.73
+6504802;Macarrao instantaneo;Farinhas. feculas e massas;99;Nao se aplica;8.28;2.36;1.82;2.49;2.21;0.28;0.2;4.48;1.73
+6505101;Sustagem;Farinhas. feculas e massas;99;Nao se aplica;12.33;0.32;0.13;0.02;0.01;0.01;0.03;57.58;32.26
+6505601;Proteina de soja;Farinhas. feculas e massas;99;Nao se aplica;0;0.83;1.16;3.02;2.67;0.35;0.03;0.22;0
+6505603;Proteina vegetal;Farinhas. feculas e massas;99;Nao se aplica;0;0.83;1.16;3.02;2.67;0.35;0.03;0.22;0
+6505701;Complemento alimentar de qualquer sabor;Farinhas. feculas e massas;99;Nao se aplica;12.33;0.32;0.13;0.02;0.01;0.01;0.03;57.58;32.26
+6505902;Sucrilhos de milho light;Farinhas. feculas e massas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6506003;Mini pizza semipronta light;Farinhas. feculas e massas;4;Assado(a);21.88;5.12;2.36;0.43;0.34;0.09;0.17;2.19;0.44
+6506302;Macarrao instantaneo light;Farinhas. feculas e massas;15;Sopa;8.28;2.36;1.82;2.49;2.21;0.28;0.2;4.48;1.73
+6506302;Macarrao instantaneo light;Farinhas. feculas e massas;99;Nao se aplica;8.28;2.36;1.82;2.49;2.21;0.28;0.2;4.48;1.73
+6506401;Proteina de soja organica;Farinhas. feculas e massas;99;Nao se aplica;0;0.83;1.16;3.02;2.67;0.35;0.03;0.22;0
+6573225;Macarrao com carne;Farinhas. feculas e massas;99;Nao se aplica;9.43;0.74;0.83;0.83;0.73;0.09;0.08;1.4;0.16
+6573226;Macarrao com peixe;Farinhas. feculas e massas;99;Nao se aplica;34;0.72;0.87;2.16;1.63;0.22;0.02;0.28;0
+6600101;Cocodabaia (seco ou verde);Cocos. castanhas e nozes;99;Nao se aplica;0;29.7;1.43;0.37;0.37;0;0;3.5;0
+6600301;Castanha portuguesa;Cocos. castanhas e nozes;99;Nao se aplica;0;0.26;0.48;0.55;0.49;0.06;0;4.15;0
+6600401;Pinhao;Cocos. castanhas e nozes;99;Nao se aplica;0;0.3;0.1;0.2;0.22;0;0;0;0
+6600501;Amendoa;Cocos. castanhas e nozes;99;Nao se aplica;0;3.88;32.16;12.21;12.21;0;0;4.8;0
+6600601;Avela;Cocos. castanhas e nozes;99;Nao se aplica;0;4.46;45.65;7.92;7.83;0.09;0;4.84;0
+6600701;Castanhadopara;Cocos. castanhas e nozes;99;Nao se aplica;0;15.14;24.55;20.58;20.54;0.04;0;2.33;0
+6600801;Castanha de caju;Cocos. castanhas e nozes;99;Nao se aplica;0;9.16;27.32;7.84;7.66;0.16;0;6.2;0
+6600912;Butia;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6601108;Tucuma;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6601208;Coco de mucaja;Cocos. castanhas e nozes;99;Nao se aplica;0;7.1;25.3;6.5;6.18;0.3;0;0;0
+6601501;Noz (nogueira);Cocos. castanhas e nozes;99;Nao se aplica;0;6.13;8.93;47.17;38.09;9.08;0;2.6;0
+6601706;Acai ;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6601707;Jucara;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6601709;Uacai;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6601712;Jussara;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6601805;Pupunha;Cocos. castanhas e nozes;99;Nao se aplica;0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6601902;Bacaba;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6601904;Bacabucu;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6602001;Castanhadaindia;Cocos. castanhas e nozes;99;Nao se aplica;0;15.14;24.55;20.58;20.54;0.04;0;2.33;0
+6602201;Pistache;Cocos. castanhas e nozes;99;Nao se aplica;0;5.44;23.32;13.46;13.2;0.25;0;7.64;0
+6602301;Buriti ;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6602401;Coco ;Cocos. castanhas e nozes;99;Nao se aplica;0;29.7;1.43;0.37;0.37;0;0;3.5;0
+6602601;Pataua ;Cocos. castanhas e nozes;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6700101;Alface;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.02;0.01;0.08;0.02;0.06;0;0.79;0
+6700201;Bertalha;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.41;0.59;1.57;1.3;0.26;0;0.89;0
+6700301;Chicoria;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.05;0;0.09;0.08;0.01;0;0.5;0
+6700301;Chicoria;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.6;0.83;2.21;1.86;0.34;0.02;0.9;0
+6700301;Chicoria;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.6;0.83;2.21;1.86;0.34;0.02;0.9;0
+6700301;Chicoria;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.6;0.83;2.21;1.86;0.34;0.02;0.9;0
+6700304;Escarola;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.56;0.81;2.13;1.88;0.26;0;0.65;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.06;0.03;0.2;0.08;0.11;0;1.63;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;5;Frito(a);0;0.39;0.58;1.56;1.29;0.26;0;1.41;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.39;0.58;1.56;1.29;0.26;0;1.41;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;8;Molho vermelho;0;0.04;0.03;0.15;0.07;0.08;0;1.98;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;10;Ao alho e oleo;0;0.39;0.58;1.56;1.29;0.26;0;1.41;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;11;Com manteiga/oleo;5.35;1.33;0.55;0.25;0.14;0.1;0.08;1.41;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.39;0.58;1.56;1.29;0.26;0;1.41;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;14;Mingau;0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6700501;Couve;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6700601;Couveflor;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.07;0.03;0.22;0.05;0.17;0;1.8;0
+6700601;Couveflor;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.07;0.03;0.22;0.05;0.17;0;1.8;0
+6700601;Couveflor;Hortalicas folhosas. frutosas e outras;5;Frito(a);0;0.6;0.89;2.34;1.92;0.42;0;1.8;0
+6700601;Couveflor;Hortalicas folhosas. frutosas e outras;6;Empanado(a)/a milanesa;51.39;1.59;2.27;4.63;3.97;0.62;0.01;2.04;1.23
+6700601;Couveflor;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.6;0.89;2.34;1.92;0.42;0;1.8;0
+6700601;Couveflor;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.07;0.03;0.22;0.05;0.17;0;1.8;0
+6700601;Couveflor;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.07;0.03;0.22;0.05;0.17;0;1.8;0
+6700701;Espinafre;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.04;0.01;0.11;0.02;0.09;0;0.89;0
+6700701;Espinafre;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.04;0.01;0.11;0.02;0.09;0;0.89;0
+6700701;Espinafre;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.41;0.59;1.57;1.3;0.26;0;0.89;0
+6700701;Espinafre;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.04;0.01;0.11;0.02;0.09;0;0.89;0
+6700701;Espinafre;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.04;0.01;0.11;0.02;0.09;0;0.89;0
+6700801;Mostarda (verdura);Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.01;0.09;0.04;0.02;0.02;0;0.7;0
+6700801;Mostarda (verdura);Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.01;0.11;0.05;0.02;0.02;0;0.5;0
+6700801;Mostarda (verdura);Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.48;0.87;1.92;1.68;0.24;0;0.5;0
+6700801;Mostarda (verdura);Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.01;0.11;0.05;0.02;0.02;0;0.5;0
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.03;0.02;0.02;0.02;0;0;3.21;0
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0;0.02;0.02;0.01;0.01;0;2.78;0
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;5;Frito(a);0;0.47;0.71;1.77;1.55;0.22;0.02;2.78;0
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.47;0.71;1.77;1.55;0.22;0.02;2.78;0
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;9;Molho branco;0;0;0.02;0.02;0.01;0.01;0;2.78;0
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;10;Ao alho e oleo;0;0.47;0.71;1.77;1.55;0.22;0.02;2.78;0
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0;0.02;0.02;0.01;0.01;0;2.78;0
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.47;0.71;1.77;1.55;0.22;0.02;2.78;0
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6700901;Repolho;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0;0.02;0.02;0.01;0.01;0;2.78;0
+6701101;Cebolinha;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.02;0.01;0.04;0.04;0;0;2.09;0
+6701301;Agriao;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.09;0.05;0.32;0.13;0.17;0;1.6;0
+6701301;Agriao;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.03;0.01;0.04;0.01;0.02;0;0.7;0
+6701301;Agriao;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.03;0.01;0.04;0.01;0.02;0;0.7;0
+6701301;Agriao;Hortalicas folhosas. frutosas e outras;13;Ensopado;7.42;1.8;0.73;0.14;0.11;0.03;0.11;0.7;0
+6701301;Agriao;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.09;0.05;0.32;0.13;0.17;0;1.6;0
+6701401;Taioba;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.2;0.1;0.4;0.12;0.25;0;0;0
+6701401;Taioba;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6701401;Taioba;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.39;0.58;1.56;1.29;0.26;0;1.41;0
+6701501;Acelga;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.03;0.04;0.07;0.06;0.01;0;0.6;0
+6701501;Acelga;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.04;0.02;0.06;0.01;0.05;0;0.67;0
+6701501;Acelga;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.63;0.89;2.27;1.96;0.31;0.02;0.67;0
+6701501;Acelga;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.03;0.04;0.07;0.06;0.01;0;0.6;0
+6701505;Beterraba branca (acelga) ;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.04;0.02;0.06;0.01;0.05;0;0.67;0
+6701601;Almeirao;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.05;0;0.09;0.08;0.01;0;0.5;0
+6701601;Almeirao;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.06;0;0.11;0.1;0.02;0;0.65;0
+6701601;Almeirao;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.56;0.81;2.13;1.88;0.26;0;0.65;0
+6701601;Almeirao;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.06;0;0.11;0.1;0.02;0;0.65;0
+6701602;Radite;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.05;0;0.09;0.08;0.01;0;0.5;0
+6701602;Radite;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.56;0.81;2.13;1.88;0.26;0;0.65;0
+6701602;Radite;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.06;0;0.11;0.1;0.02;0;0.65;0
+6701704;Brocolis;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.04;0.01;0.04;0.02;0.02;0;1.69;0
+6701704;Brocolis;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.08;0.04;0.17;0.05;0.12;0;1.31;0
+6701704;Brocolis;Hortalicas folhosas. frutosas e outras;6;Empanado(a)/a milanesa;49.88;1.87;2.82;6.03;5.26;0.74;0;1.21;0
+6701704;Brocolis;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.5;0.72;1.86;1.54;0.32;0;1.31;0
+6701704;Brocolis;Hortalicas folhosas. frutosas e outras;10;Ao alho e oleo;0;0.5;0.72;1.86;1.54;0.32;0;1.31;0
+6701704;Brocolis;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.08;0.04;0.17;0.05;0.12;0;1.31;0
+6701704;Brocolis;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.08;0.04;0.17;0.05;0.12;0;1.31;0
+6701801;Serralha;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.04;0.01;0.11;0.02;0.09;0;0.89;0
+6701801;Serralha;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.04;0.01;0.11;0.02;0.09;0;0.89;0
+6701801;Serralha;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.41;0.59;1.57;1.3;0.26;0;0.89;0
+6701901;Caruru;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6701906;Cuxa;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6701907;Vinagreira ;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6701913;Cariru;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6702001;Rucula;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.09;0.05;0.32;0.13;0.17;0;1.6;0
+6702105;Jambu;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6702201;Lingua de vaca (verdura);Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.06;0.03;0.2;0.08;0.11;0;1.63;0
+6702301;Alcachofra;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.08;0.01;0.14;0.11;0.04;0;0.99;0
+6702501;Bredo;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6702604;Salsao (aipo);Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.04;0.03;0.08;0.08;0;0;2.36;0
+6702801;Ervadoce;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0;0;0;0;0;0;1.7;0
+6703003;Folha de aipim;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.06;0.03;0.2;0.08;0.11;0;1.63;0
+6703004;Folha de macaxeira;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+6703101;Broto de feijao;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.05;0.02;0.06;0.04;0.02;0;2.1;0
+6703101;Broto de feijao;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.6;0.85;2.15;1.89;0.26;0.02;1.4;0
+6703306;Moranga;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.04;0.01;0;0;0;0;3.3;0
+6703306;Moranga;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.3;0.44;1.08;0.95;0.13;0;3.3;0
+6703306;Moranga;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.3;0.44;1.08;0.95;0.13;0;3.3;0
+6703306;Moranga;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.04;0.01;0;0;0;0;3.3;0
+6703701;Abobrinha;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.04;0.02;0.09;0.03;0.06;0;1.73;0
+6703701;Abobrinha;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.06;0.02;0.13;0.05;0.08;0;1.66;0
+6703701;Abobrinha;Hortalicas folhosas. frutosas e outras;3;Grelhado(a)/brasa/churrasco;0;0.06;0.02;0.13;0.05;0.08;0;1.66;0
+6703701;Abobrinha;Hortalicas folhosas. frutosas e outras;4;Assado(a);0;0.06;0.02;0.13;0.05;0.08;0;1.66;0
+6703701;Abobrinha;Hortalicas folhosas. frutosas e outras;5;Frito(a);0;0.43;0.61;1.59;1.34;0.25;0;1.66;0
+6703701;Abobrinha;Hortalicas folhosas. frutosas e outras;6;Empanado(a)/a milanesa;52.96;1.67;2.24;4.32;3.79;0.49;0.02;1.66;0
+6703701;Abobrinha;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.43;0.61;1.59;1.34;0.25;0;1.66;0
+6703701;Abobrinha;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.43;0.61;1.59;1.34;0.25;0;1.66;0
+6703805;Jerimum;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.04;0.01;0;0;0;0;3.3;0
+6703805;Jerimum;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.04;0.01;0;0;0;0;3.3;0
+6703901;Abobora;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.04;0.01;0;0;0;0;3.3;0
+6703901;Abobora;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.04;0.01;0;0;0;0;3.3;0
+6703901;Abobora;Hortalicas folhosas. frutosas e outras;4;Assado(a);0;0.04;0.01;0;0;0;0;3.3;0
+6703901;Abobora;Hortalicas folhosas. frutosas e outras;5;Frito(a);0;0.3;0.44;1.08;0.95;0.13;0;3.3;0
+6703901;Abobora;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.3;0.44;1.08;0.95;0.13;0;3.3;0
+6703901;Abobora;Hortalicas folhosas. frutosas e outras;8;Molho vermelho;0;0.04;0.01;0.02;0.02;0;0;3.49;0
+6703901;Abobora;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.3;0.44;1.08;0.95;0.13;0;3.3;0
+6703901;Abobora;Hortalicas folhosas. frutosas e outras;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6703901;Abobora;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.04;0.01;0;0;0;0;3.3;0
+6704001;Pepino;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.04;0.01;0.03;0.03;0.01;0;1.67;0
+6704101;Chuchu;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.09;0;0;0;0;0;1.97;0
+6704101;Chuchu;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.09;0;0;0;0;0;1.97;0
+6704101;Chuchu;Hortalicas folhosas. frutosas e outras;4;Assado(a);0;0.07;0.01;0.01;0.01;0;0;1.97;0
+6704101;Chuchu;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.49;0.66;1.64;1.45;0.19;0;1.97;0
+6704101;Chuchu;Hortalicas folhosas. frutosas e outras;8;Molho vermelho;0;0.07;0.01;0.02;0.01;0;0;2.43;0
+6704101;Chuchu;Hortalicas folhosas. frutosas e outras;10;Ao alho e oleo;0;0.49;0.66;1.64;1.45;0.19;0;1.97;0
+6704101;Chuchu;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.09;0;0;0;0;0;1.97;0
+6704101;Chuchu;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.49;0.66;1.64;1.45;0.19;0;1.97;0
+6704101;Chuchu;Hortalicas folhosas. frutosas e outras;15;Sopa;0;0.04;0.03;0.03;0.03;0.01;0;3.28;2.52
+6704201;Jilo;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.05;0.03;0.05;0.05;0;0;2.26;0
+6704201;Jilo;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.05;0.03;0.05;0.05;0;0;2.26;0
+6704201;Jilo;Hortalicas folhosas. frutosas e outras;4;Assado(a);0;0.05;0.03;0.05;0.05;0;0;2.26;0
+6704201;Jilo;Hortalicas folhosas. frutosas e outras;5;Frito(a);0;0.49;0.68;1.69;1.49;0.19;0.02;2.26;0
+6704201;Jilo;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.49;0.68;1.69;1.49;0.19;0.02;2.26;0
+6704201;Jilo;Hortalicas folhosas. frutosas e outras;11;Com manteiga/oleo;6.36;1.56;0.65;0.14;0.13;0.01;0.1;2.26;0
+6704201;Jilo;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.49;0.68;1.69;1.49;0.19;0.02;2.26;0
+6704201;Jilo;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.03;0.05;0.05;0;0;2.26;0
+6704301;Maxixe;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0;0;0;0;0;0;0;0
+6704301;Maxixe;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.02;0.04;0.09;0.09;0;0;1.18;0
+6704301;Maxixe;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.39;0.64;1.59;1.41;0.18;0;1.18;0
+6704301;Maxixe;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.39;0.64;1.59;1.41;0.18;0;1.18;0
+6704306;Pepininho (maxixe);Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.02;0.04;0.09;0.09;0;0;1.18;0
+6704306;Pepininho (maxixe);Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.02;0.04;0.09;0.09;0;0;1.18;0
+6704401;Palmito in natura;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6704401;Palmito in natura;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6704401;Palmito in natura;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6704401;Palmito in natura;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6704409;Guariroba (palmito in natura);Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6704409;Guariroba (palmito in natura);Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6704409;Guariroba (palmito in natura);Hortalicas folhosas. frutosas e outras;8;Molho vermelho;0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6704410;Gueroba (palmito in natura);Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6704410;Gueroba (palmito in natura);Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.13;0.1;0.2;0.18;0.02;0;0;0
+6704501;Pimentao;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.06;0.01;0.06;0.05;0.01;0;2.39;0
+6705001;Quiabo;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.05;0.03;0.05;0.05;0;0;2.26;0
+6705001;Quiabo ;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.05;0.03;0.05;0.05;0;0;2.26;0
+6705001;Quiabo ;Hortalicas folhosas. frutosas e outras;5;Frito(a);0;0.49;0.68;1.69;1.49;0.19;0.02;2.26;0
+6705001;Quiabo ;Hortalicas folhosas. frutosas e outras;6;Empanado(a)/a milanesa;0;0.49;0.68;1.69;1.49;0.19;0.02;2.26;0
+6705001;Quiabo ;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.49;0.68;1.69;1.49;0.19;0.02;2.26;0
+6705001;Quiabo ;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.49;0.68;1.69;1.49;0.19;0.02;2.26;0
+6705001;Quiabo ;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.03;0.05;0.05;0;0;2.26;0
+6705101;Tomate;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.03;0.03;0.08;0.08;0;0;2.62;0
+6705201;Vagem;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.06;0.01;0.15;0.06;0.09;0;2.3;0
+6705201;Vagem;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.06;0.01;0.15;0.06;0.09;0;2.3;0
+6705201;Vagem;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.63;0.84;2.24;1.91;0.34;0.02;2.3;0
+6705201;Vagem;Hortalicas folhosas. frutosas e outras;11;Com manteiga/oleo;0;0.63;0.84;2.24;1.91;0.34;0.02;2.3;0
+6705201;Vagem;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.63;0.84;2.24;1.91;0.34;0.02;2.3;0
+6705201;Vagem;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.06;0.01;0.15;0.06;0.09;0;2.3;0
+6705301;Cogumelo in natura;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.01;0.19;0.19;0;0;0.3;0
+6705401;Berinjela;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.04;0.02;0.09;0.07;0.01;0;3.67;0
+6705401;Berinjela;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.04;0.02;0.09;0.08;0.02;0;3.9;0
+6705401;Berinjela;Hortalicas folhosas. frutosas e outras;4;Assado(a);0;0.04;0.02;0.09;0.08;0.02;0;3.9;0
+6705401;Berinjela;Hortalicas folhosas. frutosas e outras;5;Frito(a);0;0.7;1.09;2.75;2.42;0.33;0;3.9;0
+6705401;Berinjela;Hortalicas folhosas. frutosas e outras;6;Empanado(a)/a milanesa;64.24;1.74;2.57;5.12;4.5;0.58;0;3.99;0
+6705401;Berinjela;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.7;1.09;2.75;2.42;0.33;0;3.9;0
+6705401;Berinjela ;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.04;0.02;0.09;0.08;0.02;0;3.9;0
+6705401;Berinjela;Hortalicas folhosas. frutosas e outras;13;Ensopado;0;0.7;1.09;2.75;2.42;0.33;0;3.9;0
+6705401;Berinjela;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.04;0.02;0.09;0.08;0.02;0;3.9;0
+6705501;Ervilha em vagem;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.49;0.67;1.74;1.53;0.21;0.02;3.4;0
+6705501;Ervilha em vagem;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.49;0.67;1.74;1.53;0.21;0.02;3.4;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;1;Cru(a);0;0.04;0.01;0.02;0.01;0;0;4.26;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;2;Cozido(a);0;0.03;0.03;0.07;0.07;0;0;4.73;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;3;Grelhado(a)/brasa/churrasco;0;0.03;0.03;0.07;0.07;0;0;4.73;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;4;Assado(a);0;0.03;0.03;0.07;0.07;0;0;4.73;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;5;Frito(a);0;0.37;0.52;1.32;1.17;0.15;0.01;4.73;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.37;0.52;1.32;1.17;0.15;0.01;4.73;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;8;Molho vermelho;0;0.03;0.03;0.07;0.07;0;0;4.63;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;11;Com manteiga/oleo;4.84;1.19;0.5;0.14;0.13;0.01;0.07;4.73;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;12;Ao vinagrete;0;0.04;0.01;0.02;0.01;0;0;4.26;0
+6705701;Cebola;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.04;0.01;0.02;0.01;0;0;4.26;0
+6705801;Catalonha;Hortalicas folhosas. frutosas e outras;7;Refogado(a);0;0.39;0.62;1.53;1.35;0.18;0;0.4;0
+6706101;Jardineira (seleta);Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.01;0.12;0.1;0.01;0;3.2;0
+6706102;Seleta (jardineira);Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.05;0.01;0.12;0.1;0.01;0;3.2;0
+6706201;Alho;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.09;0.01;0.25;0.23;0.02;0;1.6;0
+6706301;Alhoporo;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.44;0.61;1.65;1.4;0.25;0.01;1.98;0
+6707301;Broto de alfafa;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.07;0.06;0.41;0.23;0.18;0;0.2;0
+6707801;Alface organica;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.02;0.01;0.08;0.02;0.06;0;0.79;0
+6707901;Tomate organico;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.03;0.03;0.08;0.08;0;0;2.62;0
+6708001;Pimentao organico;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;0.06;0.01;0.06;0.05;0.01;0;2.39;0
+6709701;Oregano;Hortalicas folhosas. frutosas e outras;99;Nao se aplica;0;2.66;0.67;5.23;1.05;4.18;0;4.09;0
+6801017;Pacova;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;1;Cru(a);0;0.11;0.03;0.07;0.05;0.03;0;12.23;0
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;2;Cozido(a);0;0.11;0.03;0.07;0.05;0.03;0;12.23;0
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;4;Assado(a);0;0.11;0.03;0.07;0.05;0.03;0;12.23;0
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;5;Frito(a);0;2.14;2.97;7.52;6.61;0.9;0.07;13.64;0
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;6;Empanado(a)/a milanesa;0;2.14;2.97;7.52;6.61;0.9;0.07;13.64;0
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;11;Com manteiga/oleo;28.83;7.01;2.86;0.49;0.42;0.07;0.44;13.65;0
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;13;Ensopado;0;0.11;0.03;0.07;0.05;0.03;0;12.23;0
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;14;Mingau;5.55;0.95;0.48;0.13;0.1;0.03;0.05;13.2;5.06
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;15;Sopa;5.55;0.95;0.48;0.13;0.1;0.03;0.05;13.2;5.06
+6801101;Banana (ouro. prata. d_agua. da terra. etc.);Frutas;99;Nao se aplica;0;0.11;0.03;0.07;0.05;0.03;0;12.23;0
+6801801;Laranja (pera. seleta. lima. da terra. etc.);Frutas;99;Nao se aplica;0;0.02;0.02;0.03;0.02;0.01;0;8.37;0
+6801901;Lima;Frutas;99;Nao se aplica;0;0.02;0.02;0.03;0.02;0.01;0;8.37;0
+6802001;Limao (comum. galego. etc.);Frutas;99;Nao se aplica;0;0.02;0.02;0.06;0.04;0.02;0;0.7;0
+6802201;Tangerina;Frutas;99;Nao se aplica;0;0.04;0.06;0.07;0.05;0.02;0;10.58;0
+6802202;Mexerica;Frutas;99;Nao se aplica;0;0.04;0.06;0.07;0.05;0.02;0;10.58;0
+6802217;Bergamota;Frutas;99;Nao se aplica;0;0.04;0.06;0.07;0.05;0.02;0;10.58;0
+6802218;Mimosa;Frutas;99;Nao se aplica;0;0.04;0.06;0.07;0.05;0.02;0;10.58;0
+6802223;Tanja;Frutas;99;Nao se aplica;0;0.04;0.06;0.07;0.05;0.02;0;10.58;0
+6802227;Maricota;Frutas;99;Nao se aplica;0;0.04;0.06;0.07;0.05;0.02;0;10.58;0
+6802407;Laranjinha japonesa;Frutas;99;Nao se aplica;0;0.02;0.02;0.03;0.02;0.01;0;8.37;0
+6802501;Canadeacucar;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;9.83;19.97
+6802601;Abacaxi;Frutas;99;Nao se aplica;0;0.01;0.01;0.04;0.02;0.02;0;9.26;0
+6802602;Ananas;Frutas;99;Nao se aplica;0;0.01;0.01;0.04;0.02;0.02;0;9.26;0
+6802701;Abacate;Frutas;99;Nao se aplica;0;1.96;5.51;1.68;1.58;0.1;0;2.42;0
+6802801;Caqui;Frutas;99;Nao se aplica;0;0.02;0.04;0.04;0.04;0;0;12.54;0
+6802901;Figo;Frutas;99;Nao se aplica;0;0.06;0.07;0.14;0.14;0;0;6.9;0
+6803001;Maca;Frutas;99;Nao se aplica;0;0.03;0.01;0.05;0.04;0.01;0;10.4;0
+6803101;Mamao;Frutas;99;Nao se aplica;0;0.04;0.04;0.03;0.01;0.03;0;4.86;0
+6803108;Papaia;Frutas;99;Nao se aplica;0;0.04;0.04;0.03;0.01;0.03;0;4.86;0
+6803201;Manga;Frutas;99;Nao se aplica;0;0.07;0.1;0.05;0.01;0.04;0;12.73;0
+6803215;Manguito;Frutas;99;Nao se aplica;0;0.07;0.1;0.05;0.01;0.04;0;12.73;0
+6803301;Maracuja;Frutas;99;Nao se aplica;0;0.06;0.09;0.41;0.41;0;0;10.4;0
+6803401;Melancia;Frutas;99;Nao se aplica;0;0.02;0.04;0.05;0.05;0;0;6.21;0
+6803501;Melao;Frutas;99;Nao se aplica;0;0.04;0;0.06;0.03;0.03;0;8.12;0
+6803601;pera;Frutas;99;Nao se aplica;0;0.01;0.03;0.03;0.03;0;0;9.79;0
+6803701;Pessego;Frutas;99;Nao se aplica;0;0.02;0.07;0.09;0.08;0;0;8.38;0
+6803801;Frutadeconde;Frutas;99;Nao se aplica;0;0.07;0.01;0.09;0.05;0.04;0;3.39;0
+6803802;Pinha (frutadeconde);Frutas;99;Nao se aplica;0;0.07;0.01;0.09;0.05;0.04;0;3.39;0
+6803803;Ata;Frutas;99;Nao se aplica;0;0.07;0.01;0.09;0.05;0.04;0;3.39;0
+6803901;Uva;Frutas;99;Nao se aplica;0;0.05;0.01;0.05;0.04;0.01;0;15.48;0
+6803912;Uva passa;Frutas;99;Nao se aplica;0;0.06;0.05;0.04;0.03;0.01;0;57.88;0
+6804001;Jenipapo ;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6804101;Jaca;Frutas;99;Nao se aplica;0;0.06;0.04;0.09;0.06;0.02;0;8.08;0
+6804201;Goiaba;Frutas;99;Nao se aplica;0;0.27;0.09;0.4;0.29;0.11;0;8.82;0
+6804203;Aracaacu (goiaba);Frutas;99;Nao se aplica;0;0.27;0.09;0.4;0.29;0.11;0;8.82;0
+6804301;Ameixa;Frutas;99;Nao se aplica;0;0.02;0.13;0.04;0.04;0;0;9.93;0
+6804401;Caju;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6804501;Cereja;Frutas;99;Nao se aplica;0;0.04;0.05;0.05;0.03;0.03;0;12.82;0
+6804601;Cajamanga;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6804602;Cajarana;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6804701;Tapereba;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6804702;Acaja (tabereba);Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6804801;Carambola;Frutas;99;Nao se aplica;0;0.02;0.03;0.18;0.16;0.03;0;3.75;0
+6804901;Jabuticaba;Frutas;99;Nao se aplica;0;0.02;0.08;0.25;0.16;0.09;0;7.48;0
+6805001;Graviola;Frutas;99;Nao se aplica;0;0;0.1;0;0.01;0.02;0;0;0
+6805201;Morango;Frutas;99;Nao se aplica;0;0.02;0.04;0.16;0.09;0.07;0;4.9;0
+6805301;Jambo;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6805401;Atemoia ;Frutas;99;Nao se aplica;0;0.07;0.01;0.09;0.05;0.04;0;3.39;0
+6805601;Mangaba;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6805701;Araca;Frutas;99;Nao se aplica;0;0.27;0.09;0.4;0.29;0.11;0;8.82;0
+6805801;Nespera;Frutas;99;Nao se aplica;0;0.04;0.01;0.09;0.08;0.01;0;6.3;0
+6805901;Frutapao;Frutas;99;Nao se aplica;0;0.05;0.03;0.07;0.05;0.02;0;2.9;0
+6806001;Sapoti;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6806101;Uxi;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6806201;Tamarindo;Frutas;99;Nao se aplica;0;0.27;0.18;0.06;0.06;0;0;0;0
+6806301;Cacau;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6806401;Pitomba ;Frutas;99;Nao se aplica;0;0.1;0.12;0.13;0.07;0.07;0;15;0
+6806501;Bacuri;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6806601;Inga;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6806701;Pequi;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6806801;Pitanga ;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6806901;Ciriguela;Frutas;99;Nao se aplica;0;0.2;0;0.1;0.07;0.03;0;0;0
+6807001;Murici;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6807101;Umbu;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6807103;Imbu;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6807202;Biriba;Frutas;99;Nao se aplica;0;0.07;0.01;0.09;0.05;0.04;0;3.39;0
+6807301;Cupuacu;Frutas;99;Nao se aplica;0;0.4;0.2;0.1;0.03;0.09;0;0;0
+6807401;Nectarina;Frutas;99;Nao se aplica;0;0.03;0.09;0.11;0.11;0;0;7.81;0
+6807501;Mari;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6807601;Roma;Frutas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6807701;Acerola;Frutas;99;Nao se aplica;0;0.07;0.08;0.09;0.05;0.04;0;0;0
+6807801;Kiwi;Frutas;99;Nao se aplica;0;0.03;0.05;0.29;0.25;0.04;0;8.97;0
+6808001;Abiu;Frutas;99;Nao se aplica;0;0.3;0.1;0.1;0.1;0.02;0;0;0
+6808201;Jurubeba;Frutas;99;Nao se aplica;0;0.5;0.5;2.1;2.09;0.03;0;0;0
+6808401;Fruta (nao especificada);Frutas;99;Nao se aplica;0;0.11;0.03;0.07;0.05;0.03;0;12.23;0
+6808601;Maca organica;Frutas;99;Nao se aplica;0;0.03;0.01;0.05;0.04;0.01;0;10.4;0
+6808901;Acerola organica;Frutas;99;Nao se aplica;0;0.07;0.08;0.09;0.05;0.04;0;0;0
+6809901;Amora;Frutas;99;Nao se aplica;0;0.01;0.05;0.28;0.19;0.09;0;4.88;0
+6810201;Jamelao (jamburao);Frutas;99;Nao se aplica;0;0.02;0.08;0.25;0.16;0.09;0;7.48;0
+6900302;Demerara;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;99.91;99.98
+6900304;Acucar mascavo;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;97.02;98.09
+6900401;Rapadura;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;42.2;60.8
+6900402;Alfenim de cana;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;42.2;60.8
+6900403;Batida (rapadura);Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;97.02;98.09
+6900501;Sorvete de qualquer sabor industrializado;Acucares e produtos de confeitaria ;99;Nao se aplica;40.67;6.79;3.05;0.44;0.27;0.17;0.37;18.89;20.03
+6900502;Picole de qualquer sabor industrializado;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.05;0.02;0.02;0;0;13.67;19.23
+6900601;Chiclete;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;58.97;60.06
+6900603;Bala;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;98.2;98
+6900604;Caramelo (bala);Acucares e produtos de confeitaria ;99;Nao se aplica;7;2.48;1.54;3.48;3.45;0.03;0.04;46.75;68.2
+6900605;Drops;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;98.2;98
+6900606;Pastilha;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;58.97;60.06
+6900607;Pirulito;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;98.2;98
+6900609;Goma de mascar;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;58.97;60.06
+6900610;Jujuba;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;46.56;84.42
+6900701;Tablete de chocolate;Acucares e produtos de confeitaria ;99;Nao se aplica;23;20.78;15.87;1.26;1.06;0.12;0.09;54.8;46.99
+6900702;Barra de chocolate;Acucares e produtos de confeitaria ;99;Nao se aplica;23;20.78;15.87;1.26;1.06;0.12;0.09;54.8;46.99
+6900706;Confete;Acucares e produtos de confeitaria ;99;Nao se aplica;14;13.08;5.18;0.92;0.86;0.06;0.17;63.3;57.75
+6900801;Chocolate em po de qualquer marca;Acucares e produtos de confeitaria ;99;Nao se aplica;0.45;0.8;1.54;1.04;1.01;0.03;0.37;80.44;77.59
+6900818;Ovomaltine;Acucares e produtos de confeitaria ;99;Nao se aplica;5.82;1.62;2.68;0.74;0.69;0.04;0.99;70.81;51.34
+6900821;Achocolatado em po;Acucares e produtos de confeitaria ;99;Nao se aplica;0;2.27;0;0;0;0;0;77.39;77.24
+6900822;Toddynho;Acucares e produtos de confeitaria ;99;Nao se aplica;12.05;2.11;0.99;0.12;0.08;0.05;0.12;10.14;5.09
+6900901;Bombom de qualquer marca;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;84.44;93.18
+6900904;Trufa ;Acucares e produtos de confeitaria ;99;Nao se aplica;32.32;20.83;11.78;1.89;1.69;0.19;0.88;41.35;40.34
+6901001;Geleia de frutas de qualquer marca ou sabor;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.04;0;0;0;0;48.9;65.51
+6901002;Mousse de qualquer sabor (Geleia) ;Acucares e produtos de confeitaria ;99;Nao se aplica;159.21;12.59;6.92;0.94;0.76;0.14;0.46;29.84;28.14
+6901101;Geleia de mocoto;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;27.97;27.99
+6901201;Doce de frutas em pasta de qualquer sabor;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.08;0.03;0.12;0.09;0.03;0;72.58;69.99
+6901203;Pasta de amendoim;Acucares e produtos de confeitaria ;99;Nao se aplica;0;10.51;24.22;14.16;14.08;0.08;0;9.22;4.9
+6901204;Pessegada;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0.02;0.02;0.02;0;0;16.06;11.21
+6901206;Marmelada;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.04;0;0;0;0;48.9;65.51
+6901209;Figada;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.02;0.02;0.05;0.05;0;0;16.75;13.3
+6901211;Goiabada;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.08;0.03;0.12;0.09;0.03;0;72.58;69.99
+6901214;Caju em pasta;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.08;0.03;0.12;0.09;0.03;0;72.58;69.99
+6901224;Mariola;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.08;0.03;0.12;0.09;0.03;0;72.58;69.99
+6901301;Doce de frutas em calda de qualquer sabor;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0.02;0.02;0.02;0;0;16.06;11.21
+6901401;Doce de frutas cristalizado de qualquer sabor;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.08;0.03;0.12;0.09;0.03;0;72.58;69.99
+6901501;Melado;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;42.2;60.8
+6901602;Mel ;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;82.13;82.4
+6901701;Gelatina de qualquer sabor;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.04;0;0;0;0;48.9;65.51
+6901801;Adocante artificial;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6902004;Merengue;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;85.54;85.21
+6902301;Schimier de cana;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;42.2;60.8
+6902401;Fruta seca ou desidratada;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.09;0.05;0.06;0.04;0.02;0;38.12;0
+6902402;Passa;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.06;0.05;0.04;0.03;0.01;0;57.88;0
+6902601;Pudim de qualquer sabor;Acucares e produtos de confeitaria ;99;Nao se aplica;122.51;2.14;1.66;0.52;0.41;0.06;0.08;15.9;12.02
+6902607;Danette pudim;Acucares e produtos de confeitaria ;99;Nao se aplica;122.51;2.14;1.66;0.52;0.41;0.06;0.08;15.9;12.02
+6902701;Manjar;Acucares e produtos de confeitaria ;99;Nao se aplica;118.44;6.63;2.68;0.56;0.43;0.08;0.2;38.63;31.61
+6902901;Cuscuz;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.04;0.03;0.09;0.08;0;0;0.72;0
+6902902;Cuscuz de tapioca;Acucares e produtos de confeitaria ;99;Nao se aplica;63.11;1.99;1.21;0.35;0.25;0.07;0.1;13.2;8.6
+6903001;Mariamole;Acucares e produtos de confeitaria ;99;Nao se aplica;0;17.68;0.85;0.22;0.22;0;0;61.43;61.91
+6903101;Cocada;Acucares e produtos de confeitaria ;99;Nao se aplica;0;11.01;0.53;0.14;0.14;0;0;62.21;71.44
+6903102;Quebraqueixo;Acucares e produtos de confeitaria ;99;Nao se aplica;0;11.01;0.53;0.14;0.14;0;0;62.21;71.44
+6903201;Doce de amendoim;Acucares e produtos de confeitaria ;99;Nao se aplica;0;4.06;11.76;6.84;6.71;0.07;0.96;39.22;49.15
+6903202;Pe de moleque;Acucares e produtos de confeitaria ;99;Nao se aplica;0;2.36;8.44;5.38;5.38;0;0;55.51;58.45
+6903203;Pacoca;Acucares e produtos de confeitaria ;99;Nao se aplica;0;2.99;10.68;6.8;6.8;0;0;15.14;13.33
+6903204;Torrao de amendoim;Acucares e produtos de confeitaria ;99;Nao se aplica;0;1.86;15.39;6.02;6.01;0;0.01;47.33;45.45
+6903205;Pacoquinha de amendoim;Acucares e produtos de confeitaria ;99;Nao se aplica;0;2.99;10.68;6.8;6.8;0;0;15.14;13.33
+6903207;Amendoim caramelizado;Acucares e produtos de confeitaria ;99;Nao se aplica;0;2.36;8.44;5.38;5.38;0;0;55.51;58.45
+6903208;Amendoim amanteigado;Acucares e produtos de confeitaria ;99;Nao se aplica;0;6.83;24.43;15.56;15.56;0;0;4;0
+6903209;Amendoim achocolatado;Acucares e produtos de confeitaria ;99;Nao se aplica;9;14.6;12.92;4.33;4.22;0.04;0.04;40.9;37.88
+6903303;Amendoim apimentado;Acucares e produtos de confeitaria ;99;Nao se aplica;0;6.83;24.43;15.56;15.56;0;0;4;0
+6903304;Amendoim cozido;Acucares e produtos de confeitaria ;99;Nao se aplica;0;3.06;10.92;6.96;6.95;0;0;2.02;0
+6903601;Brigadeiro;Acucares e produtos de confeitaria ;99;Nao se aplica;31.69;5.49;3.2;0.94;0.78;0.16;0.59;52.59;43.9
+6903701;Bomba de qualquer tipo;Acucares e produtos de confeitaria ;99;Nao se aplica;194.01;15.9;7.7;1.27;1.06;0.16;0.91;4.95;3.57
+6903801;Mil folhas;Acucares e produtos de confeitaria ;99;Nao se aplica;56.04;14.38;9.89;3.23;2.98;0.24;2.05;31.5;31.28
+6903901;Queijadinha;Acucares e produtos de confeitaria ;99;Nao se aplica;0;11.01;0.53;0.14;0.14;0;0;62.21;71.44
+6904101;Doce a base de ovos;Acucares e produtos de confeitaria ;99;Nao se aplica;122.51;2.14;1.66;0.52;0.41;0.06;0.08;15.9;12.02
+6904104;Cacarola italiana;Acucares e produtos de confeitaria ;99;Nao se aplica;118.44;6.63;2.68;0.56;0.43;0.08;0.2;38.63;31.61
+6904105;Quindim;Acucares e produtos de confeitaria ;99;Nao se aplica;122.51;2.14;1.66;0.52;0.41;0.06;0.08;15.9;12.02
+6904108;Fios de ovos;Acucares e produtos de confeitaria ;99;Nao se aplica;122.51;2.14;1.66;0.52;0.41;0.06;0.08;15.9;12.02
+6904201;Doce a base de leite;Acucares e produtos de confeitaria ;99;Nao se aplica;33.86;5.46;2.42;0.34;0.22;0.12;0.31;52.51;43.02
+6904202;Pave de qualquer sabor;Acucares e produtos de confeitaria ;99;Nao se aplica;151.85;12.88;7.03;1.25;0.92;0.28;0.94;17.1;14.67
+6904203;Ambrosia;Acucares e produtos de confeitaria ;99;Nao se aplica;75.36;1.72;1.18;0.38;0.29;0.07;0.07;23.26;20.45
+6904204;Leite geleificado;Acucares e produtos de confeitaria ;99;Nao se aplica;122.51;2.14;1.66;0.52;0.41;0.06;0.08;15.9;12.02
+6904205;Chandele de qualquer sabor;Acucares e produtos de confeitaria ;99;Nao se aplica;122.51;2.14;1.66;0.52;0.41;0.06;0.08;15.9;12.02
+6904302;Mumu ;Acucares e produtos de confeitaria ;99;Nao se aplica;33.86;5.46;2.42;0.34;0.22;0.12;0.31;52.51;43.02
+6904401;Canudinho recheado;Acucares e produtos de confeitaria ;99;Nao se aplica;0.28;3.61;0.34;0.28;0.27;0.01;0;8.86;5.57
+6904501;Sarolho;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6904502;Beiju;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6904601;Schimier de fruta (exceto de cana);Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.04;0;0;0;0;48.9;65.51
+6904701;Beijo de moca;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;99.91;99.98
+6904801;Picole ensacado;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.05;0.02;0.02;0;0;13.67;19.23
+6904807;Geladinho;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.01;0.03;0.02;0.01;0;26.13;29.78
+6905001;Churro;Acucares e produtos de confeitaria ;99;Nao se aplica;61.38;14.71;6.03;0.99;0.9;0.1;0.94;24.81;25.54
+6905101;Pamonha;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.5;0.7;1.4;1.32;0.09;0.11;0;0
+6905401;Algodaodoce;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;99.91;99.98
+6905603;IoIo crem (chocolate em creme);Acucares e produtos de confeitaria ;99;Nao se aplica;1;3.98;3.86;0.28;0.25;0.02;0;48.37;38.3
+6905801;Ovo de pascoa;Acucares e produtos de confeitaria ;99;Nao se aplica;23;20.78;15.87;1.26;1.06;0.12;0.09;54.8;46.99
+6905804;Kinder ovo;Acucares e produtos de confeitaria ;99;Nao se aplica;23;20.78;15.87;1.26;1.06;0.12;0.09;54.8;46.99
+6905901;Torrone;Acucares e produtos de confeitaria ;99;Nao se aplica;0;1.86;15.39;6.02;6.01;0;0.01;47.33;45.45
+6906001;Arrozdoce;Acucares e produtos de confeitaria ;99;Nao se aplica;6.94;1.32;0.59;0.16;0.1;0.06;0.08;10.76;7.11
+6906404;Polpa de coco;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6906501;Diet shake;Acucares e produtos de confeitaria ;99;Nao se aplica;5.27;0.76;0.42;0.41;0.37;0.05;0.01;59.33;39.64
+6906502;Concentrado alimentar diet shake;Acucares e produtos de confeitaria ;99;Nao se aplica;5.27;0.76;0.42;0.41;0.37;0.05;0.01;59.33;39.64
+6906602;Acucar ;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;99.91;99.98
+6907001;Acucar light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6907201;Barra de cereais;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.93;1.71;5.32;5.3;0.02;0.04;37.4;49.22
+6907202;Barra de cereais salgada;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.93;1.71;5.32;5.3;0.02;0.04;37.4;49.22
+6907203;Barra de cereais doce;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.93;1.71;5.32;5.3;0.02;0.04;37.4;49.22
+6907301;Sobremesa de qualquer tipo (exceto infantil);Acucares e produtos de confeitaria ;99;Nao se aplica;122.51;2.14;1.66;0.52;0.41;0.06;0.08;15.9;12.02
+6907401;Rabanada;Acucares e produtos de confeitaria ;99;Nao se aplica;38;3.4;9;2.9;2.8;0;0.1;0;0
+6907501;Milk shake ;Acucares e produtos de confeitaria ;99;Nao se aplica;25.08;3.96;1.74;0.26;0.16;0.09;0.24;17.79;19.07
+6907901;Geleia diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.02;0.09;0.05;0.04;0;3.02;0
+6908001;Doce de frutas diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.02;0.09;0.05;0.04;0;3.02;0
+6908401;Pasteis de santa clara;Acucares e produtos de confeitaria ;99;Nao se aplica;122.51;2.14;1.66;0.52;0.41;0.06;0.08;15.9;12.02
+6908501;Suspiro;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;85.54;85.21
+6909301;Doce de frutas cristalizado de qualquer sabor diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.01;0.02;0.09;0.05;0.04;0;3.02;0
+6909601;Sorvete de qualquer sabor industrializado light;Acucares e produtos de confeitaria ;99;Nao se aplica;33;4.7;2.1;0.3;0.19;0.11;0.25;22.11;17.46
+6909701;Sorvete de qualquer sabor industrializado diet;Acucares e produtos de confeitaria ;99;Nao se aplica;32;6.79;3.17;0.41;0.25;0.16;0.45;5.93;0
+6909803;Bala light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6909901;Chiclete diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6909903;Bala diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+6910002;Barra de chocolate light;Acucares e produtos de confeitaria ;99;Nao se aplica;2.8;21.17;15.73;2.84;2.76;0.05;0.01;31.32;24.57
+6910102;Barra de chocolate diet;Acucares e produtos de confeitaria ;99;Nao se aplica;2.8;21.17;15.73;2.84;2.76;0.05;0.01;31.32;24.57
+6910221;Achocolatado em po light;Acucares e produtos de confeitaria ;99;Nao se aplica;7.16;1.44;0.76;0.08;0.07;0.01;0.02;46.18;14.16
+6910321;Achocolatado em po diet;Acucares e produtos de confeitaria ;99;Nao se aplica;7.16;1.44;0.76;0.08;0.07;0.01;0.02;46.18;14.16
+6910322;Toddynho diet;Acucares e produtos de confeitaria ;99;Nao se aplica;9.59;2.01;0.9;0.21;0.14;0.07;0.11;6.24;0
+6910401;Bombom de qualquer marca light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;84.44;93.18
+6910501;Bombom de qualquer marca diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;84.44;93.18
+6910502;Bombom caramelizado de qualquer marca diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;84.44;93.18
+6910601;Geleia de frutas de qualquer marca ou sabor light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.02;0;0.01;0.01;0;0;45.61;36.07
+6910604;Geleia light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.02;0;0.01;0.01;0;0;45.61;36.07
+6910605;Geleia de frutas light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.02;0;0.01;0.01;0;0;45.61;36.07
+6910701;Doce de frutas em barra ou pasta light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.02;0;0.01;0.01;0;0;45.61;36.07
+6910702;Doce de frutas em pasta light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.02;0;0.01;0.01;0;0;45.61;36.07
+6910801;Pudim de qualquer sabor light;Acucares e produtos de confeitaria ;99;Nao se aplica;119.18;1.32;1.3;0.41;0.35;0.01;0.03;15.86;12.02
+6910808;Pudim danette light;Acucares e produtos de confeitaria ;99;Nao se aplica;119.18;1.32;1.3;0.41;0.35;0.01;0.03;15.86;12.02
+6910901;Pudim de qualquer sabor diet;Acucares e produtos de confeitaria ;99;Nao se aplica;119.18;1.32;1.3;0.41;0.35;0.01;0.03;15.86;12.02
+6911201;Doce de leite light;Acucares e produtos de confeitaria ;99;Nao se aplica;13.25;2.08;0.91;0.22;0.13;0.08;0.14;59.91;48.07
+6911301;Doce de leite diet;Acucares e produtos de confeitaria ;99;Nao se aplica;13.25;2.08;0.91;0.22;0.13;0.08;0.14;59.91;48.07
+6912501;Barra de cereais diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.55;2.8;1.69;1.25;0.44;0.02;38.43;12.43
+6912502;Barra de cereais doce diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.55;2.8;1.69;1.25;0.44;0.02;38.43;12.43
+6912801;Milk shake diet;Acucares e produtos de confeitaria ;99;Nao se aplica;5.27;0.76;0.42;0.41;0.37;0.05;0.01;59.33;39.64
+6913001;Cocada diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;11.01;0.53;0.14;0.14;0;0;62.21;71.44
+6913101;Doce de amendoim diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;8.69;25.98;15.29;15.1;0.04;0;4.19;0
+6913103;Pacoca diet;Acucares e produtos de confeitaria ;99;Nao se aplica;0;8.69;25.98;15.29;15.1;0.04;0;4.19;0
+6913108;Amendoim amanteigado diet;Acucares e produtos de confeitaria ;99;Nao se aplica;22.75;7.25;8.7;4.45;4.42;0.03;0.35;1.07;0
+6913801;Doce a base de leite diet;Acucares e produtos de confeitaria ;99;Nao se aplica;13.25;2.08;0.91;0.22;0.13;0.08;0.14;59.91;48.07
+6913901;Gelatina de qualquer sabor light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0.02;0;0.01;0.01;0;0;45.61;36.07
+6914001;Adocante light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;80.72;85.67
+6914002;Adocante em po light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;80.72;85.67
+6914003;Adocante liquido light;Acucares e produtos de confeitaria ;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+7001501;Mostarda molho;Sais e condimentos;99;Nao se aplica;0;0.25;2.63;0.95;0.44;0.46;0.01;0.86;0
+7002304;Hortela;Sais e condimentos;99;Nao se aplica;0;0;0;0.01;0;0;0;0;0
+7002401;Alcaparra em conserva;Sais e condimentos;99;Nao se aplica;0;0.23;0.06;0.3;0.11;0.18;0;2.53;0
+7002601;Coentro;Sais e condimentos;99;Nao se aplica;0;0.12;2.23;0.33;0.33;0;0;34.75;0
+7003601;Molho de soja;Sais e condimentos;99;Nao se aplica;0;0.01;0.01;0.02;0.02;0;0;2;0
+7003604;Shoyo;Sais e condimentos;99;Nao se aplica;0;0.01;0.01;0.02;0.02;0;0;2;0
+7003801;Leite de coco;Sais e condimentos;99;Nao se aplica;0;18.49;0.89;0.23;0.23;0;0;4.68;0
+7004301;Maionese (molho);Sais e condimentos;99;Nao se aplica;32.91;3.8;5.47;13.18;11.62;1.54;0.12;10.24;10.44
+7004701;Massa de tomate;Sais e condimentos;99;Nao se aplica;0;0.03;0.03;0.09;0.08;0;0;4.83;0
+7004801;Molho de tomate;Sais e condimentos;99;Nao se aplica;0;0.03;0.03;0.07;0.07;0;0;4.25;0
+7004802;Ketchup;Sais e condimentos;99;Nao se aplica;0;0.04;0.05;0.13;0.12;0;0;22.77;16.3
+7004803;Catchup;Sais e condimentos;99;Nao se aplica;0;0.04;0.05;0.13;0.12;0;0;22.77;16.3
+7006101;Pimenta em po;Sais e condimentos;99;Nao se aplica;0;0.98;1.01;1.13;0.97;0.16;0;0;0
+7007101;Tucupi em caldo sem pimenta;Sais e condimentos;99;Nao se aplica;0;0;0;0;0;0;0;1.19;1.2
+7007502;Creme de queijo;Sais e condimentos;99;Nao se aplica;51.12;9.84;4.29;0.61;0.46;0.15;0.49;4.84;0
+7007701;Caldo de peixe;Sais e condimentos;99;Nao se aplica;0;0.14;0.12;0.16;0.01;0.01;0;0.16;0
+7007901;Caldo de tomate;Sais e condimentos;99;Nao se aplica;0;0.14;0.22;0.37;0.36;0.01;0.03;3.75;2.9
+7009102;Gergelim;Sais e condimentos;99;Nao se aplica;0;9.06;23.92;25.49;25.23;0.26;0;0.52;0
+7010301;Tomate seco;Sais e condimentos;99;Nao se aplica;0;1.89;8.66;2.06;1.98;0.08;0.01;13.9;0
+7010401;Maionese (molho) light;Sais e condimentos;99;Nao se aplica;31.09;1.61;2.29;5.17;4.56;0.6;0.05;12.48;12.71
+7010501;Molho de soja light;Sais e condimentos;99;Nao se aplica;0;0.01;0.01;0.04;0.03;0;0;2.1;0
+7010601;Leite de coco light;Sais e condimentos;99;Nao se aplica;0;18.49;0.89;0.23;0.23;0;0;4.68;0
+7079202;Vinagrete;Sais e condimentos;99;Nao se aplica;0;0.87;4.47;0.67;0.63;0.05;0.01;3.42;0
+7100101;Filemignon;Carnes e visceras;2;Cozido(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100101;Filemignon;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100101;Filemignon;Carnes e visceras;4;Assado(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100101;Filemignon;Carnes e visceras;5;Frito(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7100101;Filemignon;Carnes e visceras;6;Empanado(a)/a milanesa;58;3.82;4.51;1.85;1.56;0.26;0.42;0.01;0
+7100101;Filemignon;Carnes e visceras;7;Refogado(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7100101;Filemignon;Carnes e visceras;8;Molho vermelho;46.4;2.74;3.14;0.29;0.2;0.07;0.33;0.85;0
+7100101;Filemignon;Carnes e visceras;9;Molho branco;53.23;4.26;3.77;0.39;0.28;0.09;0.42;1.03;0
+7100101;Filemignon;Carnes e visceras;11;Com manteiga/oleo;63.74;4.79;4.48;0.43;0.31;0.1;0.5;0;0
+7100101;Filemignon;Carnes e visceras;99;Nao se aplica;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100201;Contrafile;Carnes e visceras;2;Cozido(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100201;Contrafile;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100201;Contrafile;Carnes e visceras;4;Assado(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100201;Contrafile;Carnes e visceras;5;Frito(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7100201;Contrafile;Carnes e visceras;6;Empanado(a)/a milanesa;58;3.82;4.51;1.85;1.56;0.26;0.42;0.01;0
+7100201;Contrafile;Carnes e visceras;7;Refogado(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7100201;Contrafile;Carnes e visceras;8;Molho vermelho;46.4;2.74;3.14;0.29;0.2;0.07;0.33;0.85;0
+7100205;Bisteca bovina;Carnes e visceras;1;Cru(a);94;17.8;18.88;1.53;0.98;0.5;1.91;0;0
+7100205;Bisteca bovina;Carnes e visceras;2;Cozido(a);94;17.8;18.88;1.53;0.98;0.5;1.91;0;0
+7100205;Bisteca bovina;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;94;17.8;18.88;1.53;0.98;0.5;1.91;0;0
+7100205;Bisteca bovina;Carnes e visceras;4;Assado(a);94;17.8;18.88;1.53;0.98;0.5;1.91;0;0
+7100205;Bisteca bovina;Carnes e visceras;5;Frito(a);94;17.8;18.88;1.53;0.98;0.5;1.91;0;0
+7100205;Bisteca bovina;Carnes e visceras;6;Empanado(a)/a milanesa;105;8.3;9.24;2.24;1.84;0.35;0.92;0.01;0
+7100205;Bisteca bovina;Carnes e visceras;7;Refogado(a);94;17.8;18.88;1.53;0.98;0.5;1.91;0;0
+7100205;Bisteca bovina;Carnes e visceras;8;Molho vermelho;75.2;14.25;15.11;1.24;0.8;0.4;1.53;0.85;0
+7100301;Alcatra;Carnes e visceras;1;Cru(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100301;Alcatra ;Carnes e visceras;2;Cozido(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100301;Alcatra;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100301;Alcatra;Carnes e visceras;4;Assado(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100301;Alcatra;Carnes e visceras;5;Frito(a);58;4.29;5.2;3.59;3.1;0.47;0.44;0;0
+7100301;Alcatra;Carnes e visceras;6;Empanado(a)/a milanesa;58;4.29;5.2;3.59;3.1;0.47;0.44;0;0
+7100301;Alcatra;Carnes e visceras;7;Refogado(a);58;4.29;5.2;3.59;3.1;0.47;0.44;0;0
+7100301;Alcatra;Carnes e visceras;8;Molho vermelho;46.4;2.74;3.14;0.29;0.2;0.07;0.33;0.85;0
+7100301;Alcatra;Carnes e visceras;12;Ao vinagrete;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100301;Alcatra;Carnes e visceras;13;Ensopado;58;4.29;5.2;3.59;3.1;0.47;0.44;0;0
+7100303;Maminha;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100303;Maminha;Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100303;Maminha;Carnes e visceras;5;Frito(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100303;Maminha;Carnes e visceras;8;Molho vermelho;72;1.38;1.61;0.19;0.15;0.02;0.18;0.85;0
+7100304;Picanha;Carnes e visceras;2;Cozido(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100304;Picanha;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100304;Picanha;Carnes e visceras;4;Assado(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7100304;Picanha ;Carnes e visceras;5;Frito(a);58;4.29;5.2;3.59;3.1;0.47;0.44;0;0
+7100304;Picanha ;Carnes e visceras;13;Ensopado;58;4.29;5.2;3.59;3.1;0.47;0.44;0;0
+7100501;Patinho;Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100501;Patinho;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100501;Patinho;Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100501;Patinho;Carnes e visceras;5;Frito(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100501;Patinho;Carnes e visceras;6;Empanado(a)/a milanesa;90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100501;Patinho;Carnes e visceras;8;Molho vermelho;72;1.38;1.61;0.19;0.15;0.02;0.18;0.85;0
+7100501;Patinho;Carnes e visceras;13;Ensopado;90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100502;Cabeca de lombo (carne bovina);Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100502;Cabeca de lombo (carne bovina);Carnes e visceras;3;Grelhado(a)/brasa/churrasco;90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100502;Cabeca de lombo (carne bovina);Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100502;Cabeca de lombo (carne bovina);Carnes e visceras;5;Frito(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100502;Cabeca de lombo (carne bovina);Carnes e visceras;6;Empanado(a)/a milanesa;90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100502;Cabeca de lombo (carne bovina);Carnes e visceras;7;Refogado(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100604;Posta branca;Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100604;Posta branca;Carnes e visceras;5;Frito(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100604;Posta branca;Carnes e visceras;8;Molho vermelho;72;1.38;1.61;0.19;0.15;0.02;0.18;0.85;0
+7100606;Tatu (lagarto redondo);Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100606;Tatu (lagarto redondo);Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100606;Tatu (lagarto redondo);Carnes e visceras;7;Refogado(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100606;Tatu (lagarto redondo);Carnes e visceras;99;Nao se aplica;90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100607;Paulista;Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100607;Paulista;Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100608;Lombo paulista (carne bovina);Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100608;Lombo paulista (carne bovina);Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100608;Lombo paulista (carne bovina);Carnes e visceras;5;Frito(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100608;Lombo paulista (carne bovina);Carnes e visceras;13;Ensopado;90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7100702;Posta vermelha;Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7100801;Acem;Carnes e visceras;2;Cozido(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7100801;Acem;Carnes e visceras;4;Assado(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7100801;Acem;Carnes e visceras;5;Frito(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7100801;Acem;Carnes e visceras;6;Empanado(a)/a milanesa;75;6.15;7.59;2.11;1.74;0.34;0.69;0.01;0
+7100801;Acem;Carnes e visceras;7;Refogado(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7100801;Acem;Carnes e visceras;13;Ensopado;75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7100803;Agulha (acem);Carnes e visceras;2;Cozido(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7100803;Agulha (acem);Carnes e visceras;4;Assado(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7100803;Agulha (acem);Carnes e visceras;5;Frito(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7100905;Paleta ;Carnes e visceras;2;Cozido(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7100905;Paleta ;Carnes e visceras;5;Frito(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7100905;Paleta ;Carnes e visceras;8;Molho vermelho;60;4.6;5.61;0.51;0.35;0.13;0.54;0.85;0
+7100905;Paleta ;Carnes e visceras;13;Ensopado;75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7100908;Pa com osso;Carnes e visceras;2;Cozido(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7100908;Pa com osso;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7100908;Pa com osso;Carnes e visceras;4;Assado(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7101001;Musculo bovino;Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7101001;Musculo bovino;Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7101001;Musculo bovino;Carnes e visceras;8;Molho vermelho;72;1.38;1.61;0.19;0.15;0.02;0.18;0.85;0
+7101001;Musculo bovino;Carnes e visceras;13;Ensopado;90;2.12;2.58;1.7;1.48;0.19;0.24;0;0
+7101001;Musculo bovino;Carnes e visceras;15;Sopa;7.86;0.68;0.79;0.09;0.07;0.02;0.08;0.24;0
+7101006;Chambaril;Carnes e visceras;2;Cozido(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7101006;Chambaril;Carnes e visceras;4;Assado(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7101006;Chambaril;Carnes e visceras;7;Refogado(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7101009;Carne marica bovina;Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7101009;Carne marica bovina;Carnes e visceras;5;Frito(a);90;2.12;2.58;1.7;1.48;0.19;0.24;0;0
+7101009;Carne marica bovina;Carnes e visceras;7;Refogado(a);90;2.12;2.58;1.7;1.48;0.19;0.24;0;0
+7101011;Vazio (carne bovina);Carnes e visceras;2;Cozido(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7101011;Vazio (carne bovina);Carnes e visceras;3;Grelhado(a)/brasa/churrasco;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7101011;Vazio (carne bovina);Carnes e visceras;5;Frito(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7101101;Peito bovino;Carnes e visceras;2;Cozido(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7101101;Peito bovino;Carnes e visceras;5;Frito(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7101202;Fraldinha (capa de file);Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7101202;Fraldinha (capa de file);Carnes e visceras;3;Grelhado(a)/brasa/churrasco;90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7101202;Fraldinha (capa de file);Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7101202;Fraldinha (capa de file);Carnes e visceras;5;Frito(a);90;2.12;2.58;1.7;1.48;0.19;0.24;0;0
+7101203;Aba de file ;Carnes e visceras;1;Cru(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7101203;Aba de file ;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7101203;Aba de file ;Carnes e visceras;5;Frito(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7101301;Costela bovina;Carnes e visceras;2;Cozido(a);84;12.01;12.8;1.05;0.7;0.33;1.35;0;0
+7101301;Costela bovina;Carnes e visceras;4;Assado(a);84;12.01;12.8;1.05;0.7;0.33;1.35;0;0
+7101301;Costela bovina;Carnes e visceras;7;Refogado(a);84;12.01;12.8;1.05;0.7;0.33;1.35;0;0
+7101301;Costela bovina;Carnes e visceras;13;Ensopado;84;12.01;12.8;1.05;0.7;0.33;1.35;0;0
+7101704;Jacare (carne bovina de segunda c/ osso);Carnes e visceras;2;Cozido(a);84;12.01;12.8;1.05;0.7;0.33;1.35;0;0
+7101704;Jacare (carne bovina de segunda c/ osso);Carnes e visceras;4;Assado(a);84;12.01;12.8;1.05;0.7;0.33;1.35;0;0
+7101704;Jacare (carne bovina de segunda c/ osso);Carnes e visceras;5;Frito(a);84;12.01;12.8;1.05;0.7;0.33;1.35;0;0
+7101706;File de segunda;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7101706;File de segunda;Carnes e visceras;4;Assado(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7101706;File de segunda;Carnes e visceras;5;Frito(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7101706;File de segunda;Carnes e visceras;6;Empanado(a)/a milanesa;75;6.15;7.59;2.11;1.74;0.34;0.69;0.01;0
+7101706;File de segunda;Carnes e visceras;10;Ao alho e oleo;75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7101801;Viscera bovina ;Carnes e visceras;2;Cozido(a);396;1.7;0.65;0.64;0;0;0.21;0;0
+7101801;Viscera bovina ;Carnes e visceras;5;Frito(a);396;2.1;1.23;2.12;1.31;0.17;0.22;0;0
+7101806;Panelada (visceras bovinas nao especificadas);Carnes e visceras;2;Cozido(a);265.68;0.9;0.63;0.86;0.35;0.01;0.05;1.95;0
+7101806;Panelada (visceras bovinas nao especificadas);Carnes e visceras;13;Ensopado;265.68;0.9;0.63;0.86;0.35;0.01;0.05;1.95;0
+7101901;Coracao bovino;Carnes e visceras;2;Cozido(a);212;1.4;1.01;0.99;0.74;0.02;0.16;0;0
+7101901;Coracao bovino;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;212;1.4;1.01;0.99;0.74;0.02;0.16;0;0
+7101901;Coracao bovino;Carnes e visceras;4;Assado(a);212;1.4;1.01;0.99;0.74;0.02;0.16;0;0
+7101901;Coracao bovino;Carnes e visceras;5;Frito(a);212;1.81;1.6;2.47;2.04;0.19;0.17;0;0
+7102001;Rim de boi ;Carnes e visceras;2;Cozido(a);716;1.07;0.71;0.83;0.46;0.02;0.2;0;0
+7102102;Bofe bovino;Carnes e visceras;4;Assado(a);716;1.07;0.71;0.83;0.46;0.02;0.2;0;0
+7102102;Bofe bovino;Carnes e visceras;5;Frito(a);716;1.47;1.3;2.31;1.77;0.19;0.21;0;0
+7102102;Bofe bovino;Carnes e visceras;7;Refogado(a);716;1.47;1.3;2.31;1.77;0.19;0.21;0;0
+7102201;Miolo de boi;Carnes e visceras;2;Cozido(a);3100;2.39;1.88;1.63;0.04;0;0.51;0;0
+7102401;Tripa bovina;Carnes e visceras;2;Cozido(a);157;1.36;1.6;0.21;0.14;0.01;0.2;0;0
+7102401;Tripa bovina;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;157;1.36;1.6;0.21;0.14;0.01;0.2;0;0
+7102401;Tripa bovina;Carnes e visceras;4;Assado(a);157;1.36;1.6;0.21;0.14;0.01;0.2;0;0
+7102401;Tripa bovina;Carnes e visceras;5;Frito(a);157;1.76;2.19;1.69;1.44;0.18;0.21;0;0
+7102402;Dobradinha fresca;Carnes e visceras;2;Cozido(a);157;1.36;1.6;0.21;0.14;0.01;0.2;0;0
+7102402;Dobradinha fresca;Carnes e visceras;4;Assado(a);157;1.36;1.6;0.21;0.14;0.01;0.2;0;0
+7102402;Dobradinha fresca;Carnes e visceras;8;Molho vermelho;125.6;1.09;1.29;0.18;0.12;0.01;0.16;0.85;0
+7102402;Dobradinha fresca;Carnes e visceras;13;Ensopado;157;1.76;2.19;1.69;1.44;0.18;0.21;0;0
+7102402;Dobradinha fresca;Carnes e visceras;99;Nao se aplica;157;1.36;1.6;0.21;0.14;0.01;0.2;0;0
+7102403;Fato bovino;Carnes e visceras;2;Cozido(a);157;1.36;1.6;0.21;0.14;0.01;0.2;0;0
+7102403;Fato bovino;Carnes e visceras;5;Frito(a);157;1.76;2.19;1.69;1.44;0.18;0.21;0;0
+7102404;Fato caprino;Carnes e visceras;2;Cozido(a);157;1.36;1.6;0.21;0.14;0.01;0.2;0;0
+7102501;Figado bovino;Carnes e visceras;1;Cru(a);396;1.7;0.65;0.64;0;0;0.21;0;0
+7102501;Figado bovino;Carnes e visceras;2;Cozido(a);396;1.7;0.65;0.64;0;0;0.21;0;0
+7102501;Figado bovino;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;396;1.7;0.65;0.64;0;0;0.21;0;0
+7102501;Figado bovino;Carnes e visceras;4;Assado(a);396;1.7;0.65;0.64;0;0;0.21;0;0
+7102501;Figado bovino;Carnes e visceras;5;Frito(a);396;2.1;1.23;2.12;1.31;0.17;0.22;0;0
+7102501;Figado bovino;Carnes e visceras;6;Empanado(a)/a milanesa;396;2.1;1.24;2.14;1.32;0.18;0.22;0.01;0
+7102501;Figado bovino;Carnes e visceras;7;Refogado(a);396;2.1;1.23;2.12;1.31;0.17;0.22;0;0
+7102501;Figado bovino;Carnes e visceras;8;Molho vermelho;316.8;1.36;0.52;0.53;0.01;0;0.17;0.85;0
+7102501;Figado bovino;Carnes e visceras;10;Ao alho e oleo;396;2.1;1.23;2.12;1.31;0.17;0.22;0;0
+7102501;Figado bovino;Carnes e visceras;13;Ensopado;396;2.1;1.23;2.12;1.31;0.17;0.22;0;0
+7102601;Cupim;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;90.8;5.5;5.4;0.2;0.16;0.03;0;0;0
+7102601;Cupim;Carnes e visceras;4;Assado(a);90.8;5.5;5.4;0.2;0.16;0.03;0;0;0
+7102601;Cupim;Carnes e visceras;5;Frito(a);85.35;6.1;6.44;3.64;3.19;0.43;0.03;0;0
+7102701;Lingua bovina;Carnes e visceras;2;Cozido(a);132;8.13;10.1;0.75;0.53;0.09;0.84;0;0
+7102701;Lingua bovina;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;132;8.13;10.1;0.75;0.53;0.09;0.84;0;0
+7102701;Lingua bovina;Carnes e visceras;4;Assado(a);132;8.13;10.1;0.75;0.53;0.09;0.84;0;0
+7102701;Lingua bovina;Carnes e visceras;5;Frito(a);132;8.53;10.69;2.23;1.83;0.27;0.85;0;0
+7102701;Lingua bovina;Carnes e visceras;8;Molho vermelho;105.6;6.51;8.09;0.61;0.44;0.07;0.67;0.85;0
+7102701;Lingua bovina;Carnes e visceras;13;Ensopado;132;8.53;10.69;2.23;1.83;0.27;0.85;0;0
+7102801;Rabada de boi;Carnes e visceras;99;Nao se aplica;84;12.01;12.8;1.05;0.7;0.33;1.35;0;0
+7103101;Mocoto bovino;Carnes e visceras;2;Cozido(a);83;3.54;4.49;0.85;0.73;0.02;0.03;0;0
+7103101;Mocoto bovino;Carnes e visceras;13;Ensopado;83;3.54;4.49;0.85;0.73;0.02;0.03;0;0
+7103101;Mocoto bovino;Carnes e visceras;15;Sopa;7.86;0.68;0.79;0.09;0.07;0.02;0.08;0.24;0
+7103101;Mocoto bovino;Carnes e visceras;99;Nao se aplica;83;3.54;4.49;0.85;0.73;0.02;0.03;0;0
+7103104;Braco bovino;Carnes e visceras;5;Frito(a);90;2.12;2.58;1.7;1.48;0.19;0.24;0;0
+7103105;Mao bovina;Carnes e visceras;2;Cozido(a);83;3.54;4.49;0.85;0.73;0.02;0.03;0;0
+7103301;Carre ;Carnes e visceras;2;Cozido(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103301;Carre ;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103301;Carre ;Carnes e visceras;4;Assado(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103301;Carre ;Carnes e visceras;5;Frito(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103305;Bisteca suina;Carnes e visceras;2;Cozido(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103305;Bisteca suina;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103305;Bisteca suina;Carnes e visceras;4;Assado(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103305;Bisteca suina;Carnes e visceras;5;Frito(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103305;Bisteca suina;Carnes e visceras;6;Empanado(a)/a milanesa;121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103305;Bisteca suina;Carnes e visceras;7;Refogado(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103305;Bisteca suina;Carnes e visceras;99;Nao se aplica;121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103401;Pernil suino;Carnes e visceras;2;Cozido(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7103401;Pernil suino;Carnes e visceras;4;Assado(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7103401;Pernil suino;Carnes e visceras;5;Frito(a);92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7103401;Pernil suino;Carnes e visceras;7;Refogado(a);92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7103403;Quarto suino;Carnes e visceras;2;Cozido(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7103501;Costela suina;Carnes e visceras;1;Cru(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103501;Costela suina;Carnes e visceras;2;Cozido(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103501;Costela suina;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103501;Costela suina;Carnes e visceras;4;Assado(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103501;Costela suina;Carnes e visceras;5;Frito(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103501;Costela suina;Carnes e visceras;7;Refogado(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103501;Costela suina;Carnes e visceras;8;Molho vermelho;96.8;8.9;10.79;2.2;2.02;0.09;0.07;0.85;0
+7103501;Costela suina;Carnes e visceras;13;Ensopado;121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103501;Costela suina;Carnes e visceras;99;Nao se aplica;121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7103701;Lombo suino;Carnes e visceras;2;Cozido(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7103701;Lombo suino;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7103701;Lombo suino;Carnes e visceras;4;Assado(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7103701;Lombo suino;Carnes e visceras;5;Frito(a);92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7103801;Toucinho;Carnes e visceras;99;Nao se aplica;110;13.74;18.52;4.55;4;0.2;0.31;0.59;1.43
+7103903;Miudo suino;Carnes e visceras;2;Cozido(a);355;1.41;0.63;1.05;0.42;0.04;0;0;0
+7103906;Arrasto suino;Carnes e visceras;99;Nao se aplica;265.68;0.9;0.63;0.86;0.35;0.01;0.05;1.95;0
+7103907;Sarapatel suino fresco;Carnes e visceras;99;Nao se aplica;265.68;0.9;0.63;0.86;0.35;0.01;0.05;1.95;0
+7104101;Carne suina;Carnes e visceras;1;Cru(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7104101;Carne suina;Carnes e visceras;2;Cozido(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7104101;Carne suina;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7104101;Carne suina;Carnes e visceras;4;Assado(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7104101;Carne suina;Carnes e visceras;5;Frito(a);92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7104101;Carne suina;Carnes e visceras;6;Empanado(a)/a milanesa;92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7104101;Carne suina;Carnes e visceras;7;Refogado(a);92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7104101;Carne suina;Carnes e visceras;8;Molho vermelho;73.6;5.89;7.22;1.53;1.38;0.05;0.03;0.85;0
+7104101;Carne suina;Carnes e visceras;10;Ao alho e oleo;92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7104101;Carne suina;Carnes e visceras;13;Ensopado;92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7104101;Carne suina;Carnes e visceras;99;Nao se aplica;92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7104301;Carne moida ;Carnes e visceras;1;Cru(a);86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+7104301;Carne moida;Carnes e visceras;2;Cozido(a);86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+7104301;Carne moida;Carnes e visceras;4;Assado(a);86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+7104301;Carne moida;Carnes e visceras;5;Frito(a);86;4.78;5.26;1.88;1.6;0.23;0.71;0;0
+7104301;Carne moida;Carnes e visceras;6;Empanado(a)/a milanesa;86;4.78;5.26;1.88;1.6;0.23;0.71;0;0
+7104301;Carne moida;Carnes e visceras;7;Refogado(a);86;4.78;5.26;1.88;1.6;0.23;0.71;0;0
+7104301;Carne moida;Carnes e visceras;8;Molho vermelho;68.8;3.51;3.75;0.33;0.25;0.04;0.55;0.85;0
+7104301;Carne moida;Carnes e visceras;9;Molho branco;75.63;5.04;4.38;0.43;0.33;0.06;0.65;1.03;0
+7104301;Carne moida;Carnes e visceras;10;Ao alho e oleo;86;4.78;5.26;1.88;1.6;0.23;0.71;0;0
+7104301;Carne moida;Carnes e visceras;13;Ensopado;86;4.78;5.26;1.88;1.6;0.23;0.71;0;0
+7104301;Carne moida;Carnes e visceras;15;Sopa;7.86;0.68;0.79;0.09;0.07;0.02;0.08;0.24;0
+7104301;Carne moida;Carnes e visceras;99;Nao se aplica;86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+7104302;Guisado ;Carnes e visceras;99;Nao se aplica;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7104501;Tripa suina;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;277;9.52;7.07;1.22;0.98;0.03;0;0;0
+7104501;Tripa suina;Carnes e visceras;5;Frito(a);277;9.92;7.66;2.7;2.29;0.21;0.01;0;0
+7104601;Figado suino;Carnes e visceras;2;Cozido(a);355;1.41;0.63;1.05;0.42;0.04;0;0;0
+7104601;Figado suino;Carnes e visceras;4;Assado(a);355;1.41;0.63;1.05;0.42;0.04;0;0;0
+7104601;Figado suino;Carnes e visceras;5;Frito(a);355;1.81;1.21;2.53;1.73;0.21;0.01;0;0
+7104701;Lingua suina;Carnes e visceras;2;Cozido(a);146;6.45;8.76;1.93;1.84;0.09;0;0;0
+7104701;Lingua suina;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;146;6.45;8.76;1.93;1.84;0.09;0;0;0
+7104701;Lingua suina;Carnes e visceras;4;Assado(a);146;6.45;8.76;1.93;1.84;0.09;0;0;0
+7104701;Lingua suina;Carnes e visceras;5;Frito(a);146;6.85;9.34;3.41;3.15;0.26;0.01;0;0
+7104701;Lingua suina;Carnes e visceras;7;Refogado(a);146;6.85;9.34;3.41;3.15;0.26;0.01;0;0
+7105001;Orelha suina fresca;Carnes e visceras;2;Cozido(a);83;3.54;4.49;0.85;0.73;0.02;0.03;0;0
+7105103;Sarrabulho;Carnes e visceras;99;Nao se aplica;265.68;0.9;0.63;0.86;0.35;0.01;0.05;1.95;0
+7105203;Mocoto suino;Carnes e visceras;2;Cozido(a);83;3.54;4.49;0.85;0.73;0.02;0.03;0;0
+7105401;Carne de cabrito ;Carnes e visceras;2;Cozido(a);75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105401;Carne de cabrito ;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105401;Carne de cabrito ;Carnes e visceras;4;Assado(a);75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105402;Carne de bode;Carnes e visceras;2;Cozido(a);75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105402;Carne de bode ;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105402;Carne de bode ;Carnes e visceras;4;Assado(a);75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105402;Carne de bode ;Carnes e visceras;5;Frito(a);75;1.33;1.94;1.71;1.44;0.19;0.1;0;0
+7105403;Carne caprina;Carnes e visceras;2;Cozido(a);75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105403;Carne caprina;Carnes e visceras;4;Assado(a);75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105403;Carne caprina;Carnes e visceras;5;Frito(a);75;1.33;1.94;1.71;1.44;0.19;0.1;0;0
+7105403;Carne caprina;Carnes e visceras;13;Ensopado;75;1.33;1.94;1.71;1.44;0.19;0.1;0;0
+7105405;Carne de caprino;Carnes e visceras;1;Cru(a);75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105405;Carne de caprino;Carnes e visceras;2;Cozido(a);75;0.93;1.36;0.23;0.13;0.02;0.09;0;0
+7105405;Carne de caprino;Carnes e visceras;5;Frito(a);75;1.33;1.94;1.71;1.44;0.19;0.1;0;0
+7105601;Carne de carneiro;Carnes e visceras;2;Cozido(a);92;3.28;4.02;0.6;0.49;0.05;0.4;0;0
+7105601;Carne de carneiro;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;92;3.28;4.02;0.6;0.49;0.05;0.4;0;0
+7105601;Carne de carneiro;Carnes e visceras;4;Assado(a);92;3.28;4.02;0.6;0.49;0.05;0.4;0;0
+7105601;Carne de carneiro;Carnes e visceras;5;Frito(a);92;4.16;5.3;3.84;3.35;0.43;0.43;0;0
+7105601;Carne de carneiro;Carnes e visceras;13;Ensopado;92;4.16;5.3;3.84;3.35;0.43;0.43;0;0
+7105602;Carne de ovelha;Carnes e visceras;2;Cozido(a);92;3.28;4.02;0.6;0.49;0.05;0.4;0;0
+7105602;Carne de ovelha;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;92;3.28;4.02;0.6;0.49;0.05;0.4;0;0
+7105602;Carne de ovelha;Carnes e visceras;4;Assado(a);92;3.28;4.02;0.6;0.49;0.05;0.4;0;0
+7105602;Carne de ovelha;Carnes e visceras;5;Frito(a);92;4.16;5.3;3.84;3.35;0.43;0.43;0;0
+7105801;Mocoto de caprino;Carnes e visceras;2;Cozido(a);83;3.54;4.49;0.85;0.73;0.02;0.03;0;0
+7106301;Pernil ;Carnes e visceras;2;Cozido(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7106301;Pernil ;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7106301;Pernil ;Carnes e visceras;4;Assado(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7106301;Pernil ;Carnes e visceras;5;Frito(a);92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7106401;Lagarto bovino ;Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7106401;Lagarto bovino ;Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7106401;Lagarto bovino ;Carnes e visceras;5;Frito(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7106401;Lagarto bovino ;Carnes e visceras;7;Refogado(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7106401;Lagarto bovino ;Carnes e visceras;8;Molho vermelho;72;1.38;1.61;0.19;0.15;0.02;0.18;0.85;0
+7106501;Alcatra suina;Carnes e visceras;2;Cozido(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7106501;Alcatra suina;Carnes e visceras;4;Assado(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7106501;Alcatra suina ;Carnes e visceras;5;Frito(a);92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7107102;Brachola;Carnes e visceras;99;Nao se aplica;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107103;Bife role cru;Carnes e visceras;99;Nao se aplica;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107204;Buchada de bode;Carnes e visceras;99;Nao se aplica;144;2.5;1.2;0.1;0.07;0.01;0;0;0
+7107501;Sua suina;Carnes e visceras;2;Cozido(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7107501;Sua suina;Carnes e visceras;5;Frito(a);121;11.12;13.48;2.73;2.51;0.11;0.08;0;0
+7107601;Carne de outros animais;Carnes e visceras;1;Cru(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7107601;Carne de outros animais;Carnes e visceras;2;Cozido(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7107601;Carne de outros animais;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7107601;Carne de outros animais;Carnes e visceras;4;Assado(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7107601;Carne de outros animais;Carnes e visceras;5;Frito(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7107601;Carne de outros animais;Carnes e visceras;7;Refogado(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7107601;Carne de outros animais;Carnes e visceras;8;Molho vermelho;60;4.6;5.61;0.51;0.35;0.13;0.54;0.85;0
+7107601;Carne de outros animais;Carnes e visceras;13;Ensopado;75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7107601;Carne de outros animais;Carnes e visceras;99;Nao se aplica;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7107603;Carne da paca;Carnes e visceras;2;Cozido(a);117;2.07;1.89;1.35;1.07;0.28;0;0;0
+7107603;Carne da paca;Carnes e visceras;4;Assado(a);117;2.07;1.89;1.35;1.07;0.28;0;0;0
+7107603;Carne da paca;Carnes e visceras;5;Frito(a);117;2.47;2.47;2.83;2.38;0.45;0.01;0;0
+7107611;Carne de jacare;Carnes e visceras;2;Cozido(a);91.1;0.39;0.48;0.36;0.19;0.06;0.01;0;0
+7107611;Carne de jacare;Carnes e visceras;5;Frito(a);91.1;0.79;1.06;1.84;1.5;0.23;0.02;0;0
+7107615;Carne de capivara;Carnes e visceras;2;Cozido(a);117;2.07;1.89;1.35;1.07;0.28;0;0;0
+7107615;Carne de capivara;Carnes e visceras;4;Assado(a);117;2.07;1.89;1.35;1.07;0.28;0;0;0
+7107615;Carne de capivara;Carnes e visceras;5;Frito(a);117;2.47;2.47;2.83;2.38;0.45;0.01;0;0
+7107617;Carne de cotia;Carnes e visceras;2;Cozido(a);117;2.07;1.89;1.35;1.07;0.28;0;0;0
+7107617;Carne de cotia;Carnes e visceras;4;Assado(a);117;2.07;1.89;1.35;1.07;0.28;0;0;0
+7107622;Carne de jabuti;Carnes e visceras;2;Cozido(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7107801;Carne de primeira ;Carnes e visceras;2;Cozido(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107801;Carne de primeira ;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107801;Carne de primeira ;Carnes e visceras;4;Assado(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107801;Carne de primeira ;Carnes e visceras;5;Frito(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7107801;Carne de primeira ;Carnes e visceras;6;Empanado(a)/a milanesa;58;3.82;4.51;1.85;1.56;0.26;0.42;0.01;0
+7107801;Carne de primeira ;Carnes e visceras;7;Refogado(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7107801;Carne de primeira ;Carnes e visceras;8;Molho vermelho;46.4;2.74;3.14;0.29;0.2;0.07;0.33;0.85;0
+7107801;Carne de primeira ;Carnes e visceras;9;Molho branco;53.23;4.26;3.77;0.39;0.28;0.09;0.42;1.03;0
+7107801;Carne de primeira ;Carnes e visceras;11;Com manteiga/oleo;63.74;4.79;4.48;0.43;0.31;0.1;0.5;0;0
+7107804;Chuleta;Carnes e visceras;2;Cozido(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107804;Chuleta;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107804;Chuleta;Carnes e visceras;4;Assado(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107804;Chuleta;Carnes e visceras;5;Frito(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7107805;File nao especificado;Carnes e visceras;1;Cru(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107805;File nao especificado;Carnes e visceras;2;Cozido(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107805;File nao especificado;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107805;File nao especificado;Carnes e visceras;4;Assado(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7107805;File nao especificado;Carnes e visceras;5;Frito(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7107805;File nao especificado;Carnes e visceras;6;Empanado(a)/a milanesa;58;3.82;4.51;1.85;1.56;0.26;0.42;0.01;0
+7107805;File nao especificado;Carnes e visceras;7;Refogado(a);58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7107805;File nao especificado;Carnes e visceras;8;Molho vermelho;46.4;2.74;3.14;0.29;0.2;0.07;0.33;0.85;0
+7107805;File nao especificado;Carnes e visceras;11;Com manteiga/oleo;63.74;4.79;4.48;0.43;0.31;0.1;0.5;0;0
+7107805;File nao especificado;Carnes e visceras;13;Ensopado;58;3.82;4.5;1.83;1.54;0.26;0.42;0;0
+7107805;File nao especificado;Carnes e visceras;99;Nao se aplica;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7108107;Miudo de bode ;Carnes e visceras;2;Cozido(a);396;1.7;0.65;0.64;0;0;0.21;0;0
+7108301;Pe suino fresco;Carnes e visceras;2;Cozido(a);83;3.54;4.49;0.85;0.73;0.02;0.03;0;0
+7108301;Pe suino fresco;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;83;3.54;4.49;0.85;0.73;0.02;0.03;0;0
+7108301;Pe suino fresco;Carnes e visceras;5;Frito(a);83;3.94;5.07;2.33;2.04;0.19;0.04;0;0
+7109101;Carne bovina ;Carnes e visceras;1;Cru(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7109101;Carne bovina ;Carnes e visceras;2;Cozido(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7109101;Carne bovina;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7109101;Carne bovina;Carnes e visceras;4;Assado(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7109101;Carne bovina;Carnes e visceras;5;Frito(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7109101;Carne bovina;Carnes e visceras;6;Empanado(a)/a milanesa;75;6.15;7.59;2.11;1.74;0.34;0.69;0.01;0
+7109101;Carne bovina ;Carnes e visceras;7;Refogado(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7109101;Carne bovina ;Carnes e visceras;8;Molho vermelho;60;4.6;5.61;0.51;0.35;0.13;0.54;0.85;0
+7109101;Carne bovina ;Carnes e visceras;9;Molho branco;66.83;6.12;6.24;0.6;0.42;0.15;0.64;1.03;0
+7109101;Carne bovina ;Carnes e visceras;10;Ao alho e oleo;80.74;7.11;7.56;0.69;0.49;0.17;0.77;0;0
+7109101;Carne bovina;Carnes e visceras;11;Com manteiga/oleo;80.74;7.11;7.56;0.69;0.49;0.17;0.77;0;0
+7109101;Carne bovina ;Carnes e visceras;12;Ao vinagrete;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7109101;Carne bovina;Carnes e visceras;13;Ensopado;75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7109101;Carne bovina ;Carnes e visceras;15;Sopa;7.86;0.68;0.79;0.09;0.07;0.02;0.08;0.24;0
+7109101;Carne bovina ;Carnes e visceras;99;Nao se aplica;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7110601;Lombo nao especificado;Carnes e visceras;1;Cru(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7110601;Lombo nao especificado;Carnes e visceras;2;Cozido(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7110601;Lombo nao especificado;Carnes e visceras;4;Assado(a);92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7110601;Lombo nao especificado;Carnes e visceras;5;Frito(a);92;8.24;10.3;5.13;4.57;0.44;0.07;0;0
+7110601;Lombo nao especificado;Carnes e visceras;9;Molho branco;92;7.36;9.02;1.89;1.71;0.06;0.04;0;0
+7110801;Musculo nao especificado;Carnes e visceras;2;Cozido(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7110801;Musculo nao especificado;Carnes e visceras;13;Ensopado;90;2.12;2.58;1.7;1.48;0.19;0.24;0;0
+7110902;Ossada nao especificada;Carnes e visceras;2;Cozido(a);109;2.31;2.16;0.43;0.32;0.04;0.1;0;0
+7110902;Ossada nao especificada;Carnes e visceras;7;Refogado(a);109;2.71;2.74;1.91;1.63;0.21;0.11;0;0
+7110902;Ossada nao especificada;Carnes e visceras;15;Sopa;109;2.31;2.16;0.43;0.32;0.04;0.1;0;0
+7110902;Ossada nao especificada;Carnes e visceras;99;Nao se aplica;109;2.31;2.16;0.43;0.32;0.04;0.1;0;0
+7111202;Carne de segunda ;Carnes e visceras;1;Cru(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7111202;Carne de segunda ;Carnes e visceras;2;Cozido(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7111202;Carne de segunda ;Carnes e visceras;3;Grelhado(a)/brasa/churrasco;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7111202;Carne de segunda ;Carnes e visceras;4;Assado(a);75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7111202;Carne de segunda ;Carnes e visceras;5;Frito(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7111202;Carne de segunda ;Carnes e visceras;6;Empanado(a)/a milanesa;75;6.15;7.59;2.11;1.74;0.34;0.69;0.01;0
+7111202;Carne de segunda ;Carnes e visceras;7;Refogado(a);75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7111202;Carne de segunda ;Carnes e visceras;8;Molho vermelho;60;4.6;5.61;0.51;0.35;0.13;0.54;0.85;0
+7111202;Carne de segunda ;Carnes e visceras;10;Ao alho e oleo;80.74;7.11;7.56;0.69;0.49;0.17;0.77;0;0
+7111202;Carne de segunda ;Carnes e visceras;13;Ensopado;75;6.14;7.59;2.09;1.72;0.34;0.69;0;0
+7111401;Contrafile organico;Carnes e visceras;4;Assado(a);58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+7111405;Bisteca organica;Carnes e visceras;4;Assado(a);94;17.8;18.88;1.53;0.98;0.5;1.91;0;0
+7111405;Bisteca organica;Carnes e visceras;5;Frito(a);94;17.8;18.88;1.53;0.98;0.5;1.91;0;0
+7111702;Cabeca de lombo (carne bovina) organica;Carnes e visceras;1;Cru(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7111702;Cabeca de lombo (carne bovina) organica;Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7111702;Cabeca de lombo (carne bovina) organica;Carnes e visceras;5;Frito(a);90;2.6;3.28;3.46;3.03;0.4;0.26;0;0
+7111806;Tatu (lagarto redondo) organico;Carnes e visceras;4;Assado(a);90;1.72;2;0.22;0.17;0.02;0.23;0;0
+7200101;Peixe de mar (inteiro. em posta. em file. etc.)  ;Pescados e frutos do mar;1;Cru(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7200101;Peixe de mar (inteiro. em posta. em file. etc.)  ;Pescados e frutos do mar;2;Cozido(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7200101;Peixe de mar (inteiro. em posta. em file. etc.)  ;Pescados e frutos do mar;3;Grelhado(a)/brasa/churrasco;68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7200101;Peixe de mar (inteiro. em posta. em file. etc.)  ;Pescados e frutos do mar;4;Assado(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7200101;Peixe de mar (inteiro. em posta. em file. etc.)  ;Pescados e frutos do mar;5;Frito(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7200101;Peixe de mar (inteiro. em posta. em file. etc.)  ;Pescados e frutos do mar;6;Empanado(a)/a milanesa;68;0.74;0.88;2.15;1.34;0.19;0;0.01;0
+7200101;Peixe de mar (inteiro. em posta. em file. etc.)  ;Pescados e frutos do mar;8;Molho vermelho;54.4;0.3;0.23;0.53;0.03;0.01;0;0.85;0
+7200101;Peixe de mar (inteiro. em posta. em file. etc.)  ;Pescados e frutos do mar;9;Molho branco;68.33;2.32;1.3;1.06;0.45;0.09;0.11;0.39;0
+7200101;Peixe de mar (inteiro. em posta. em file. etc.)  ;Pescados e frutos do mar;13;Ensopado;68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7200401;Peixe de mar salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;2;Cozido(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7200401;Peixe de mar salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;3;Grelhado(a)/brasa/churrasco;68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7200401;Peixe de mar salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;4;Assado(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7200401;Peixe de mar salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;5;Frito(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7200401;Peixe de mar salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;6;Empanado(a)/a milanesa;68;0.74;0.88;2.15;1.34;0.19;0;0.01;0
+7200401;Peixe de mar salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;9;Molho branco;68.33;2.32;1.3;1.06;0.45;0.09;0.11;0.39;0
+7200401;Peixe de mar salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;13;Ensopado;68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7260101;Camarao;Pescados e frutos do mar;1;Cru(a);195;0.29;0.2;0.44;0.02;0.01;0.02;0;0
+7260101;Camarao ;Pescados e frutos do mar;2;Cozido(a);195;0.29;0.2;0.44;0.02;0.01;0.02;0;0
+7260101;Camarao;Pescados e frutos do mar;3;Grelhado(a)/brasa/churrasco;195;0.29;0.2;0.44;0.02;0.01;0.02;0;0
+7260101;Camarao;Pescados e frutos do mar;4;Assado(a);195;0.29;0.2;0.44;0.02;0.01;0.02;0;0
+7260101;Camarao;Pescados e frutos do mar;5;Frito(a);195;0.66;0.79;1.92;1.33;0.19;0.02;0;0
+7260101;Camarao;Pescados e frutos do mar;6;Empanado(a)/a milanesa;195;0.66;0.8;1.94;1.35;0.19;0.02;0.01;0
+7260101;Camarao;Pescados e frutos do mar;7;Refogado(a);195;0.66;0.79;1.92;1.33;0.19;0.02;0;0
+7260101;Camarao;Pescados e frutos do mar;8;Molho vermelho;156;0.24;0.16;0.37;0.03;0.01;0.02;0.85;0
+7260101;Camarao;Pescados e frutos do mar;9;Molho branco;169.93;2.26;1.24;0.89;0.46;0.09;0.13;0.39;0
+7260101;Camarao;Pescados e frutos do mar;10;Ao alho e oleo;195;0.66;0.79;1.92;1.33;0.19;0.02;0;0
+7260101;Camarao;Pescados e frutos do mar;13;Ensopado;195;0.66;0.79;1.92;1.33;0.19;0.02;0;0
+7260101;Camarao;Pescados e frutos do mar;99;Nao se aplica;195;0.29;0.2;0.44;0.02;0.01;0.02;0;0
+7261101;Siri;Pescados e frutos do mar;2;Cozido(a);100;0.23;0.28;0.68;0.03;0.02;0;0;0
+7261101;Siri;Pescados e frutos do mar;6;Empanado(a)/a milanesa;100;0.64;0.87;2.18;1.35;0.2;0.01;0.01;0
+7261101;Siri;Pescados e frutos do mar;7;Refogado(a);100;0.6;0.88;2.16;1.34;0.2;0;0;0
+7261120;Bau (siri);Pescados e frutos do mar;2;Cozido(a);100;0.23;0.28;0.68;0.03;0.02;0;0;0
+7261121;Goia;Pescados e frutos do mar;1;Cru(a);100;0.23;0.28;0.68;0.03;0.02;0;0;0
+7262101;Caranguejo;Pescados e frutos do mar;2;Cozido(a);100;0.23;0.28;0.68;0.03;0.02;0;0;0
+7262101;Caranguejo;Pescados e frutos do mar;4;Assado(a);100;0.23;0.28;0.68;0.03;0.02;0;0;0
+7262101;Caranguejo;Pescados e frutos do mar;12;Ao vinagrete;100;0.23;0.28;0.68;0.03;0.02;0;0;0
+7262105;Guaiamu;Pescados e frutos do mar;2;Cozido(a);100;0.23;0.28;0.68;0.03;0.02;0;0;0
+7263101;Marisco;Pescados e frutos do mar;2;Cozido(a);67;0.19;0.17;0.55;0.03;0.01;0;0;0
+7263101;Marisco;Pescados e frutos do mar;5;Frito(a);67;0.59;0.76;2.03;1.34;0.18;0.01;0;0
+7263101;Marisco;Pescados e frutos do mar;8;Molho vermelho;53.6;0.16;0.14;0.46;0.04;0.01;0;0.85;0
+7263101;Marisco;Pescados e frutos do mar;99;Nao se aplica;67;0.19;0.17;0.55;0.03;0.01;0;0;0
+7264101;Ostra;Pescados e frutos do mar;2;Cozido(a);105;1.54;0.63;1.94;0.12;0.1;0;0;0
+7265101;Lula;Pescados e frutos do mar;6;Empanado(a)/a milanesa;267;0.83;0.69;1.98;1.33;0.19;0.01;0.01;0
+7266101;Sururu;Pescados e frutos do mar;2;Cozido(a);67;0.19;0.17;0.55;0.03;0.01;0;0;0
+7266101;Sururu;Pescados e frutos do mar;13;Ensopado;67;0.59;0.76;2.03;1.34;0.18;0.01;0;0
+7270401;Bacalhau;Pescados e frutos do mar;2;Cozido(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7270401;Bacalhau;Pescados e frutos do mar;4;Assado(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7270401;Bacalhau;Pescados e frutos do mar;5;Frito(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7270401;Bacalhau;Pescados e frutos do mar;6;Empanado(a)/a milanesa;68;0.74;0.88;2.15;1.34;0.19;0;0.01;0
+7270401;Bacalhau;Pescados e frutos do mar;7;Refogado(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7270401;Bacalhau;Pescados e frutos do mar;8;Molho vermelho;54.4;0.3;0.23;0.53;0.03;0.01;0;0.85;0
+7270401;Bacalhau;Pescados e frutos do mar;13;Ensopado;68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7270401;Bacalhau;Pescados e frutos do mar;99;Nao se aplica;68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7273101;Ovas de peixe (qualquer especie);Pescados e frutos do mar;4;Assado(a);479;1.87;2.13;3.4;0.04;0.01;0;0;0
+7273101;Ovas de peixe (qualquer especie);Pescados e frutos do mar;5;Frito(a);479;2.27;2.71;4.88;1.34;0.18;0.01;0;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;1;Cru(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;2;Cozido(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;3;Grelhado(a)/brasa/churrasco;68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;4;Assado(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;5;Frito(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;6;Empanado(a)/a milanesa;68;0.74;0.88;2.15;1.34;0.19;0;0.01;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;7;Refogado(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;8;Molho vermelho;54.4;0.3;0.23;0.53;0.03;0.01;0;0.85;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;9;Molho branco;61.23;1.82;0.86;0.63;0.1;0.04;0.1;1.03;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;13;Ensopado;68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7400101;Peixe de agua doce (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;99;Nao se aplica;68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7400401;Peixe de agua doce salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;2;Cozido(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7400401;Peixe de agua doce salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;3;Grelhado(a)/brasa/churrasco;68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7400401;Peixe de agua doce salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;4;Assado(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7400401;Peixe de agua doce salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;5;Frito(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7400401;Peixe de agua doce salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;6;Empanado(a)/a milanesa;68;0.74;0.88;2.15;1.34;0.19;0;0.01;0
+7400401;Peixe de agua doce salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;8;Molho vermelho;54.4;0.3;0.23;0.53;0.03;0.01;0;0.85;0
+7400401;Peixe de agua doce salgado (inteiro. em posta. em file. etc.) ;Pescados e frutos do mar;13;Ensopado;68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7444101;Tracaja;Pescados e frutos do mar;2;Cozido(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;1;Cru(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;2;Cozido(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;3;Grelhado(a)/brasa/churrasco;68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;4;Assado(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;5;Frito(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;6;Empanado(a)/a milanesa;68;0.74;0.88;2.15;1.34;0.19;0;0.01;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;7;Refogado(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;8;Molho vermelho;54.4;0.3;0.23;0.53;0.03;0.01;0;0.85;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;9;Molho branco;68.33;2.32;1.3;1.06;0.45;0.09;0.11;0.39;0
+7600101;Peixe nao especificado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;13;Ensopado;68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7600401;Peixe nao especificado salgado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;2;Cozido(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7600401;Peixe nao especificado salgado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;3;Grelhado(a)/brasa/churrasco;68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7600401;Peixe nao especificado salgado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;4;Assado(a);68;0.36;0.28;0.65;0.01;0.02;0;0;0
+7600401;Peixe nao especificado salgado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;5;Frito(a);68;0.73;0.87;2.13;1.32;0.19;0;0;0
+7600401;Peixe nao especificado salgado (inteiro. em posta. em file. etc.);Pescados e frutos do mar;6;Empanado(a)/a milanesa;68;0.74;0.88;2.15;1.34;0.19;0;0.01;0
+7700101;Azeitona;Enlatados e conservas;99;Nao se aplica;0;2.03;11.31;1.31;1.22;0.09;0;0;0
+7700201;Ervilha em conserva;Enlatados e conservas;99;Nao se aplica;0;0.06;0.03;0.16;0.13;0.03;0;4.16;0
+7700202;Petitpois;Enlatados e conservas;99;Nao se aplica;0;0.06;0.03;0.16;0.13;0.03;0;4.16;0
+7700401;Milho verde em conserva;Enlatados e conservas;99;Nao se aplica;0;0.17;0.23;0.45;0.41;0.02;0;3.04;0
+7700501;Palmito em conserva;Enlatados e conservas;99;Nao se aplica;0;0.13;0.1;0.2;0.18;0.02;0;0;0
+7700601;Cogumelo em conserva;Enlatados e conservas;99;Nao se aplica;0;0.49;0.67;1.8;1.6;0.2;0.02;1.44;0
+7700602;Champignon em conserva;Enlatados e conservas;99;Nao se aplica;0;0.49;0.67;1.8;1.6;0.2;0.02;1.44;0
+7700701;Aspargo em conserva;Enlatados e conservas;99;Nao se aplica;0;0.15;0.02;0.28;0.27;0.02;0;1.1;0
+7700901;Repolho em conserva;Enlatados e conservas;99;Nao se aplica;0;0.03;0.01;0.07;0.03;0.03;0;0.18;0
+7700902;Chucrute;Enlatados e conservas;99;Nao se aplica;0;0.03;0.01;0.07;0.03;0.03;0;0.18;0
+7701101;Legume nao especificado em conserva;Enlatados e conservas;99;Nao se aplica;0;0.05;0.01;0.12;0.1;0.01;0;3.2;0
+7701404;Creme de cebola (sopa desidratada);Enlatados e conservas;99;Nao se aplica;5.95;0.79;0.84;0.69;0.66;0.03;0.29;2.67;0
+7701405;Creme de legumes (sopa desidratada);Enlatados e conservas;99;Nao se aplica;0;0;0;0.01;0.01;0;0;0.37;0
+7701406;Yakissoba ;Enlatados e conservas;99;Nao se aplica;0;4.38;7.69;17.33;15.35;1.98;0;1.53;0
+7701501;Milho verde com ervilha em conserva;Enlatados e conservas;1;Cru(a);0;0.08;0.11;0.23;0.21;0.02;0;3.85;0
+7701501;Milho verde com ervilha em conserva;Enlatados e conservas;2;Cozido(a);0;0.08;0.11;0.23;0.21;0.02;0;3.85;0
+7701501;Milho verde com ervilha em conserva;Enlatados e conservas;5;Frito(a);0;0.08;0.11;0.23;0.21;0.02;0;3.85;0
+7701501;Milho verde com ervilha em conserva;Enlatados e conservas;99;Nao se aplica;0;0.08;0.11;0.23;0.21;0.02;0;3.85;0
+7701901;Feijoada;Enlatados e conservas;99;Nao se aplica;16.27;2.49;3.05;1.66;1.4;0.23;0.07;2.67;0.46
+7702001;Feijao branco com dobradinha em conserva;Enlatados e conservas;99;Nao se aplica;78.48;1.77;2.28;1.06;0.89;0.1;0.11;0.54;0
+7702101;Cozido;Enlatados e conservas;99;Nao se aplica;12.75;1.3;1.67;0.41;0.35;0.05;0.08;1.16;0.02
+7702302;Pasta de carne em conserva;Enlatados e conservas;99;Nao se aplica;39.86;4.48;5.83;4.96;4.38;0.53;0.26;8.54;12.12
+7702402;Pasta de presunto em conserva;Enlatados e conservas;99;Nao se aplica;67.32;7.26;9.52;2.8;2.45;0.14;0.16;1.8;1.8
+7702502;Pasta de galinha em conserva;Enlatados e conservas;99;Nao se aplica;52.35;3.89;6.36;3.08;2.79;0.15;0.72;0.66;0
+7702601;Carne bovina em conserva;Enlatados e conservas;99;Nao se aplica;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7702602;Almondega ;Enlatados e conservas;99;Nao se aplica;103.27;3.48;3.64;0.68;0.57;0.06;0.46;2.24;1.55
+7702603;Kitute bovino;Enlatados e conservas;99;Nao se aplica;75;5.74;7;0.61;0.42;0.16;0.68;0;0
+7702604;Almondega ao molho em conserva;Enlatados e conservas;99;Nao se aplica;81.81;4.03;4.67;0.6;0.51;0.05;0.58;2.67;1.21
+7702704;Kitute suino;Enlatados e conservas;99;Nao se aplica;59;3.12;4.44;1.41;1.17;0.24;0.03;0;0
+7702705;Presuntada;Enlatados e conservas;99;Nao se aplica;59;3.12;4.44;1.41;1.17;0.24;0.03;0;0
+7702707;Fiambre ;Enlatados e conservas;1;Cru(a);59;3.12;4.44;1.41;1.17;0.24;0.03;0;0
+7702707;Fiambre ;Enlatados e conservas;2;Cozido(a);59;3.12;4.44;1.41;1.17;0.24;0.03;0;0
+7702707;Fiambre ;Enlatados e conservas;4;Assado(a);59;3.12;4.44;1.41;1.17;0.24;0.03;0;0
+7702707;Fiambre ;Enlatados e conservas;5;Frito(a);59;3.12;4.44;1.41;1.17;0.24;0.03;0;0
+7702801;Salsicha em conserva;Enlatados e conservas;99;Nao se aplica;46.45;8.28;11.14;4.53;4.15;0.2;0.29;0.21;0.17
+7703002;Sardinha em conserva;Enlatados e conservas;99;Nao se aplica;142;1.53;3.87;5.15;3.54;0.5;0;0;0
+7703402;Atum em conserva;Enlatados e conservas;99;Nao se aplica;18;1.53;2.95;2.89;2.68;0.07;0;0;0
+7703701;Pepino em conserva;Enlatados e conservas;99;Nao se aplica;0;0.04;0;0.06;0.02;0.03;0;1.31;0
+7703902;Pasta de peixe em conserva;Enlatados e conservas;99;Nao se aplica;18;1.53;2.95;2.89;2.68;0.07;0;0;0
+7704001;Picles;Enlatados e conservas;99;Nao se aplica;0;0.04;0;0.06;0.02;0.03;0;1.31;0
+7705201;Nabo em conserva;Enlatados e conservas;99;Nao se aplica;0;0.02;0.07;0.06;0.02;0.04;0;8.56;3.97
+7705401;Strogonoff ;Enlatados e conservas;99;Nao se aplica;33.44;3.81;2.98;1.53;1.29;0.23;0.29;1.6;0.38
+7706001;Salmao em conserva;Enlatados e conservas;99;Nao se aplica;82;0.85;0.89;1.35;0.07;0.06;0;0;0
+7706104;Creme de cebola (sopa desidratada) light;Enlatados e conservas;99;Nao se aplica;5.95;0.79;0.84;0.69;0.66;0.03;0.29;2.67;0
+7706105;Creme de legumes (sopa desidratada) light;Enlatados e conservas;99;Nao se aplica;0;0;0;0.01;0.01;0;0;0.37;0
+7706106;Yakissoba (sopa de legumes desidratada) light;Enlatados e conservas;99;Nao se aplica;0;0.09;0.07;0.16;0.15;0.01;0;0.35;0
+7706302;Atum em conserva light;Enlatados e conservas;99;Nao se aplica;30;0.23;0.16;0.34;0.01;0;0;0;0
+7800103;Frango inteiro;Aves e ovos  ;1;Cru(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800103;Frango inteiro;Aves e ovos  ;2;Cozido(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800103;Frango inteiro;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800103;Frango inteiro;Aves e ovos  ;4;Assado(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800103;Frango inteiro;Aves e ovos  ;5;Frito(a);88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800103;Frango inteiro;Aves e ovos  ;6;Empanado(a)/a milanesa;88;4.2;5.93;4.47;3.89;0.29;0.46;0.01;0
+7800103;Frango inteiro;Aves e ovos  ;7;Refogado(a);88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800103;Frango inteiro;Aves e ovos  ;8;Molho vermelho;70.4;3.04;4.28;2.39;2.07;0.09;0.36;0.85;0
+7800103;Frango inteiro;Aves e ovos  ;13;Ensopado;88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;1;Cru(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;2;Cozido(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;4;Assado(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;5;Frito(a);88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;6;Empanado(a)/a milanesa;88;4.2;5.93;4.47;3.89;0.29;0.46;0.01;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;7;Refogado(a);88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;8;Molho vermelho;70.4;3.04;4.28;2.39;2.07;0.09;0.36;0.85;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;13;Ensopado;88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800301;Parte de galinha ou frango nao especificada;Aves e ovos  ;99;Nao se aplica;88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800302;Frango em pedacos;Aves e ovos  ;1;Cru(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800302;Frango em pedacos;Aves e ovos  ;2;Cozido(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800302;Frango em pedacos;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800302;Frango em pedacos;Aves e ovos  ;4;Assado(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800302;Frango em pedacos;Aves e ovos  ;5;Frito(a);88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800302;Frango em pedacos;Aves e ovos  ;6;Empanado(a)/a milanesa;88;4.2;5.93;4.47;3.89;0.29;0.46;0.01;0
+7800302;Frango em pedacos;Aves e ovos  ;7;Refogado(a);88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800302;Frango em pedacos;Aves e ovos  ;8;Molho vermelho;70.4;3.04;4.28;2.39;2.07;0.09;0.36;0.85;0
+7800302;Frango em pedacos;Aves e ovos  ;9;Molho branco;72.35;3.74;4.93;3.68;3.2;0.25;0.39;1.03;0
+7800302;Frango em pedacos;Aves e ovos  ;10;Ao alho e oleo;88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800302;Frango em pedacos;Aves e ovos  ;11;Com manteiga/oleo;90.74;2.64;2.1;1.06;0.81;0.05;0.18;0;0
+7800302;Frango em pedacos;Aves e ovos  ;13;Ensopado;88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800302;Frango em pedacos;Aves e ovos  ;15;Sopa;3.19;0.31;0.45;0.23;0.21;0.01;0.02;0.11;0
+7800302;Frango em pedacos;Aves e ovos  ;99;Nao se aplica;88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800303;Galinha em pedacos ;Aves e ovos  ;2;Cozido(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800303;Galinha em pedacos ;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800303;Galinha em pedacos ;Aves e ovos  ;4;Assado(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800303;Galinha em pedacos ;Aves e ovos  ;5;Frito(a);88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800303;Galinha em pedacos ;Aves e ovos  ;6;Empanado(a)/a milanesa;88;4.2;5.93;4.47;3.89;0.29;0.46;0.01;0
+7800303;Galinha em pedacos ;Aves e ovos  ;7;Refogado(a);88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800303;Galinha em pedacos ;Aves e ovos  ;8;Molho vermelho;70.4;3.04;4.28;2.39;2.07;0.09;0.36;0.85;0
+7800303;Galinha em pedacos ;Aves e ovos  ;9;Molho branco;72.35;3.74;4.93;3.68;3.2;0.25;0.39;1.03;0
+7800303;Galinha em pedacos ;Aves e ovos  ;13;Ensopado;88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800304;Carne de galinha ;Aves e ovos  ;1;Cru(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800304;Carne de galinha ;Aves e ovos  ;2;Cozido(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800304;Carne de galinha ;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800304;Carne de galinha ;Aves e ovos  ;4;Assado(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800304;Carne de galinha ;Aves e ovos  ;5;Frito(a);88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800304;Carne de galinha ;Aves e ovos  ;6;Empanado(a)/a milanesa;88;4.2;5.93;4.47;3.89;0.29;0.46;0.01;0
+7800304;Carne de galinha ;Aves e ovos  ;7;Refogado(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800304;Carne de galinha ;Aves e ovos  ;8;Molho vermelho;88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800304;Carne de galinha ;Aves e ovos  ;9;Molho branco;72.35;3.74;4.93;3.68;3.2;0.25;0.39;1.03;0
+7800304;Carne de galinha ;Aves e ovos  ;13;Ensopado;88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+7800304;Carne de galinha ;Aves e ovos  ;15;Sopa;3.19;0.31;0.45;0.23;0.21;0.01;0.02;0.11;0
+7800304;Carne de galinha ;Aves e ovos  ;99;Nao se aplica;88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;1;Cru(a);85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;2;Cozido(a);85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;4;Assado(a);85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;5;Frito(a);85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;6;Empanado(a)/a milanesa;85;1.68;2.13;2.48;2.06;0.22;0.1;0.01;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;7;Refogado(a);85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;8;Molho vermelho;68;1.02;1.24;0.8;0.61;0.03;0.07;0.85;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;9;Molho branco;74.83;2.55;1.87;0.9;0.68;0.05;0.17;1.03;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;13;Ensopado;85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;15;Sopa;3.19;0.31;0.45;0.23;0.21;0.01;0.02;0.11;0
+7800401;Peito de galinha ou frango;Aves e ovos  ;99;Nao se aplica;85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800402;File de frango;Aves e ovos  ;1;Cru(a);85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800402;File de frango;Aves e ovos  ;2;Cozido(a);85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800402;File de frango;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800402;File de frango;Aves e ovos  ;4;Assado(a);85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800402;File de frango;Aves e ovos  ;5;Frito(a);85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800402;File de frango;Aves e ovos  ;6;Empanado(a)/a milanesa;85;1.68;2.13;2.48;2.06;0.22;0.1;0.01;0
+7800402;File de frango;Aves e ovos  ;7;Refogado(a);85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800402;File de frango;Aves e ovos  ;8;Molho vermelho;68;1.02;1.24;0.8;0.61;0.03;0.07;0.85;0
+7800402;File de frango;Aves e ovos  ;9;Molho branco;74.83;2.55;1.87;0.9;0.68;0.05;0.17;1.03;0
+7800402;File de frango;Aves e ovos  ;10;Ao alho e oleo;85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800402;File de frango;Aves e ovos  ;13;Ensopado;85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800402;File de frango;Aves e ovos  ;99;Nao se aplica;85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800602;Carcaca de galinha ou frango;Aves e ovos  ;2;Cozido(a);85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800602;Carcaca de galinha ou frango;Aves e ovos  ;4;Assado(a);85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7800602;Carcaca de galinha ou frango;Aves e ovos  ;5;Frito(a);85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800602;Carcaca de galinha ou frango;Aves e ovos  ;7;Refogado(a);85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800602;Carcaca de galinha ou frango;Aves e ovos  ;13;Ensopado;85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7800701;Asa de galinha ou frango;Aves e ovos  ;1;Cru(a);84;5.45;7.64;4.14;3.57;0.15;0.39;0;0
+7800701;Asa de galinha ou frango;Aves e ovos  ;2;Cozido(a);84;5.45;7.64;4.14;3.57;0.15;0.39;0;0
+7800701;Asa de galinha ou frango;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;84;5.45;7.64;4.14;3.57;0.15;0.39;0;0
+7800701;Asa de galinha ou frango;Aves e ovos  ;4;Assado(a);84;5.45;7.64;4.14;3.57;0.15;0.39;0;0
+7800701;Asa de galinha ou frango;Aves e ovos  ;5;Frito(a);84;5.85;8.22;5.62;4.88;0.32;0.4;0;0
+7800701;Asa de galinha ou frango;Aves e ovos  ;6;Empanado(a)/a milanesa;84;5.86;8.23;5.64;4.89;0.33;0.4;0.01;0
+7800701;Asa de galinha ou frango;Aves e ovos  ;7;Refogado(a);84;5.85;8.22;5.62;4.88;0.32;0.4;0;0
+7800701;Asa de galinha ou frango;Aves e ovos  ;8;Molho vermelho;67.2;4.37;6.12;3.33;2.87;0.12;0.31;0.85;0
+7800701;Asa de galinha ou frango;Aves e ovos  ;13;Ensopado;84;5.85;8.22;5.62;4.88;0.32;0.4;0;0
+7800702;Drumete de galinha ou frango;Aves e ovos  ;2;Cozido(a);82;3.28;3.04;2.91;2.43;0.12;0.23;0;0
+7800702;Drumete de galinha ou frango;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;82;3.28;3.04;2.91;2.43;0.12;0.23;0;0
+7800702;Drumete de galinha ou frango;Aves e ovos  ;4;Assado(a);82;3.28;3.04;2.91;2.43;0.12;0.23;0;0
+7800702;Drumete de galinha ou frango;Aves e ovos  ;5;Frito(a);82;3.68;3.62;4.39;3.74;0.29;0.24;0;0
+7800702;Drumete de galinha ou frango;Aves e ovos  ;7;Refogado(a);82;3.68;3.62;4.39;3.74;0.29;0.24;0;0
+7800702;Drumete de galinha ou frango;Aves e ovos  ;8;Molho vermelho;65.6;2.63;2.44;2.34;1.96;0.1;0.18;0.85;0
+7800801;Pescoco de galinha ou frango;Aves e ovos  ;2;Cozido(a);88;5.82;8.29;4.62;4.04;0.18;0.45;0;0
+7800801;Pescoco de galinha ou frango;Aves e ovos  ;4;Assado(a);88;5.82;8.29;4.62;4.04;0.18;0.45;0;0
+7800801;Pescoco de galinha ou frango;Aves e ovos  ;5;Frito(a);88;6.22;8.87;6.1;5.35;0.35;0.47;0;0
+7800801;Pescoco de galinha ou frango;Aves e ovos  ;7;Refogado(a);88;6.22;8.87;6.1;5.35;0.35;0.47;0;0
+7800801;Pescoco de galinha ou frango;Aves e ovos  ;9;Molho branco;77.23;6.19;7.27;3.81;3.32;0.17;0.46;1.03;0
+7800901;Pe de galinha ou frango;Aves e ovos  ;2;Cozido(a);84;3.92;5.5;2.98;2.57;0.11;0.29;0;0
+7800901;Pe de galinha ou frango;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;84;3.92;5.5;2.98;2.57;0.11;0.29;0;0
+7800901;Pe de galinha ou frango;Aves e ovos  ;4;Assado(a);84;3.92;5.5;2.98;2.57;0.11;0.29;0;0
+7800901;Pe de galinha ou frango;Aves e ovos  ;5;Frito(a);84;4.32;6.08;4.46;3.88;0.28;0.3;0;0
+7800901;Pe de galinha ou frango;Aves e ovos  ;7;Refogado(a);84;4.32;6.08;4.46;3.88;0.28;0.3;0;0
+7800901;Pe de galinha ou frango;Aves e ovos  ;8;Molho vermelho;67.2;3.14;4.41;2.4;2.07;0.09;0.23;0.85;0
+7800901;Pe de galinha ou frango;Aves e ovos  ;13;Ensopado;84;4.32;6.08;4.46;3.88;0.28;0.3;0;0
+7801001;Miudo de galinha ou frango ;Aves e ovos  ;2;Cozido(a);563;2.06;1.42;1.99;0.72;0;0.09;0;0
+7801001;Miudo de galinha ou frango ;Aves e ovos  ;4;Assado(a);563;2.06;1.42;1.99;0.72;0;0.09;0;0
+7801001;Miudo de galinha ou frango ;Aves e ovos  ;5;Frito(a);563;2.46;2;3.47;2.03;0.17;0.1;0;0
+7801001;Miudo de galinha ou frango ;Aves e ovos  ;8;Molho vermelho;450.4;1.65;1.14;1.61;0.59;0;0.07;0.85;0
+7801001;Miudo de galinha ou frango ;Aves e ovos  ;15;Sopa;3.19;0.31;0.45;0.23;0.21;0.01;0.02;0.11;0
+7801101;Moela de galinha ou frango;Aves e ovos  ;2;Cozido(a);370;0.67;0.53;0.35;0.22;0.01;0.13;0;0
+7801101;Moela de galinha ou frango;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;370;0.67;0.53;0.35;0.22;0.01;0.13;0;0
+7801101;Moela de galinha ou frango;Aves e ovos  ;5;Frito(a);370;1.07;1.11;1.83;1.53;0.18;0.14;0;0
+7801101;Moela de galinha ou frango;Aves e ovos  ;7;Refogado(a);370;1.07;1.11;1.83;1.53;0.18;0.14;0;0
+7801101;Moela de galinha ou frango;Aves e ovos  ;8;Molho vermelho;296;0.54;0.43;0.3;0.19;0.01;0.1;0.85;0
+7801101;Moela de galinha ou frango;Aves e ovos  ;9;Molho branco;302.83;2.07;1.06;0.4;0.27;0.03;0.2;1.03;0
+7801101;Moela de galinha ou frango;Aves e ovos  ;13;Ensopado;370;1.07;1.11;1.83;1.53;0.18;0.14;0;0
+7801101;Moela de galinha ou frango;Aves e ovos  ;15;Sopa;3.19;0.31;0.45;0.23;0.21;0.01;0.02;0.11;0
+7801202;Coracao de frango;Aves e ovos  ;2;Cozido(a);242;2.26;2.01;2.3;1.62;0.06;0;0;0
+7801202;Coracao de frango;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;242;2.26;2.01;2.3;1.62;0.06;0;0;0
+7801202;Coracao de frango;Aves e ovos  ;4;Assado(a);242;2.26;2.01;2.3;1.62;0.06;0;0;0
+7801202;Coracao de frango;Aves e ovos  ;5;Frito(a);242;2.66;2.59;3.78;2.93;0.23;0.01;0;0
+7801202;Coracao de frango;Aves e ovos  ;13;Ensopado;242;2.26;2.01;2.3;1.62;0.06;0;0;0
+7801301;Figado de galinha ou frango;Aves e ovos  ;2;Cozido(a);563;2.06;1.42;1.99;0.72;0;0.09;0;0
+7801301;Figado de galinha ou frango;Aves e ovos  ;4;Assado(a);563;2.06;1.42;1.99;0.72;0;0.09;0;0
+7801301;Figado de galinha ou frango;Aves e ovos  ;5;Frito(a);563;2.46;2;3.47;2.03;0.17;0.1;0;0
+7801407;Canja ;Aves e ovos  ;99;Nao se aplica;3.19;0.31;0.45;0.23;0.21;0.01;0.02;0.11;0
+7801702;Peru em pedaco nao especificado;Aves e ovos  ;2;Cozido(a);78;3.04;3.48;2.52;2.13;0.1;0.22;0;0
+7801702;Peru em pedaco nao especificado;Aves e ovos  ;4;Assado(a);78;3.04;3.48;2.52;2.13;0.1;0.22;0;0
+7801702;Peru em pedaco nao especificado;Aves e ovos  ;5;Frito(a);78;3.44;4.06;4;3.44;0.27;0.23;0;0
+7801702;Peru em pedaco nao especificado;Aves e ovos  ;13;Ensopado;78;3.44;4.06;4;3.44;0.27;0.23;0;0
+7801801;Peito de peru;Aves e ovos  ;1;Cru(a);86;0.38;0.21;0.31;0.21;0.01;0.02;0;0
+7801801;Peito de peru;Aves e ovos  ;2;Cozido(a);86;0.38;0.21;0.31;0.21;0.01;0.02;0;0
+7801801;Peito de peru;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;86;0.38;0.21;0.31;0.21;0.01;0.02;0;0
+7801801;Peito de peru;Aves e ovos  ;4;Assado(a);86;0.38;0.21;0.31;0.21;0.01;0.02;0;0
+7801801;Peito de peru;Aves e ovos  ;5;Frito(a);86;0.78;0.79;1.79;1.52;0.18;0.03;0;0
+7801801;Peito de peru;Aves e ovos  ;6;Empanado(a)/a milanesa;86;0.78;0.79;1.79;1.52;0.18;0.03;0;0
+7801801;Peito de peru;Aves e ovos  ;99;Nao se aplica;86;0.38;0.21;0.31;0.21;0.01;0.02;0;0
+7802101;Asa de peru;Aves e ovos  ;2;Cozido(a);81;3.39;4.66;2.94;2.49;0.16;0.25;0;0
+7802101;Asa de peru;Aves e ovos  ;4;Assado(a);81;3.39;4.66;2.94;2.49;0.16;0.25;0;0
+7802701;Chester ;Aves e ovos  ;2;Cozido(a);78;3.04;3.48;2.52;2.13;0.1;0.22;0;0
+7802701;Chester ;Aves e ovos  ;4;Assado(a);78;3.04;3.48;2.52;2.13;0.1;0.22;0;0
+7802701;Chester ;Aves e ovos  ;99;Nao se aplica;78;3.04;3.48;2.52;2.13;0.1;0.22;0;0
+7802702;Tender;Aves e ovos  ;4;Assado(a);59;3.12;4.44;1.41;1.17;0.24;0.03;0;0
+7802801;Nambu ;Aves e ovos  ;2;Cozido(a);116;3.74;5.46;2.73;2.32;0.1;0.26;0;0
+7802901;Nuggets de frango;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+7802901;Nuggets de frango;Aves e ovos  ;4;Assado(a);39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+7802901;Nuggets de frango;Aves e ovos  ;5;Frito(a);39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+7802901;Nuggets de frango;Aves e ovos  ;6;Empanado(a)/a milanesa;39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+7802901;Nuggets de frango;Aves e ovos  ;7;Refogado(a);39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+7802902;Steak de frango;Aves e ovos  ;2;Cozido(a);85;1.68;2.13;2.48;2.06;0.22;0.1;0.01;0
+7802902;Steak de frango;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;85;1.68;2.13;2.48;2.06;0.22;0.1;0.01;0
+7802902;Steak de frango;Aves e ovos  ;4;Assado(a);85;1.68;2.13;2.48;2.06;0.22;0.1;0.01;0
+7802902;Steak de frango;Aves e ovos  ;5;Frito(a);85;1.68;2.13;2.48;2.06;0.22;0.1;0.01;0
+7802902;Steak de frango;Aves e ovos  ;6;Empanado(a)/a milanesa;85;1.68;2.13;2.48;2.06;0.22;0.1;0.01;0
+7802902;Steak de frango;Aves e ovos  ;99;Nao se aplica;85;1.68;2.13;2.48;2.06;0.22;0.1;0.01;0
+7803001;Codorna;Aves e ovos  ;5;Frito(a);89;3.92;6.21;3.02;2.36;0.3;0.28;0;0
+7803201;Pe e asa de galinha ou frango;Aves e ovos  ;2;Cozido(a);84;5.45;7.64;4.14;3.57;0.15;0.39;0;0
+7803201;Pe e asa de galinha ou frango;Aves e ovos  ;4;Assado(a);84;5.45;7.64;4.14;3.57;0.15;0.39;0;0
+7803201;Pe e asa de galinha ou frango;Aves e ovos  ;5;Frito(a);84;5.85;8.22;5.62;4.88;0.32;0.4;0;0
+7803301;Ovo de galinha;Aves e ovos  ;1;Cru(a);424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803301;Ovo de galinha;Aves e ovos  ;2;Cozido(a);424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803301;Ovo de galinha;Aves e ovos  ;4;Assado(a);424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803301;Ovo de galinha;Aves e ovos  ;5;Frito(a);460.87;4.51;5.83;5.07;4.41;0.45;0.03;1.33;0
+7803301;Ovo de galinha;Aves e ovos  ;7;Refogado(a);424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803301;Ovo de galinha;Aves e ovos  ;8;Molho vermelho;424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803301;Ovo de galinha;Aves e ovos  ;10;Ao alho e oleo;460.87;4.51;5.83;5.07;4.41;0.45;0.03;1.33;0
+7803301;Ovo de galinha;Aves e ovos  ;11;Com manteiga/oleo;474.57;6.83;5.77;1.73;1.47;0.06;0.21;1.33;0
+7803301;Ovo de galinha;Aves e ovos  ;12;Ao vinagrete;424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803301;Ovo de galinha;Aves e ovos  ;13;Ensopado;424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803301;Ovo de galinha;Aves e ovos  ;14;Mingau;424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803301;Ovo de galinha;Aves e ovos  ;99;Nao se aplica;424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803501;Ovo de codorna;Aves e ovos  ;1;Cru(a);424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803501;Ovo de codorna;Aves e ovos  ;2;Cozido(a);424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803501;Ovo de codorna;Aves e ovos  ;5;Frito(a);460.87;4.51;5.83;5.07;4.41;0.45;0.03;1.33;0
+7803501;Ovo de codorna;Aves e ovos  ;12;Ao vinagrete;424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803501;Ovo de codorna;Aves e ovos  ;99;Nao se aplica;424;3.27;4.08;1.41;1.19;0.04;0;1.22;0
+7803702;Galinhad_angola abatida. congelada ou viva;Aves e ovos  ;2;Cozido(a);89;3.52;5.63;1.54;1.06;0.13;0.26;0;0
+7803702;Galinhad_angola abatida. congelada ou viva;Aves e ovos  ;4;Assado(a);89;3.52;5.63;1.54;1.06;0.13;0.26;0;0
+7803703;Capote ;Aves e ovos  ;2;Cozido(a);89;3.52;5.63;1.54;1.06;0.13;0.26;0;0
+7803703;Capote ;Aves e ovos  ;4;Assado(a);89;3.52;5.63;1.54;1.06;0.13;0.26;0;0
+7803703;Capote ;Aves e ovos  ;5;Frito(a);89;3.92;6.21;3.02;2.36;0.3;0.28;0;0
+7803707;Mutum ;Aves e ovos  ;2;Cozido(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7803907;Pato em pedacos;Aves e ovos  ;2;Cozido(a);74;2.8;3.92;2.12;1.83;0.08;0.2;0;0
+7803907;Pato em pedacos;Aves e ovos  ;13;Ensopado;74;2.8;3.92;2.12;1.83;0.08;0.2;0;0
+7803908;Peito de pato;Aves e ovos  ;5;Frito(a);74;3.2;4.5;3.6;3.14;0.25;0.21;0;0
+7803913;Carne de pato ;Aves e ovos  ;2;Cozido(a);74;2.8;3.92;2.12;1.83;0.08;0.2;0;0
+7803913;Carne de pato ;Aves e ovos  ;4;Assado(a);74;2.8;3.92;2.12;1.83;0.08;0.2;0;0
+7803913;Carne de pato ;Aves e ovos  ;5;Frito(a);74;3.2;4.5;3.6;3.14;0.25;0.21;0;0
+7805401;Peito de peru light;Aves e ovos  ;1;Cru(a);86;0.38;0.21;0.31;0.21;0.01;0.02;0;0
+7805401;Peito de peru light;Aves e ovos  ;2;Cozido(a);86;0.38;0.21;0.31;0.21;0.01;0.02;0;0
+7805401;Peito de peru light;Aves e ovos  ;99;Nao se aplica;86;0.38;0.21;0.31;0.21;0.01;0.02;0;0
+7805501;Frango inteiro organico;Aves e ovos  ;2;Cozido(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7805501;Frango inteiro organico;Aves e ovos  ;4;Assado(a);88;3.79;5.34;2.97;2.57;0.11;0.45;0;0
+7805702;File de frango organico;Aves e ovos  ;2;Cozido(a);85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7805702;File de frango organico;Aves e ovos  ;3;Grelhado(a)/brasa/churrasco;85;1.27;1.54;0.98;0.74;0.04;0.09;0;0
+7805702;File de frango organico;Aves e ovos  ;5;Frito(a);85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+7805702;File de frango organico;Aves e ovos  ;6;Empanado(a)/a milanesa;85;1.68;2.13;2.48;2.06;0.22;0.1;0.01;0
+7900101;Leite de vaca integral;Laticinios;99;Nao se aplica;10;1.87;0.81;0.2;0.12;0.08;0.12;5.26;0
+7900201;Leite de vaca fresco ;Laticinios;99;Nao se aplica;10;1.87;0.81;0.2;0.12;0.08;0.12;5.26;0
+7900301;Leite de cabra;Laticinios;99;Nao se aplica;11.01;2.67;1.11;0.15;0.11;0.04;0.09;4.45;0
+7900601;Leite em po integral;Laticinios;99;Nao se aplica;80;14.92;6.5;1.56;0.96;0.6;0.93;42.08;0
+7900710;Leite em po desnatado;Laticinios;99;Nao se aplica;18;0.47;0.19;0.03;0.02;0.01;0.03;50.51;0
+7900801;Leite em po ;Laticinios;99;Nao se aplica;80;14.92;6.5;1.56;0.96;0.6;0.93;42.08;0
+7900901;Leite condensado;Laticinios;99;Nao se aplica;33.86;5.46;2.42;0.34;0.22;0.12;0.31;52.51;43.02
+7900903;Leite beijinho;Laticinios;99;Nao se aplica;33.86;5.46;2.42;0.34;0.22;0.12;0.31;52.51;43.02
+7901001;Creme de leite;Laticinios;99;Nao se aplica;111;19.34;9.09;0.88;0.62;0.27;1.1;2.8;0
+7901101;Chantilly;Laticinios;99;Nao se aplica;88.14;15.36;7.22;0.71;0.5;0.21;0.87;11.9;9.93
+7901201;Iogurte de qualquer sabor;Laticinios;99;Nao se aplica;10.59;1.98;0.86;0.22;0.13;0.08;0.12;13.06;7.06
+7901203;Iogurte desnatado;Laticinios;99;Nao se aplica;2;0.12;0.05;0.01;0;0;0;5.61;0
+7901204;Iogurte natural;Laticinios;99;Nao se aplica;13;2.1;0.89;0.09;0.07;0.03;0.07;3.39;0
+7901301;Yakult de qualquer sabor;Laticinios;99;Nao se aplica;1.8;0.05;0.02;0;0;0;0;14.57;10
+7901303;Bebida lactea;Laticinios;99;Nao se aplica;4.04;0.7;0.3;0.05;0.04;0.02;0.03;16.75;13.57
+7901304;Leite fermentado;Laticinios;99;Nao se aplica;8.04;1.26;0.56;0.07;0.06;0.01;0.09;5.09;0
+7901401;Coalhada;Laticinios;99;Nao se aplica;13;2.1;0.89;0.09;0.07;0.03;0.07;3.39;0
+7901501;Manteiga com ou sem sal;Laticinios;99;Nao se aplica;215;51.37;21.02;3.04;2.73;0.32;3.28;0.1;0
+7901505;Manteiga de garrafa;Laticinios;99;Nao se aplica;215;51.37;21.02;3.04;2.73;0.32;3.28;0.1;0
+7901602;Margarina com ou sem sal;Laticinios;99;Nao se aplica;0;16.7;39.3;20.9;19.4;1.5;25.84;0.9;0
+7901701;Queijo prato;Laticinios;99;Nao se aplica;54;12.67;5.73;0.63;0.45;0.18;0.41;0.78;0
+7901703;Queijo colonial;Laticinios;99;Nao se aplica;54;12.67;5.73;0.63;0.45;0.18;0.41;0.78;0
+7901705;Queijo de colonia;Laticinios;99;Nao se aplica;54;12.67;5.73;0.63;0.45;0.18;0.41;0.78;0
+7901801;Queijo mucarela;Laticinios;99;Nao se aplica;89;15.56;7.03;0.78;0.57;0.21;0.59;2.47;0
+7901803;Mucarela;Laticinios;99;Nao se aplica;89;15.56;7.03;0.78;0.57;0.21;0.59;2.47;0
+7901807;Mucarela de bufala;Laticinios;99;Nao se aplica;89;15.56;7.03;0.78;0.57;0.21;0.59;2.47;0
+7901809;Queijo de bufala;Laticinios;99;Nao se aplica;89;15.56;7.03;0.78;0.57;0.21;0.59;2.47;0
+7901901;Queijo de reino;Laticinios;99;Nao se aplica;114;17.61;7.75;0.66;0.26;0.39;0.66;2.22;0
+7902001;Queijo de minas;Laticinios;99;Nao se aplica;53;8.85;4.13;0.41;0.27;0.15;0.78;10.6;0
+7902003;Queijo de manteiga;Laticinios;99;Nao se aplica;89;15.56;7.03;0.78;0.57;0.21;0.59;2.47;0
+7902004;Quechimia;Laticinios;99;Nao se aplica;53;8.85;4.13;0.41;0.27;0.15;0.78;10.6;0
+7902005;Queijo de coalho;Laticinios;99;Nao se aplica;89;19.07;8.75;0.9;0.64;0.26;0.73;0.68;0
+7902008;Queijo canastra;Laticinios;99;Nao se aplica;53;8.85;4.13;0.41;0.27;0.15;0.78;10.6;0
+7902201;Queijo ricota;Laticinios;99;Nao se aplica;51;8.3;3.63;0.39;0.27;0.11;0.39;2.08;0
+7902301;Leite de soja com sabor ;Laticinios;99;Nao se aplica;0;0.24;0.36;0.93;0.82;0.11;0;3.79;7.24
+7902303;Ades original;Laticinios;99;Nao se aplica;0;0.21;0.4;0.96;0.58;0.08;0;3.2;4.09
+7902403;Queijo ralado;Laticinios;99;Nao se aplica;88;17.3;8.38;1.17;0.94;0.19;0.72;0.9;0
+7902501;Queijo provolone;Laticinios;99;Nao se aplica;69;17.08;7.39;0.77;0.49;0.28;0.64;2.14;0
+7902801;Queijo polenguinho;Laticinios;99;Nao se aplica;110;21.97;9.84;1.27;0.77;0.49;1.04;1.7;0
+7902901;Requeijao;Laticinios;99;Nao se aplica;56;11.09;4.97;0.64;0.39;0.25;0.5;7;0
+7902902;Queijo cremoso;Laticinios;99;Nao se aplica;56;11.09;4.97;0.64;0.39;0.25;0.5;7;0
+7903001;Queijo nao especificado;Laticinios;99;Nao se aplica;94;19.69;8.95;0.99;0.61;0.38;0.76;1.29;0
+7903101;Leite com sabor;Laticinios;99;Nao se aplica;12.05;2.11;0.99;0.12;0.08;0.05;0.12;10.14;5.09
+7903102;Leite achocolatado;Laticinios;99;Nao se aplica;12.05;2.11;0.99;0.12;0.08;0.05;0.12;10.14;5.09
+7903109;Leite aRomatizado;Laticinios;99;Nao se aplica;12.05;2.11;0.99;0.12;0.08;0.05;0.12;10.14;5.09
+7903110;Bebida achocolatada;Laticinios;99;Nao se aplica;12.05;2.11;0.99;0.12;0.08;0.05;0.12;10.14;5.09
+7903201;Nata;Laticinios;99;Nao se aplica;66;12.02;5.58;0.72;0.44;0.28;0.69;3.7;0
+7903301;Queijo gorgonzola;Laticinios;99;Nao se aplica;75;18.67;7.78;0.8;0.54;0.26;0.69;2.34;0
+7903402;Tofu;Laticinios;99;Nao se aplica;0;0.53;0.81;2.08;1.84;0.25;0;0.2;0
+7903501;Leite de soja em po;Laticinios;99;Nao se aplica;0;1.91;2.92;7.46;6.57;0.88;0;15.99;23.42
+7903601;Leite de vaca desnatado;Laticinios;99;Nao se aplica;2.01;0.05;0.02;0;0;0;0;5.11;0
+7903702;Leite de vaca semidesnatado;Laticinios;99;Nao se aplica;5;0.63;0.28;0.04;0.03;0;0.04;5.2;0
+7903801;Leite nao especificado pasteurizado;Laticinios;99;Nao se aplica;10;1.87;0.81;0.2;0.12;0.08;0.12;5.26;0
+7903901;Iogurte de qualquer sabor light;Laticinios;99;Nao se aplica;4;0.7;0.3;0.03;0.02;0.01;0.03;16.41;13
+7904001;Iogurte de qualquer sabor diet;Laticinios;99;Nao se aplica;10.29;1.65;0.78;0.08;0.06;0.03;0.09;2.91;0
+7904201;Margarina light;Laticinios;99;Nao se aplica;0;7.64;17.48;2.17;2.12;0.06;3.54;0.32;0
+7904301;Leite de vaca integral organico;Laticinios;99;Nao se aplica;10;1.87;0.81;0.2;0.12;0.08;0.12;5.26;0
+7904401;Leite de vaca fresco organico;Laticinios;99;Nao se aplica;10;1.87;0.81;0.2;0.12;0.08;0.12;5.26;0
+7904601;Leite semidesnatado de vaca organico;Laticinios;99;Nao se aplica;5;0.63;0.28;0.04;0.03;0;0.04;5.2;0
+7904701;Creme de leite organico;Laticinios;99;Nao se aplica;111;19.34;9.09;0.88;0.62;0.27;1.1;2.8;0
+7904801;Iogurte de qualquer sabor organico;Laticinios;99;Nao se aplica;10.59;1.98;0.86;0.22;0.13;0.08;0.12;13.06;7.06
+7904803;Iogurte de qualquer sabor desnatado organico;Laticinios;99;Nao se aplica;2;0.12;0.05;0.02;0.01;0.01;0.01;18.54;11.78
+7904804;Iogurte natural de qualquer sabor organico;Laticinios;99;Nao se aplica;13;2.1;0.89;0.09;0.07;0.03;0.07;3.39;0
+7905103;Mucarela light;Laticinios;99;Nao se aplica;54;12.67;5.73;0.63;0.45;0.18;0.41;0.78;0
+7905104;Queijo mucarela light;Laticinios;99;Nao se aplica;54;12.67;5.73;0.63;0.45;0.18;0.41;0.78;0
+7905201;Leite de soja com sabor light;Laticinios;99;Nao se aplica;0;0.15;0.23;0.58;0.51;0.07;0;3.86;7.48
+7905203;Ades light;Laticinios;99;Nao se aplica;0;0.12;0.18;0.47;0.41;0.06;0;2.72;5.27
+7905601;Creme de leite light;Laticinios;99;Nao se aplica;5;0.84;0.38;0.05;0.03;0.02;0.06;5.65;5.22
+7905901;Queijo prato light;Laticinios;99;Nao se aplica;67.2;13.59;6.05;0.61;0.37;0.24;0.51;1.37;0
+7906001;Queijo de minas light;Laticinios;99;Nao se aplica;8;1.22;0.55;0.06;0.04;0.02;0.06;3.6;0
+7906005;Queijo de coalho light;Laticinios;99;Nao se aplica;67.2;13.59;6.05;0.61;0.37;0.24;0.51;1.37;0
+7906201;Queijo ricota light;Laticinios;99;Nao se aplica;10.4;0.18;0.08;0.01;0.01;0;0;7.11;0
+7906303;Queijo ralado light;Laticinios;99;Nao se aplica;88;13.32;6.1;0.46;0.22;0.24;0.57;1.37;0
+7906401;Queijo polenguinho light;Laticinios;99;Nao se aplica;56;11.09;4.97;0.64;0.39;0.25;0.5;7;0
+7906501;Requeijao light;Laticinios;99;Nao se aplica;56;11.09;4.97;0.64;0.39;0.25;0.5;7;0
+7906601;Queijo nao especificado light;Laticinios;99;Nao se aplica;8;1.22;0.55;0.06;0.04;0.02;0.06;3.6;0
+7906702;Leite achocolatado light;Laticinios;99;Nao se aplica;3;0.62;0.3;0.04;0.02;0.01;0.04;10.42;6
+7906710;Bebida achocolatada light;Laticinios;99;Nao se aplica;3;0.62;0.3;0.04;0.02;0.01;0.04;10.42;6
+7906801;Leite com sabor diet;Laticinios;99;Nao se aplica;9.59;2.01;0.9;0.21;0.14;0.07;0.11;6.24;0
+7906802;Leite achocolatado diet;Laticinios;99;Nao se aplica;9.59;2.01;0.9;0.21;0.14;0.07;0.11;6.24;0
+7906810;Bebida achocolatada diet;Laticinios;99;Nao se aplica;9.59;2.01;0.9;0.21;0.14;0.07;0.11;6.24;0
+7906901;Leite de soja em po light;Laticinios;99;Nao se aplica;0;0.4;0.61;1.57;1.38;0.19;0;25.2;23.68
+7907001;Leite em po com sabor;Laticinios;99;Nao se aplica;0;1.83;1.01;0.09;0.08;0.01;0;75.79;79.56
+7907101;Manteiga com ou sem sal light;Laticinios;99;Nao se aplica;104.15;24.88;10.18;1.47;1.32;0.15;1.59;0.05;0
+7907301;Queijo de minas frescal organico;Laticinios;99;Nao se aplica;53;8.85;4.13;0.41;0.27;0.15;0.78;10.6;0
+7907305;Queijo de coalho frescal organico;Laticinios;99;Nao se aplica;89;19.07;8.75;0.9;0.64;0.26;0.73;0.68;0
+8000103;Pao de hamburguer;Panificados;99;Nao se aplica;0;1.09;1.11;1.97;1.76;0.21;0.69;6.28;6.31
+8000105;Pao de sal;Panificados;99;Nao se aplica;0;1;0.9;0.7;0.7;0.04;0.37;0;0
+8000201;Pao doce;Panificados;99;Nao se aplica;44.09;7.88;3.53;0.66;0.6;0.05;0.42;26.57;26.19
+8000203;Chineque;Panificados;99;Nao se aplica;44.09;7.88;3.53;0.66;0.6;0.05;0.42;26.57;26.19
+8000218;Chineque com farofa;Panificados;99;Nao se aplica;44.09;7.88;3.53;0.66;0.6;0.05;0.42;26.57;26.19
+8000229;Pao de mel;Panificados;99;Nao se aplica;57.44;11.1;5.06;0.86;0.78;0.07;0.54;52.88;60.4
+8000234;Panetone;Panificados;99;Nao se aplica;50.12;1.82;2.52;5.34;4.72;0.6;0.05;15.77;13.03
+8000237;Bisnaguinha;Panificados;99;Nao se aplica;4;1.38;1.88;2.51;2.29;0.22;0.41;5.68;5.5
+8000240;Croissant;Panificados;99;Nao se aplica;103.66;16.07;6.86;1.27;1.15;0.11;1;6.11;4.39
+8000501;Pao de forma industrializado de qualquer marca;Panificados;99;Nao se aplica;0;0.72;0.68;1.36;1.22;0.14;0.63;4.31;4.13
+8000801;Pao de queijo;Panificados;99;Nao se aplica;68;0;0;0;0;0;0;0;0
+8001101;Pao de milho;Panificados;99;Nao se aplica;62.83;2.96;5.28;1.37;1.27;0.08;0.83;15.48;12.11
+8001401;Pao integral;Panificados;99;Nao se aplica;0;0.75;1.6;0.6;0.57;0.03;0.6;10.08;6.76
+8001501;Pao nao especificado;Panificados;99;Nao se aplica;0;1;0.9;0.7;0.7;0.04;0.37;0;0
+8001901;Torrada de qualquer pao;Panificados;99;Nao se aplica;0;0.9;0.8;1;0.99;0.05;0.45;0;0
+8002001;Rosca doce;Panificados;99;Nao se aplica;31.95;8.06;7.72;2.84;2.65;0.17;3.55;31.83;31.54
+8002002;Rosquinha doce;Panificados;99;Nao se aplica;0;3.9;3.7;2.2;2.13;0.1;1.58;36.52;36.53
+8002101;Rosca salgada;Panificados;99;Nao se aplica;47.3;5.24;3.11;0.7;0.6;0.08;0.2;1.52;0.66
+8002106;Rosquinha salgada;Panificados;99;Nao se aplica;0;4.4;4.6;2.9;2.79;0.01;1.8;10.64;10.58
+8002201;Biscoito salgado;Panificados;99;Nao se aplica;0;4.4;4.6;2.9;2.79;0.01;1.8;10.64;10.58
+8002205;Presuntinho biscoito;Panificados;99;Nao se aplica;0.09;5.4;8.85;9.82;9.18;0.63;0.76;0.32;0
+8002212;Biscoito de polvilho;Panificados;99;Nao se aplica;150.27;4.65;19.92;3.17;2.89;0.21;0.04;0.43;0
+8002225;Bolacha salgada;Panificados;99;Nao se aplica;0;4.4;4.6;2.9;2.79;0.01;1.8;10.64;10.58
+8002227;Chips (salgadinhos);Panificados;99;Nao se aplica;0;5.46;7.99;20.15;17.82;2.32;0.18;1.17;0
+8002230;Baconzitos;Panificados;99;Nao se aplica;0.09;5.4;8.85;9.82;9.18;0.63;0.76;0.32;0
+8002236;Biscoito salgado integral;Panificados;99;Nao se aplica;0;2.54;3.5;9.03;8.01;1.02;0.08;0.5;0
+8002301;Biscoito doce;Panificados;99;Nao se aplica;0;3.9;3.7;2.2;2.13;0.1;1.58;36.52;36.53
+8002302;Cavaco chines;Panificados;99;Nao se aplica;0;3.9;3.7;2.2;2.13;0.1;1.58;36.52;36.53
+8002305;Sequilho;Panificados;99;Nao se aplica;0;3.9;3.7;2.2;2.13;0.1;1.58;36.52;36.53
+8002306;Tareco;Panificados;99;Nao se aplica;0;3.9;3.7;2.2;2.13;0.1;1.58;36.52;36.53
+8002309;Solda;Panificados;99;Nao se aplica;0;4.4;4.6;2.9;2.79;0.01;1.8;10.64;10.58
+8002315;Brevidade;Panificados;99;Nao se aplica;100.29;2.74;6.61;4.29;3.94;0.3;1.91;30.11;29.72
+8002334;Bolacha doce;Panificados;99;Nao se aplica;0;3.9;3.7;2.2;2.13;0.1;1.58;36.52;36.53
+8002335;Maria maluca (bolacha doce);Panificados;99;Nao se aplica;0;3.9;3.7;2.2;2.13;0.1;1.58;36.52;36.53
+8002405;Quebraquebra;Panificados;99;Nao se aplica;0;3.9;3.7;2.2;2.13;0.1;1.58;36.52;36.53
+8002502;Rocambole;Panificados;99;Nao se aplica;194.01;15.9;7.7;1.27;1.06;0.16;0.91;4.95;3.57
+8002503;Cuca de qualquer tipo;Panificados;99;Nao se aplica;44.09;7.88;3.53;0.66;0.6;0.05;0.42;26.57;26.19
+8002601;Bolo de milho;Panificados;99;Nao se aplica;82;4.5;3.9;1.5;1.34;0.08;1.99;8.27;5.68
+8002604;Amidomil (bolinho);Panificados;99;Nao se aplica;82;4.5;3.9;1.5;1.34;0.08;1.99;8.27;5.68
+8002605;Angusor de milho;Panificados;99;Nao se aplica;82;4.5;3.9;1.5;1.34;0.08;1.99;8.27;5.68
+8002609;Grustoli (bolinho doce);Panificados;99;Nao se aplica;40.1;4.57;9.55;3.51;3.28;0.21;4.47;26.61;26
+8002701;Bolo de aipim;Panificados;99;Nao se aplica;73;5;3.9;1.1;1;0.06;1.99;17.62;15.81
+8002702;Bolo de tapioca;Panificados;99;Nao se aplica;73;5;3.9;1.1;1;0.06;1.99;17.62;15.81
+8002703;Bolo de macaxeira;Panificados;99;Nao se aplica;73;5;3.9;1.1;1;0.06;1.99;17.62;15.81
+8002704;Bolo de goma;Panificados;99;Nao se aplica;73;5;3.9;1.1;1;0.06;1.99;17.62;15.81
+8002801;Bolo de batatadoce;Panificados;99;Nao se aplica;73;5;3.9;1.1;1;0.06;1.99;17.62;15.81
+8002901;Bolo de arroz;Panificados;99;Nao se aplica;73;5;3.9;1.1;1;0.06;1.99;17.62;15.81
+8003101;Bolo de cara;Panificados;99;Nao se aplica;73;5;3.9;1.1;1;0.06;1.99;17.62;15.81
+8003501;Tortas doces de qualquer sabor;Panificados;99;Nao se aplica;3.76;1.79;2.63;0.61;0.55;0.06;1.06;7.47;5.55
+8003601;Tortas salgadas de qualquer sabor;Panificados;99;Nao se aplica;23.27;5.19;3.27;0.43;0.35;0.08;0.42;27.12;14.31
+8003701;Sonho;Panificados;99;Nao se aplica;45.63;4.48;8.56;3.3;3.09;0.19;3.47;21.09;19.63
+8003702;Filhos (bolinho de farinha de trigo e ovos);Panificados;99;Nao se aplica;40.1;4.57;9.55;3.51;3.28;0.21;4.47;26.61;26
+8003801;Bolo de chocolate;Panificados;99;Nao se aplica;209.07;1.98;2.22;0.8;0.68;0.02;0;40.39;39.44
+8003902;Brioche;Panificados;99;Nao se aplica;99.04;4.92;5.54;2.67;2.49;0.13;1.2;8.24;7.14
+8004001;Bolo de laranja;Panificados;99;Nao se aplica;67.72;5.29;4.91;1.91;1.78;0.11;0.28;34.4;30.76
+8004101;Bolo de coco;Panificados;99;Nao se aplica;137.69;5.59;1.56;0.59;0.51;0.02;0;39.36;37.56
+8004201;Bolo de cenoura;Panificados;99;Nao se aplica;95.41;10.37;4.59;0.88;0.78;0.07;0.63;26.61;25.46
+8004601;Bolo de trigo;Panificados;99;Nao se aplica;160.65;1.27;1.57;0.62;0.53;0.02;0;39.84;37.88
+8004701;Broa;Panificados;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8004801;Biscoito recheado;Panificados;99;Nao se aplica;0;6.2;6.6;1.7;1.68;0.06;4.21;40.62;40.53
+8004807;Waffer (biscoito);Panificados;99;Nao se aplica;15.64;2.76;4.67;4.18;3.87;0.29;1.4;34.84;33.85
+8004809;Alfajores (biscoito);Panificados;99;Nao se aplica;0.02;7.63;10.27;3.41;3.18;0.15;4.85;25.21;24.8
+8004810;Bolacha recheada;Panificados;99;Nao se aplica;0;6.2;6.6;1.7;1.68;0.06;4.21;40.62;40.53
+8004813;Rosca recheada;Panificados;99;Nao se aplica;78.21;15.89;7.55;1.12;1.01;0.09;0.6;74.97;75.63
+8004814;Rosquinha recheada de qualquer sabor;Panificados;99;Nao se aplica;0;6.2;6.6;1.7;1.68;0.06;4.21;40.62;40.53
+8005201;Biscoito nao especificado;Panificados;99;Nao se aplica;0;4.4;4.6;2.9;2.79;0.01;1.8;10.64;10.58
+8006101;Crepe;Panificados;99;Nao se aplica;77.23;4.8;5.14;1.26;1.13;0.09;0.76;1.75;0
+8006501;Pao diet (de forma industrializado);Panificados;99;Nao se aplica;0;0.34;0.25;0.97;0.92;0.05;0;4.11;3.82
+8006601;Pao light (de forma industrializado);Panificados;99;Nao se aplica;0;0.34;0.25;0.97;0.92;0.05;0;4.11;3.82
+8006701;Pao de queijo light;Panificados;99;Nao se aplica;68;0;0;0;0;0;0;0;0
+8006801;Pao integral light;Panificados;99;Nao se aplica;0;0.34;0.25;0.97;0.92;0.05;0;4.11;3.82
+8007001;Tortas doces de qualquer sabor light;Panificados;99;Nao se aplica;3.76;1.79;2.63;0.61;0.55;0.06;1.06;7.84;5.92
+8007101;Tortas doces de qualquer sabor diet;Panificados;99;Nao se aplica;3.76;1.75;2.62;0.58;0.53;0.05;1.06;2.31;0.22
+8007302;Filhos (bolinho de farinha de trigo e ovos) light;Panificados;99;Nao se aplica;46.5;5.3;11.07;4.06;3.79;0.24;5.19;15.48;14.25
+8007402;Filhos (bolinho de farinha de trigo e ovos) diet;Panificados;99;Nao se aplica;46.5;5.3;11.07;4.06;3.79;0.24;5.19;15.48;14.25
+8007501;Bolo de chocolate light;Panificados;99;Nao se aplica;49.83;5.44;2.71;0.5;0.45;0.03;0.16;32.49;32.25
+8007601;Bolo de chocolate diet;Panificados;99;Nao se aplica;49.83;5.44;2.71;0.5;0.45;0.03;0.16;32.49;32.25
+8007701;Bolo de laranja light;Panificados;99;Nao se aplica;57.98;2.97;3.96;1.77;1.65;0.09;0.14;34.4;30.76
+8008001;Bolo de coco diet;Panificados;99;Nao se aplica;49.83;5.44;2.71;0.5;0.45;0.03;0.16;32.49;32.25
+8008201;Bolo de cenoura diet;Panificados;99;Nao se aplica;73.79;5.2;2.48;0.57;0.51;0.04;0.3;26.6;25.46
+8008301;Biscoito recheado light;Panificados;99;Nao se aplica;0;4.09;6.27;2.38;1.83;0.55;0.05;41.18;41.04
+8008305;Biscoito waffer light;Panificados;99;Nao se aplica;0.02;1.04;2.83;2.62;2.44;0.18;0.93;47.65;47.43
+8008307;Waffer (biscoito) light;Panificados;99;Nao se aplica;0.02;1.04;2.83;2.62;2.44;0.18;0.93;47.65;47.43
+8008309;Alfajores (biscoito) light;Panificados;99;Nao se aplica;0;4.09;6.27;2.38;1.83;0.55;0.05;41.18;41.04
+8008310;Bolacha recheada light;Panificados;99;Nao se aplica;0;4.09;6.27;2.38;1.83;0.55;0.05;41.18;41.04
+8008401;Biscoito recheado diet;Panificados;99;Nao se aplica;0.09;2.17;12.4;5.73;3.96;1.77;0.08;5.54;0.55
+8008408;Rosquinha recheada de qualquer sabor diet;Panificados;99;Nao se aplica;0.09;2.17;12.4;5.73;3.96;1.77;0.08;5.54;0.55
+8008410;Bolacha recheada diet;Panificados;99;Nao se aplica;0.09;2.17;12.4;5.73;3.96;1.77;0.08;5.54;0.55
+8010001;Pao doce diet;Panificados;99;Nao se aplica;32.81;4.06;1.8;0.44;0.4;0.03;0.25;29.12;28.98
+8010029;Pao de mel diet;Panificados;99;Nao se aplica;38.81;6.65;3.24;0.6;0.54;0.04;0.26;52.87;60.4
+8010034;Panetone diet;Panificados;99;Nao se aplica;50.12;1.82;2.52;5.34;4.72;0.6;0.05;15.77;13.03
+8010101;Biscoito salgado light;Panificados;99;Nao se aplica;0;2.17;2.96;7.89;6.98;0.91;0.07;10.3;11.37
+8010125;Bolacha salgada light;Panificados;99;Nao se aplica;0;2.17;2.96;7.89;6.98;0.91;0.07;10.3;11.37
+8010127;Chips (salgadinhos) light;Panificados;99;Nao se aplica;0;1.15;1.52;4.01;3.52;0.5;0.04;8.11;6.62
+8010401;Biscoito doce light;Panificados;99;Nao se aplica;0;1.14;2.59;0.69;0.65;0.02;1.4;41.49;42.61
+8010434;Bolacha doce light;Panificados;99;Nao se aplica;0;1.14;2.59;0.69;0.65;0.02;1.4;41.49;42.61
+8010501;Biscoito doce diet;Panificados;99;Nao se aplica;0.09;5.32;12.95;2.36;2.2;0.07;7.09;3.99;0
+8010534;Bolacha doce diet;Panificados;99;Nao se aplica;0.09;5.32;12.95;2.36;2.2;0.07;7.09;3.99;0
+8010601;Bolo de banana;Panificados;99;Nao se aplica;56.72;5.31;2.41;0.53;0.47;0.05;0.32;31.79;26.64
+8100101;Carneseca;Carnes industrializadas;2;Cozido(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100101;Carneseca;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100101;Carneseca;Carnes industrializadas;4;Assado(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100101;Carneseca;Carnes industrializadas;5;Frito(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100101;Carneseca;Carnes industrializadas;7;Refogado(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100101;Carneseca;Carnes industrializadas;8;Molho vermelho;80;8.41;6.65;0.33;0.21;0.06;0;0.85;0
+8100101;Carneseca;Carnes industrializadas;13;Ensopado;94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100102;Carne de charque;Carnes industrializadas;1;Cru(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100102;Carne de charque;Carnes industrializadas;2;Cozido(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100102;Carne de charque;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100102;Carne de charque;Carnes industrializadas;4;Assado(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100102;Carne de charque;Carnes industrializadas;5;Frito(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100102;Carne de charque;Carnes industrializadas;7;Refogado(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100102;Carne de charque;Carnes industrializadas;8;Molho vermelho;80;8.41;6.65;0.33;0.21;0.06;0;0.85;0
+8100102;Carne de charque;Carnes industrializadas;13;Ensopado;94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100103;Jaba;Carnes industrializadas;2;Cozido(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100103;Jaba;Carnes industrializadas;5;Frito(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100103;Jaba;Carnes industrializadas;7;Refogado(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100103;Jaba;Carnes industrializadas;99;Nao se aplica;100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100201;Carne de sol;Carnes industrializadas;1;Cru(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100201;Carne de sol;Carnes industrializadas;2;Cozido(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100201;Carne de sol;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100201;Carne de sol;Carnes industrializadas;4;Assado(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100201;Carne de sol;Carnes industrializadas;5;Frito(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100201;Carne de sol;Carnes industrializadas;13;Ensopado;94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100202;Carne do sertao;Carnes industrializadas;2;Cozido(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100202;Carne do sertao;Carnes industrializadas;4;Assado(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8100202;Carne do sertao;Carnes industrializadas;5;Frito(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8100502;Hamburguer de carne bovina;Carnes industrializadas;1;Cru(a);86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+8100502;Hamburguer de carne bovina;Carnes industrializadas;2;Cozido(a);86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+8100502;Hamburguer de carne bovina;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+8100502;Hamburguer de carne bovina;Carnes industrializadas;4;Assado(a);86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+8100502;Hamburguer de carne bovina;Carnes industrializadas;5;Frito(a);86;4.78;5.26;1.88;1.6;0.23;0.71;0;0
+8100502;Hamburguer de carne bovina;Carnes industrializadas;8;Molho vermelho;68.8;3.51;3.75;0.33;0.25;0.04;0.55;0.85;0
+8100502;Hamburguer de carne bovina;Carnes industrializadas;99;Nao se aplica;86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+8100802;Copa de porco defumada;Carnes industrializadas;99;Nao se aplica;62;5.44;7.65;3.26;2.93;0.33;0.06;0;0
+8101005;Bacon;Carnes industrializadas;99;Nao se aplica;110;13.74;18.52;4.55;4;0.2;0.31;0.59;1.43
+8101101;Hamburguer de frango;Carnes industrializadas;2;Cozido(a);44.34;2.93;3.63;2.23;1.96;0.15;0.93;2.85;1.1
+8101101;Hamburguer de frango;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;44.34;2.93;3.63;2.23;1.96;0.15;0.93;2.85;1.1
+8101101;Hamburguer de frango;Carnes industrializadas;4;Assado(a);44.34;2.93;3.63;2.23;1.96;0.15;0.93;2.85;1.1
+8101101;Hamburguer de frango;Carnes industrializadas;5;Frito(a);44.34;4;5.19;6.18;5.45;0.62;0.96;2.85;1.1
+8101101;Hamburguer de frango;Carnes industrializadas;6;Empanado(a)/a milanesa;44.34;4;5.19;6.18;5.45;0.62;0.96;2.85;1.1
+8101101;Hamburguer de frango;Carnes industrializadas;99;Nao se aplica;44.34;2.93;3.63;2.23;1.96;0.15;0.93;2.85;1.1
+8102101;Salsicha no varejo;Carnes industrializadas;1;Cru(a);52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102101;Salsicha no varejo;Carnes industrializadas;2;Cozido(a);52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102101;Salsicha no varejo;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102101;Salsicha no varejo;Carnes industrializadas;4;Assado(a);52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102101;Salsicha no varejo;Carnes industrializadas;5;Frito(a);52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102101;Salsicha no varejo;Carnes industrializadas;7;Refogado(a);52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102101;Salsicha no varejo;Carnes industrializadas;8;Molho vermelho;49.19;10.22;10.72;2.49;2.13;0.26;0.74;3.56;2.88
+8102101;Salsicha no varejo;Carnes industrializadas;9;Molho branco;56.8;10.37;13.75;3.14;2.78;0.26;2.02;1.92;2.16
+8102101;Salsicha no varejo;Carnes industrializadas;10;Ao alho e oleo;52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102101;Salsicha no varejo;Carnes industrializadas;11;Com manteiga/oleo;52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102101;Salsicha no varejo;Carnes industrializadas;13;Ensopado;52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102101;Salsicha no varejo;Carnes industrializadas;99;Nao se aplica;52.95;10.86;12.6;2.98;2.55;0.29;0.8;3.15;3.61
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;1;Cru(a);71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;2;Cozido(a);71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;4;Assado(a);71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;5;Frito(a);71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;6;Empanado(a)/a milanesa;71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;7;Refogado(a);71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;8;Molho vermelho;56.8;10.37;13.75;3.14;2.78;0.26;2.02;1.92;2.16
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;11;Com manteiga/oleo;71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;13;Ensopado;71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102204;Linguica (suina. bovina. mista. etc.);Carnes industrializadas;99;Nao se aplica;71;12.96;17.18;3.9;3.46;0.32;2.52;1.34;2.7
+8102207;Linguica de frango;Carnes industrializadas;1;Cru(a);80;4.7;6.8;3.4;3;0.17;0;0;0
+8102207;Linguica de frango;Carnes industrializadas;2;Cozido(a);80;4.7;6.8;3.4;3;0.17;0;0;0
+8102207;Linguica de frango;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;80;4.7;6.8;3.4;3;0.17;0;0;0
+8102207;Linguica de frango;Carnes industrializadas;4;Assado(a);80;4.7;6.8;3.4;3;0.17;0;0;0
+8102207;Linguica de frango;Carnes industrializadas;5;Frito(a);76;5;7.2;4.3;3.85;0.25;0;0;0
+8102401;Chourico;Carnes industrializadas;99;Nao se aplica;120;13.4;15.9;3.46;3.2;0.26;0.08;1.31;1.1
+8102402;Morcela;Carnes industrializadas;99;Nao se aplica;120;13.4;15.9;3.46;3.2;0.26;0.08;1.31;1.1
+8102403;Morcilha;Carnes industrializadas;1;Cru(a);120;13.4;15.9;3.46;3.2;0.26;0.08;1.31;1.1
+8102403;Morcilha;Carnes industrializadas;2;Cozido(a);120;13.4;15.9;3.46;3.2;0.26;0.08;1.31;1.1
+8102501;Paio;Carnes industrializadas;2;Cozido(a);84;9.13;12.38;3.73;3.29;0.14;0.11;0.14;0
+8102601;Mortadela;Carnes industrializadas;99;Nao se aplica;60;10.21;12.81;2.92;2.48;0.44;0.8;2.54;2.71
+8102701;Salame;Carnes industrializadas;99;Nao se aplica;89;9.32;11.13;2.53;2.26;0.13;0.59;0.96;0.96
+8102702;Salaminho;Carnes industrializadas;99;Nao se aplica;89;9.32;11.13;2.53;2.26;0.13;0.59;0.96;0.96
+8102801;Blanquet de peru;Carnes industrializadas;99;Nao se aplica;72;1.53;1.9;1.32;0.67;0.03;0.11;2.04;2.04
+8102901;Presunto ;Carnes industrializadas;99;Nao se aplica;62;5.04;7.07;1.78;1.62;0.16;0.04;0;0
+8103001;Hamburguer de peru;Carnes industrializadas;2;Cozido(a);48.64;2.62;3;1.98;1.75;0.14;0.86;2.85;1.1
+8103001;Hamburguer de peru;Carnes industrializadas;4;Assado(a);48.64;2.62;3;1.98;1.75;0.14;0.86;2.85;1.1
+8103001;Hamburguer de peru;Carnes industrializadas;6;Empanado(a)/a milanesa;48.64;3.69;4.56;5.93;5.23;0.6;0.89;2.85;1.1
+8103101;Hamburguer nao especificado;Carnes industrializadas;2;Cozido(a);86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+8103101;Hamburguer nao especificado;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+8103101;Hamburguer nao especificado;Carnes industrializadas;4;Assado(a);86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+8103101;Hamburguer nao especificado;Carnes industrializadas;5;Frito(a);86;4.78;5.26;1.88;1.6;0.23;0.71;0;0
+8103101;Hamburguer nao especificado;Carnes industrializadas;99;Nao se aplica;86;4.38;4.68;0.4;0.3;0.05;0.69;0;0
+8103601;Apresuntado;Carnes industrializadas;99;Nao se aplica;59;3.12;4.44;1.41;1.17;0.24;0.03;0;0
+8103901;Pururuca de porco;Carnes industrializadas;99;Nao se aplica;95;11.37;14.78;3.64;3.35;0.26;0.31;0;0
+8103902;Pele de porco preparada (pururuca);Carnes industrializadas;99;Nao se aplica;95;11.37;14.78;3.64;3.35;0.26;0.31;0;0
+8104001;Pate (figado. calabresa. frango. presunto. etc.);Carnes industrializadas;99;Nao se aplica;158;10.6;13.34;2.6;2.45;0.14;2.36;0.51;0.59
+8104101;Carne de aves defumada;Carnes industrializadas;99;Nao se aplica;85;1.67;2.12;2.46;2.05;0.21;0.1;0;0
+8104601;Carne salgada nao especificada;Carnes industrializadas;2;Cozido(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8104601;Carne salgada nao especificada;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8104601;Carne salgada nao especificada;Carnes industrializadas;4;Assado(a);100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8104601;Carne salgada nao especificada;Carnes industrializadas;5;Frito(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8104601;Carne salgada nao especificada;Carnes industrializadas;7;Refogado(a);94;10.8;9.16;3.82;3.27;0.48;0.03;0;0
+8104601;Carne salgada nao especificada;Carnes industrializadas;8;Molho vermelho;80;8.41;6.65;0.33;0.21;0.06;0;0.85;0
+8104601;Carne salgada nao especificada;Carnes industrializadas;99;Nao se aplica;100;10.5;8.3;0.4;0.24;0.08;0.93;0;0
+8104904;Mini chicken empanado;Carnes industrializadas;2;Cozido(a);39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+8104904;Mini chicken empanado;Carnes industrializadas;3;Grelhado(a)/brasa/churrasco;39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+8104904;Mini chicken empanado;Carnes industrializadas;4;Assado(a);39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+8104904;Mini chicken empanado;Carnes industrializadas;5;Frito(a);39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+8104904;Mini chicken empanado;Carnes industrializadas;6;Empanado(a)/a milanesa;39.84;3.62;7.43;2.57;2.34;0.14;3.01;0.14;0
+8105001;Mortadela light;Carnes industrializadas;99;Nao se aplica;79;5.46;7.55;3.05;2.79;0.22;0.11;0.46;0.46
+8105201;Salsicha no varejo light;Carnes industrializadas;5;Frito(a);44;3.69;4.75;0.94;0.8;0.13;0.19;3.63;4.4
+8105401;Salame light;Carnes industrializadas;99;Nao se aplica;51.52;2.47;3.51;1.98;1.72;0.08;0.19;0.5;0.5
+8105501;Blanquet de peru light;Carnes industrializadas;99;Nao se aplica;37.61;1.04;1.34;0.71;0.58;0.03;0.11;2.8;1.56
+8105701;Hamburguer nao especificado light;Carnes industrializadas;99;Nao se aplica;78.2;3.49;3.46;0.35;0.25;0.04;0.37;0;0
+8200101;Refrigerante de cola tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;10.56;9.53
+8200102;Cocacola tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;10.56;9.53
+8200202;Fanta laranja tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;12.03;12.3
+8200208;Sukita tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;12.03;12.3
+8200301;Refrigerante de guarana tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;10;10
+8200302;Guarana tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;10;10
+8200407;Sprit refrigerante tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;9.07;10.14
+8200505;Fanta uva tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;12.03;12.3
+8200701;Refrigerante de cola light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8200702;Cocacola light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8200801;Refrigerante de cola diet;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8200902;Minuano tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;9.07;10.14
+8201104;Mate tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0.06;0
+8201202;Bidu tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;10;10
+8201502;Fanta laranja light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8201601;Refrigerante de guarana light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8201602;Guarana light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8201802;Tubaina tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;10;10
+8201902;Tubaina light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8202001;Caldo de cana;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;9.83;19.97
+8202002;Garapa;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;9.83;19.97
+8202101;agua de coco;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0.18;0.01;0;0;0;0;1.49;0
+8202402;Qsuco;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;3.81;3.81
+8202403;Qrefresko;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;3.81;3.81
+8202602;Nescafe;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0.2;0.04;0.2;0.18;0.02;0;0.48;0
+8202803;Ervamate;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0.06;0
+8202804;Chimarrao;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0.06;0
+8202805;Terere;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0.06;0
+8203401;Levedo de cerveja;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0.2;0.72;0;0;0;0;13.54;1
+8203501;Refrigerante nao especificado;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;10.56;9.53
+8203603;Cevada em po;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0.24;0.15;0.56;0.51;0.06;0;1.3;0
+8204503;Chocomilk ;Bebidas nao alcoolicas e infusões;99;Nao se aplica;12.05;2.11;0.99;0.12;0.08;0.05;0.12;10.14;5.09
+8204902;agua tonica tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;9.07;10.14
+8205201;Cha diet (preto. camomila. ervacidreira. capimlimao. etc.) ;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0.34;0.36
+8205402;Paraguai refrigerante tradicional;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;10;10
+8205803;Gatorade;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;5.9;5.9
+8205901;Bebida energetica;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;10.14;10.15
+8206301;Cha (preto. camomila. ervacidreira. capimlimao. etc.);Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8206402;Cafe soluvel capuccino ;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0.79;0;0;0;0;0;4.35;4.67
+8207401;Refrigerante de guarana diet;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8207402;Guarana diet;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8207601;Refrigerante de limao diet;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8207705;Fanta uva light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8208104;Mate light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0.06;0
+8209002;agua tonica light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;9.07;10.14
+8209102;Paraguai refrigerante light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8211002;Qsuco light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;3.81;3.81
+8211003;Qrefresko light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;3.81;3.81
+8211102;Qsuco diet;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;3.81;3.81
+8212401;Cafe capuccino soluvel light;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0.94;0;0;0;0;0;0.18;0.32
+8212501;Cafe capuccino soluvel diet;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0.94;0;0;0;0;0;0.18;0.32
+8212902;agua tonica diet;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;9.07;10.14
+8212906;Refrigerante de quinino dietetico;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;9.07;10.14
+8213003;Cha mate organico;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0.06;0
+8213004;Chimarrao organico;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0;0;0;0;0.06;0
+8213601;Suco de clorofila;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0;0;0.01;0;0.01;0;0.07;0
+8273902;Cafe com farinha;Bebidas nao alcoolicas e infusões;99;Nao se aplica;0;0.05;0.06;0;0.02;0.01;0;0;0
+8300101;Cerveja (com ou sem alcool);Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8300201;Chopp;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8300301;Aguardente;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8300302;Cachaca;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8300501;Batida de qualquer sabor;Bebidas alcoolicas;99;Nao se aplica;0;3.23;0.16;0.06;0.05;0.01;0;20.78;15.74
+8300701;Rum;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8300801;Vodka;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8301001;Uisque;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8301002;Whisky;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8301201;Champanhe;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0.07;0
+8301202;Sidra champanhe;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0.07;0
+8301501;Martini;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0.01;0
+8301601;Conhaque;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8301701;Drink dreher;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8301901;Licor de qualquer sabor;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;28.27;0
+8302409;Cajuina;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8302415;Vinho;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0.02;0
+8302416;Catuaba;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8302901;Coquetel de frutas;Bebidas alcoolicas;99;Nao se aplica;0;3.23;0.16;0.06;0.05;0.01;0;20.78;15.74
+8303101;Caipirinha;Bebidas alcoolicas;99;Nao se aplica;0;0.01;0;0.02;0.02;0.01;0;32.08;36.21
+8303501;Bebida alcoolica ;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8303615;Vinho organico;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0.02;0
+8304301;Cerveja (com ou sem alcool) light;Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0.09;0
+8304502;Caxiri (aguardente de mandioca);Bebidas alcoolicas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8400101;Azeite de oliva;oleos e gorduras;99;Nao se aplica;0;13.87;73.28;10.57;9.8;0.76;0.16;0;0
+8400301;oleo de soja;oleos e gorduras;99;Nao se aplica;0;15.57;22.67;57.46;50.71;6.76;0.53;0;0
+8401801;Banha suina;oleos e gorduras;99;Nao se aplica;95;39.2;45.1;11.2;10.2;1;1.08;0;0
+8403001;Banha bovina;oleos e gorduras;99;Nao se aplica;95;28.5;30.45;2.66;1.62;1.04;3.38;0;0
+8403201;oleo nao especificado;oleos e gorduras;99;Nao se aplica;0;15.57;22.67;57.46;50.71;6.76;0.53;0;0
+8403501;oleo de dende;oleos e gorduras;99;Nao se aplica;0;81.11;11.35;1.59;1.59;0;0.17;0;0
+8500201;Salgadinho;Miscelaneas;99;Nao se aplica;107.65;4.61;5.49;5.37;4.72;0.59;0.43;2.68;1.82
+8500202;Pastel (queijo. carne. palmito. etc.);Miscelaneas;99;Nao se aplica;61.19;3.16;4.24;7.28;6.41;0.81;0.07;0.36;0
+8500203;Croquete ;Miscelaneas;99;Nao se aplica;107.65;4.61;5.49;5.37;4.72;0.59;0.43;2.68;1.82
+8500205;Coxinha ;Miscelaneas;99;Nao se aplica;107.65;4.61;5.49;5.37;4.72;0.59;0.43;2.68;1.82
+8500206;Empada (queijo. carne. camarao. etc.);Miscelaneas;99;Nao se aplica;17.32;2.71;3.11;1.59;1.46;0.09;0.73;1.22;0
+8500207;Rissole  (queijo. carne. camarao. etc.);Miscelaneas;99;Nao se aplica;107.65;4.61;5.49;5.37;4.72;0.59;0.43;2.68;1.82
+8500209;Acaraje;Miscelaneas;99;Nao se aplica;25;9.1;7.8;2.1;2.01;0.12;0;0;0
+8500210;Torresmo ;Miscelaneas;99;Nao se aplica;95;11.37;14.78;3.64;3.35;0.26;0.31;0;0
+8500211;Quibe ;Miscelaneas;99;Nao se aplica;107.65;4.61;5.49;5.37;4.72;0.59;0.43;2.68;1.82
+8500212;Abara (Bahia);Miscelaneas;99;Nao se aplica;25;9.1;7.8;2.1;2.01;0.12;0;0;0
+8500213;Pacoca de carne de sol;Miscelaneas;99;Nao se aplica;47;5.45;4.63;1.91;1.65;0.25;0.02;0;0
+8500215;Angu frito;Miscelaneas;99;Nao se aplica;4.2;1.03;0.46;0.14;0.14;0.01;0.06;0.52;0
+8500217;Angu de milho ;Miscelaneas;99;Nao se aplica;0;0.03;0.05;0.08;0.08;0;0;0.52;0
+8500218;Polenta ;Miscelaneas;99;Nao se aplica;4.2;1.03;0.46;0.14;0.14;0.01;0.06;0.52;0
+8500222;Esfirra ;Miscelaneas;99;Nao se aplica;53.94;11.73;4.95;0.86;0.75;0.11;0.66;0.7;0
+8500223;Esfirra de carne ;Miscelaneas;99;Nao se aplica;67.24;12.01;6.61;0.88;0.77;0.08;0.97;0.13;0
+8500224;Esfirra de queijo ;Miscelaneas;99;Nao se aplica;53.94;11.73;4.95;0.86;0.75;0.11;0.66;0.7;0
+8500225;Esfirra de ricota ;Miscelaneas;99;Nao se aplica;41.37;9.42;3.93;0.74;0.67;0.08;0.58;0.47;0
+8500226;Esfirra de frango ;Miscelaneas;99;Nao se aplica;42.43;6.61;3.83;1.31;1.19;0.08;0.41;0.46;0
+8500227;Enroladinho ;Miscelaneas;99;Nao se aplica;107.65;4.61;5.49;5.37;4.72;0.59;0.43;2.68;1.82
+8500228;Bolinho de aipim;Miscelaneas;99;Nao se aplica;15.92;2.91;3.76;5.6;4.94;0.65;0.16;2.75;0
+8500232;Bolinho de bacalhau;Miscelaneas;99;Nao se aplica;74.8;2.48;3.48;6.02;5.18;0.66;0.63;0.68;0
+8500302;Cachorroquente ;Miscelaneas;99;Nao se aplica;23.59;5.32;6.23;2.22;1.92;0.24;0.65;5.81;5.5
+8500303;Hamburguer (sanduiche);Miscelaneas;99;Nao se aplica;23.71;3.29;3.54;1.41;1.2;0.2;0.69;6.24;4.77
+8500304;Cheeseburger ;Miscelaneas;99;Nao se aplica;31.98;5.22;4.17;1.36;1.13;0.22;0.7;5.65;4.21
+8500305;Eggsburger ;Miscelaneas;99;Nao se aplica;148.59;3.71;4.86;5.95;5.26;0.63;0.41;4.56;3.69
+8500307;Bauru ;Miscelaneas;99;Nao se aplica;35.15;4.48;4.18;3.75;3.27;0.48;0.3;2.31;1.8
+8500308;Americano;Miscelaneas;99;Nao se aplica;127.5;3.96;4.01;5.17;4.53;0.59;0.29;2.25;1.27
+8500313;Mistoquente ou frio ;Miscelaneas;99;Nao se aplica;42.63;6.03;5.15;1.95;1.67;0.27;1.25;1.82;1.46
+8500315;Sanduiche de queijo prato;Miscelaneas;99;Nao se aplica;32.11;8.11;5.71;2.35;2.05;0.3;2.11;3.09;2.49
+8500316;Sanduiche de salame;Miscelaneas;99;Nao se aplica;22.66;3.98;5.68;2.83;2.57;0.21;1.88;3.16;3.19
+8500317;Sanduiche de presunto;Miscelaneas;99;Nao se aplica;24.73;2.53;3.74;5.13;4.54;0.59;0.26;1.93;1.7
+8500318;Sanduiche de queijo prato com presunto;Miscelaneas;99;Nao se aplica;42.63;6.03;5.15;1.95;1.67;0.27;1.25;1.82;1.46
+8500319;Sanduiche de mortadela;Miscelaneas;99;Nao se aplica;25.62;5.38;7.02;2.87;2.58;0.27;2.05;3.47;4.76
+8500320;Sanduiche de queijo minas;Miscelaneas;99;Nao se aplica;32.11;8.11;5.71;2.35;2.05;0.3;2.11;3.09;2.49
+8500321;Cheese egg;Miscelaneas;99;Nao se aplica;31.98;5.22;4.17;1.36;1.13;0.22;0.7;5.65;4.21
+8500322;Cheese tudo;Miscelaneas;99;Nao se aplica;31.98;5.22;4.17;1.36;1.13;0.22;0.7;5.65;4.21
+8500323;Sanduiche natural;Miscelaneas;99;Nao se aplica;26.28;1.96;2.85;5;4.41;0.53;0.37;3.81;3.32
+8500401;Suco ;Miscelaneas;99;Nao se aplica;0;0.02;0.03;0.03;0.03;0.01;0;8.12;0
+8500402;Suco de abacaxi ;Miscelaneas;99;Nao se aplica;0;0.01;0.01;0.04;0.02;0.02;0;10.03;0
+8500403;Suco de acerola ;Miscelaneas;99;Nao se aplica;0;0.07;0.08;0.09;0.05;0.04;0;4.41;0
+8500404;Suco de beterraba ;Miscelaneas;99;Nao se aplica;0;0.02;0.01;0.05;0.05;0.01;0;4.71;0
+8500405;Suco de cupuacu ;Miscelaneas;99;Nao se aplica;0;0.2;0.1;0.05;0.02;0.05;0;0;0
+8500406;Suco de goiaba ;Miscelaneas;99;Nao se aplica;0;0.04;0.01;0.06;0.04;0.02;0;14.81;13.54
+8500407;Suco de laranja ;Miscelaneas;99;Nao se aplica;0;0.02;0.03;0.03;0.03;0.01;0;8.12;0
+8500408;Suco de laranja com banana ;Miscelaneas;99;Nao se aplica;0;0.04;0.03;0.05;0.03;0.01;0;9.69;0
+8500409;Suco de laranja e beterraba ;Miscelaneas;99;Nao se aplica;0;0.02;0.01;0.05;0.05;0.01;0;4.71;0
+8500410;Suco de laranja e cenoura ;Miscelaneas;99;Nao se aplica;0;0.02;0.01;0.05;0.05;0.01;0;4.71;0
+8500411;Suco de laranja cenoura e beterraba;Miscelaneas;99;Nao se aplica;0;0.02;0.01;0.05;0.05;0.01;0;4.71;0
+8500412;Suco de mamao ;Miscelaneas;99;Nao se aplica;0;0.05;0.04;0.04;0.01;0.03;0;10.6;0
+8500413;Suco de manga ;Miscelaneas;99;Nao se aplica;0;0.01;0.02;0.01;0;0.01;0;12.42;9.43
+8500414;Suco de maracuja ;Miscelaneas;99;Nao se aplica;0;0.02;0.02;0.11;0.11;0;0;11.44;0
+8500415;Suco de melao ;Miscelaneas;99;Nao se aplica;0;0.02;0.04;0.05;0.05;0;0;6.58;0
+8500416;Suco de morango ;Miscelaneas;99;Nao se aplica;0;0.02;0.01;0.03;0.02;0.01;0;14.45;0
+8500417;Suco de pessego ;Miscelaneas;99;Nao se aplica;0;0;0.01;0.01;0.01;0;0;13.24;9.3
+8500418;Suco de pessego em calda ;Miscelaneas;99;Nao se aplica;0;0;0.01;0.01;0.01;0;0;13.24;9.3
+8500501;Vitamina ;Miscelaneas;99;Nao se aplica;6.87;1.31;0.57;0.15;0.09;0.06;0.08;14.36;7.83
+8500503;Vitamina de banana ;Miscelaneas;99;Nao se aplica;6.87;1.31;0.57;0.15;0.09;0.06;0.08;14.36;7.83
+8500504;Vitamina de banana com aveia ;Miscelaneas;99;Nao se aplica;6.47;1.29;0.64;0.27;0.21;0.06;0.08;13.59;7.38
+8500505;Vitamina de mamao ;Miscelaneas;99;Nao se aplica;7.12;1.34;0.59;0.15;0.09;0.06;0.08;12.43;7.67
+8500506;Vitamina de abacate ;Miscelaneas;99;Nao se aplica;6.87;1.75;1.88;0.53;0.46;0.07;0.08;12.02;7.83
+8500507;Vitamina de morango ;Miscelaneas;99;Nao se aplica;5.25;0.99;0.44;0.16;0.1;0.07;0.06;12.55;7.83
+8500508;Vitamina mista;Miscelaneas;99;Nao se aplica;4.84;0.92;0.4;0.11;0.07;0.04;0.06;14.26;7.75
+8500509;Vitamina de maca;Miscelaneas;99;Nao se aplica;6.87;1.29;0.56;0.14;0.09;0.05;0.08;13.85;7.83
+8500601;Refresco ;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;10.76;11.87
+8500602;Refresco de caju ;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;10.76;11.87
+8500603;Refresco de groselha ;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;10.76;11.87
+8500604;Refresco de laranja ;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;10.76;11.87
+8500605;Refresco de maracuja ;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;10.76;11.87
+8500606;Refresco de limao;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;10.76;11.87
+8500801;Salada ou verdura cozida. exceto de fruta;Miscelaneas;99;Nao se aplica;0;0.05;0.03;0.17;0.07;0.09;0;1.41;0
+8500802;Salada de maionese ;Miscelaneas;99;Nao se aplica;56.02;2.72;4.32;8.47;7.52;0.93;0.05;1.2;0.48
+8500903;Pizza ;Miscelaneas;99;Nao se aplica;21.88;5.57;3.02;2.1;1.82;0.29;0.18;2.19;0.44
+8500904;Lasanha pronta light ;Miscelaneas;99;Nao se aplica;28.56;3.82;2.5;0.34;0.27;0.06;0.27;2.27;0.18
+8500905;Nhoque ;Miscelaneas;99;Nao se aplica;70.21;4.52;3.52;4.34;3.81;0.51;0.17;0.66;0
+8500906;Caneloni;Miscelaneas;99;Nao se aplica;43.32;2.5;3.07;0.68;0.59;0.07;0.51;2.7;0.19
+8500907;Capeleti ;Miscelaneas;99;Nao se aplica;54.49;0.98;0.93;0.31;0.25;0.04;0.06;2.01;0.27
+8500909;Ravioli ;Miscelaneas;99;Nao se aplica;54.49;0.98;0.93;0.31;0.25;0.04;0.06;2.01;0.27
+8500910;Calzone ;Miscelaneas;99;Nao se aplica;47.3;5.24;3.11;0.7;0.6;0.08;0.2;1.52;0.66
+8500913;Panqueca;Miscelaneas;99;Nao se aplica;77.23;4.8;5.14;1.26;1.13;0.09;0.76;1.75;0
+8500914;Pizza calabreza;Miscelaneas;99;Nao se aplica;25.03;5.1;3.75;2.46;2.15;0.28;0.15;2.13;0.45
+8500915;Pizza mucarela;Miscelaneas;99;Nao se aplica;21.88;5.57;3.02;2.1;1.82;0.29;0.18;2.19;0.44
+8500916;Pizza presunto;Miscelaneas;99;Nao se aplica;25.03;5.1;3.75;2.46;2.15;0.28;0.15;2.13;0.45
+8500917;Pizza portuguesa;Miscelaneas;99;Nao se aplica;26.19;4.8;4.05;2.02;1.77;0.21;0.24;2.31;0.31
+8500919;Macarronada;Miscelaneas;99;Nao se aplica;9.43;0.74;0.83;0.83;0.73;0.09;0.08;1.4;0.16
+8501004;Galeto ;Miscelaneas;99;Nao se aplica;88;4.19;5.92;4.45;3.88;0.28;0.46;0;0
+8501104;Costela;Miscelaneas;99;Nao se aplica;84;12.01;12.8;1.05;0.7;0.33;1.35;0;0
+8501202;Pipoca doce ou salgada ;Miscelaneas;99;Nao se aplica;4.02;5.39;12.23;4.37;4.25;0.12;4.83;29.5;31.71
+8501302;Cafe ;Miscelaneas;99;Nao se aplica;0;0;0.02;0;0;0;0;0;0
+8501303;Cafe com leite ;Miscelaneas;99;Nao se aplica;5.16;0.96;0.43;0.1;0.06;0.04;0.06;2.71;0
+8501304;Cafe tipo expresso;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;0.01;0
+8501305;Cafe tipo capuccino;Miscelaneas;99;Nao se aplica;0;0.79;0;0;0;0;0;4.35;4.67
+8501402;Milho cozido ;Miscelaneas;99;Nao se aplica;0;1.12;1.72;4.01;3.59;0.42;0.03;3.16;0
+8501502;Batata palito;Miscelaneas;99;Nao se aplica;0;2.15;3.07;7.85;6.92;0.93;0.07;1.44;0
+8501503;Batata palha;Miscelaneas;99;Nao se aplica;0;5.55;7.96;20.3;17.9;2.41;0.19;1.2;0
+8501902;Mungunza ;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8501903;Canjica ;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;0;0
+8501904;Curau;Miscelaneas;99;Nao se aplica;6.02;1.35;0.89;0.56;0.5;0.06;0.23;7.2;2.08
+8502201;Farofa ;Miscelaneas;99;Nao se aplica;0;1.9;2.4;2.5;2.29;0.19;0;0;0
+8502301;Mingau (fuba.  aveia. farinha. etc.) ;Miscelaneas;99;Nao se aplica;6.02;1.35;0.89;0.56;0.5;0.06;0.23;7.2;2.08
+8502401;Tacaca ;Miscelaneas;99;Nao se aplica;0;0.14;0.12;0.16;0.01;0.01;0;0.16;0
+8502501;Bolinho de coco ;Miscelaneas;99;Nao se aplica;152.61;2.78;1.56;0.61;0.53;0.02;0;39.67;37.77
+8502701;Risoto;Miscelaneas;99;Nao se aplica;14.14;0.42;0.65;0.7;0.61;0.05;0.02;3.6;3.37
+8502801;Vatapa ;Miscelaneas;99;Nao se aplica;40.61;6.63;5.03;2.93;1.89;0.15;0.05;2.29;0.27
+8502901;Farofa pronta ;Miscelaneas;99;Nao se aplica;0;1.9;2.4;2.5;2.29;0.19;0;0;0
+8503202;Caldo de carne ;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;0.17;0
+8503203;Caldodefeijao ;Miscelaneas;99;Nao se aplica;4.32;0.57;0.74;0.23;0.19;0.03;0.01;1.08;0.82
+8503204;Caldo de mocoto ;Miscelaneas;99;Nao se aplica;0;0;0;0;0;0;0;0.17;0
+8503501;Baiao de dois;Miscelaneas;99;Nao se aplica;4;0.6;1;1.5;1.36;0.13;0;0;0
+8503801;Churrasco;Miscelaneas;99;Nao se aplica;58;3.42;3.92;0.35;0.24;0.09;0.41;0;0
+8504201;Sushi;Miscelaneas;99;Nao se aplica;7.38;0.11;0.1;0.16;0.07;0.02;0;5.68;4.6
+8504401;Salada de frutas ;Miscelaneas;99;Nao se aplica;0;0.03;0.01;0.04;0.03;0.01;0;10.26;0
+8504501;Sopa (legumes. carne. etc.);Miscelaneas;99;Nao se aplica;3.48;0.31;0.32;0.05;0.04;0.01;0.03;0.23;0
+8504801;Salpicao ;Miscelaneas;99;Nao se aplica;114.28;2.68;4.02;6.35;5.58;0.67;0.07;2.91;2.09
+8505201;Charuto de repolho;Miscelaneas;99;Nao se aplica;20.79;0.42;0.49;0.1;0.09;0.01;0.05;2.81;0.34
+8505401;Arroz a grega ;Miscelaneas;99;Nao se aplica;0;0.28;0.38;0.91;0.81;0.11;0.01;3.04;0.43
+8505501;Arrumadinho;Miscelaneas;99;Nao se aplica;19.41;2.97;3.14;1.51;1.3;0.16;0.1;1.03;0.11
+8505601;Bobo de camarao ;Miscelaneas;99;Nao se aplica;12.98;1.69;1.22;1.18;1.09;0.08;0.18;3.01;0
+8505701;Caruru (quiabo. amendoim. castanha de caju. camarao seco. etc.);Miscelaneas;99;Nao se aplica;47.04;9.8;7.34;1.96;0;0;0;0;0
+8505801;Cuscuz paulista ;Miscelaneas;99;Nao se aplica;15;1.8;1.8;0.8;0.69;0.1;0;0;0
+8505901;Empadao (queijo. frango. camarao. palmito. etc.);Miscelaneas;99;Nao se aplica;17.32;2.71;3.11;1.59;1.46;0.09;0.73;1.22;0
+8506001;Farofa de banana;Miscelaneas;99;Nao se aplica;0;2.02;2.69;5.01;4.45;0.55;0;0;0
+8506101;Feijaotropeiro ;Miscelaneas;99;Nao se aplica;19.41;2.97;3.14;1.51;1.3;0.16;0.1;1.03;0.11
+8506201;Galinha com arroz ;Miscelaneas;99;Nao se aplica;5.34;0.55;0.75;1.59;1.39;0.18;0.02;0.83;0.04
+8506301;Galinhada ;Miscelaneas;99;Nao se aplica;5.34;0.55;0.75;1.59;1.39;0.18;0.02;0.83;0.04
+8506401;Moqueca baiana ;Miscelaneas;99;Nao se aplica;41.66;5.1;1.08;0.51;0.12;0.01;0.01;0.55;0
+8506501;Omelete ;Miscelaneas;99;Nao se aplica;371.93;4.74;6.3;8.14;7.13;0.84;0.06;1.07;0
+8506601;Pirao ;Miscelaneas;99;Nao se aplica;30.16;2.84;1.59;0.91;0.62;0.14;0.15;3.04;0.08
+8506701;Quibebe ;Miscelaneas;99;Nao se aplica;0;0.33;0.43;1.07;0.95;0.13;0.01;3.3;0
+8506801;Quiche;Miscelaneas;99;Nao se aplica;97.7;8.68;7.71;2.62;2.37;0.2;1.09;3.14;0.07
+8506901;Sufle ;Miscelaneas;99;Nao se aplica;100.96;5.01;2.59;0.62;0.49;0.09;0.28;2.32;0
+8507001;Tutu ;Miscelaneas;99;Nao se aplica;0;0.28;0.35;0.91;0.77;0.14;0.01;0.27;0
+8507101;Moqueca capixaba ;Miscelaneas;99;Nao se aplica;43.85;0.87;0.83;1.34;0.83;0.11;0.01;0.57;0
+8507201;Manicoba ;Miscelaneas;99;Nao se aplica;47.48;3.78;4.9;2.25;1.95;0.21;0.06;0.91;0.27
+8507301;Caldo verde ;Miscelaneas;99;Nao se aplica;8.09;0.91;1.2;0.43;0.36;0.04;0.01;0.94;0
+8507401;Arroz de cuxa;Miscelaneas;99;Nao se aplica;0;0.26;0.16;0.45;0.41;0.07;0;0.42;0
+8507501;Angu a baiana;Miscelaneas;99;Nao se aplica;69.2;1.79;1.85;1.27;1.04;0.15;0.18;0.74;0
+8507601;Chocolate;Miscelaneas;99;Nao se aplica;23;20.78;15.87;1.26;1.06;0.12;0.09;54.8;46.99
+8507701;Gemada ;Miscelaneas;99;Nao se aplica;58.91;4.44;2.23;0.34;0.23;0.1;0.19;4.29;0
+8507801;Acai com granola;Miscelaneas;99;Nao se aplica;0;0.7;1.9;0.3;0.3;0.02;0;0;0
+8507901;Suco organico ;Miscelaneas;99;Nao se aplica;0;0.02;0.03;0.03;0.03;0.01;0;8.12;0
+8507902;Suco de abacaxi organico ;Miscelaneas;99;Nao se aplica;0;0.01;0.01;0.04;0.02;0.02;0;10.03;0
+8507903;Suco de acerola organico ;Miscelaneas;99;Nao se aplica;0;0.07;0.08;0.09;0.05;0.04;0;4.41;0
+8507906;Suco de goiaba organico ;Miscelaneas;99;Nao se aplica;0;0.04;0.01;0.06;0.04;0.02;0;14.81;13.54
+8507907;Suco de laranja organico ;Miscelaneas;99;Nao se aplica;0;0.02;0.03;0.03;0.03;0.01;0;8.12;0
+8507911;Suco de laranja cenoura e beterraba organico ;Miscelaneas;99;Nao se aplica;0;0.02;0.01;0.05;0.05;0.01;0;4.71;0
+8507913;Suco de manga organico ;Miscelaneas;99;Nao se aplica;0;0.01;0.02;0.01;0;0.01;0;12.42;9.43
+8507914;Suco de maracuja organico ;Miscelaneas;99;Nao se aplica;0;0.02;0.02;0.11;0.11;0;0;11.44;0
+8507916;Suco de morango organico ;Miscelaneas;99;Nao se aplica;0;0.02;0.01;0.03;0.02;0.01;0;14.45;0
+8507917;Suco de pessego organico ;Miscelaneas;99;Nao se aplica;0;0;0.01;0.01;0.01;0;0;13.24;9.3
+8507918;Suco de pessego em calda organico ;Miscelaneas;99;Nao se aplica;0;0;0.01;0.01;0.01;0;0;13.24;9.3
+8508003;Pizza pronta light ;Miscelaneas;99;Nao se aplica;21.88;5.12;2.36;0.43;0.34;0.09;0.17;2.19;0.44
+8508004;Lasanha pronta light ;Miscelaneas;99;Nao se aplica;26.34;3.24;1.7;0.31;0.25;0.05;0.14;2.27;0.18
+8508012;Macarrao pronto light ;Miscelaneas;2;Cozido(a);8.28;2.36;1.82;2.49;2.21;0.28;0.2;4.48;1.73
+8508017;Pizza portuguesa light;Miscelaneas;99;Nao se aplica;26.19;4.48;3.59;0.86;0.74;0.07;0.23;2.31;0.31
+8508101;Farofa pronta light em pacote;Miscelaneas;99;Nao se aplica;0;1.9;2.4;2.5;2.29;0.19;0;0;0
+8508301;Vaca atolada;Miscelaneas;99;Nao se aplica;42;6.06;6.45;0.58;0.38;0.17;0.68;0;0
+8508401;Salada ou verdura crua. exceto de fruta;Miscelaneas;99;Nao se aplica;0;0.03;0.03;0.08;0.08;0;0;2.62;0
+8508403;Outros legumes cozidos;Miscelaneas;99;Nao se aplica;0;0.03;0;0.07;0.06;0.01;0;2.16;0
+8509801;Cafe da manha;Miscelaneas;99;Nao se aplica;5.16;0.96;0.43;0.1;0.06;0.04;0.06;2.71;0
+8570101;Prato de comida brasileira;Miscelaneas;99;Nao se aplica;7;0.97;1.16;1.35;1.19;0.17;0.07;0.28;0
+8570102;Prato de comida do nordeste;Miscelaneas;99;Nao se aplica;7.61;0.81;0.93;0.64;0.55;0.09;0.07;0.29;0
+8570103;Prato de comida do norte;Miscelaneas;99;Nao se aplica;8.84;0.98;1.15;0.89;0.78;0.13;0.09;0.14;0
+8570104;Prato de comida do sudeste;Miscelaneas;99;Nao se aplica;18.29;1.68;2.03;0.99;0.85;0.15;0.17;0.61;0
+8570105;Prato de comida do sul;Miscelaneas;99;Nao se aplica;7;0.97;1.16;1.35;1.19;0.17;0.07;0.28;0
+8570106;Prato de comida do centrooeste;Miscelaneas;99;Nao se aplica;7.61;0.84;0.99;0.79;0.69;0.11;0.07;0.73;0
+8570107;Arroz com feijao;Miscelaneas;99;Nao se aplica;0;0.33;0.3;0.78;0.71;0.11;0;0.15;0
+8570328;Pao com manteiga;Miscelaneas;99;Nao se aplica;35.83;9.4;4.25;1.09;1.04;0.09;0.55;0.02;0
+8570329;Pao com margarina;Miscelaneas;99;Nao se aplica;0;3.62;7.3;4.07;3.82;0.28;4.31;0.15;0
+8570330;Pao com ovo;Miscelaneas;99;Nao se aplica;230.44;2.75;3.36;2.89;2.56;0.25;0.02;0.66;0
+8571110;Carne com batata. inhame. batatabaroa ou aipim ;Miscelaneas;99;Nao se aplica;37.5;3.31;4.13;1.91;1.62;0.27;0.36;0.43;0
+8571111;Carne com legumes (exceto batata. inhame e aipim);Miscelaneas;99;Nao se aplica;37.5;3.23;4.01;1.58;1.33;0.23;0.35;1.65;0
+8571112;Frango com batata. inhame batatabaroa ou aipim;Miscelaneas;99;Nao se aplica;42.5;1.08;1.4;2.09;1.78;0.21;0.06;0.43;0
+8571113;Frango com legumes (exceto batata. inhame e aipim);Miscelaneas;99;Nao se aplica;42.5;1;1.28;1.77;1.5;0.17;0.06;1.65;0
+8578404;Abobora com quiabo;Miscelaneas;99;Nao se aplica;0;0.04;0.02;0.03;0.02;0;0;2.78;0
+8579002;Arroz carreteiro;Miscelaneas;99;Nao se aplica;36;3.2;3;0.2;0.16;0.03;0;0;0
+8579003;Maria izabel;Miscelaneas;99;Nao se aplica;36;3.2;3;0.2;0.16;0.03;0;0;0
+8579004;Arroz de leite;Miscelaneas;99;Nao se aplica;2.74;1.05;0.99;1.89;1.65;0.24;0.05;1.47;0
+8579005;Arroz com mandioca;Miscelaneas;99;Nao se aplica;0;0.23;0.16;0.33;0.3;0.04;0;0;0
+8579006;Arroz com ovo;Miscelaneas;99;Nao se aplica;230.44;2.43;3.02;2.82;2.48;0.26;0.02;0.66;0
+8800109;Palma ;Miscelaneas;99;Nao se aplica;0;0.48;0.7;1.78;1.57;0.21;0.02;1.27;0
